@@ -1,0 +1,2901 @@
+year,county,flag_yr,race_ethnicity,households,percent
+2012.0,Alameda,FALSE,aian,305,0.5
+2012.0,Alameda,FALSE,asian,7205,11.6
+2012.0,Alameda,FALSE,black_african_american,25061,40.4
+2012.0,Alameda,FALSE,hawaiian_pacific_islander,856,1.4
+2012.0,Alameda,FALSE,white,12010,19.4
+2012.0,Alameda,FALSE,two_or_more_races,4,0.0
+2012.0,Alameda,FALSE,other,1,0.0
+2012.0,Alameda,FALSE,hispanic_white,48,0.1
+2012.0,Alameda,FALSE,hispanic_two_or_more_races,0,0.0
+2012.0,Alameda,FALSE,hispanic_other,16555,26.7
+2012.0,Alpine,FALSE,aian,48,57.1
+2012.0,Alpine,FALSE,asian,0,0.0
+2012.0,Alpine,FALSE,black_african_american,0,0.0
+2012.0,Alpine,FALSE,hawaiian_pacific_islander,1,1.2
+2012.0,Alpine,FALSE,white,34,40.5
+2012.0,Alpine,FALSE,two_or_more_races,0,0.0
+2012.0,Alpine,FALSE,other,0,0.0
+2012.0,Alpine,FALSE,hispanic_white,0,0.0
+2012.0,Alpine,FALSE,hispanic_two_or_more_races,0,0.0
+2012.0,Alpine,FALSE,hispanic_other,1,1.2
+2012.0,Amador,FALSE,aian,50,2.9
+2012.0,Amador,FALSE,asian,10,0.6
+2012.0,Amador,FALSE,black_african_american,10,0.6
+2012.0,Amador,FALSE,hawaiian_pacific_islander,1,0.1
+2012.0,Amador,FALSE,white,1447,84.3
+2012.0,Amador,FALSE,two_or_more_races,21,1.2
+2012.0,Amador,FALSE,other,43,2.5
+2012.0,Amador,FALSE,hispanic_white,83,4.8
+2012.0,Amador,FALSE,hispanic_two_or_more_races,1,0.1
+2012.0,Amador,FALSE,hispanic_other,51,3.0
+2012.0,Butte,FALSE,aian,346,2.5
+2012.0,Butte,FALSE,asian,710,5.1
+2012.0,Butte,FALSE,black_african_american,510,3.6
+2012.0,Butte,FALSE,hawaiian_pacific_islander,38,0.3
+2012.0,Butte,FALSE,white,10323,73.8
+2012.0,Butte,FALSE,two_or_more_races,174,1.2
+2012.0,Butte,FALSE,other,177,1.3
+2012.0,Butte,FALSE,hispanic_white,536,3.8
+2012.0,Butte,FALSE,hispanic_two_or_more_races,21,0.2
+2012.0,Butte,FALSE,hispanic_other,1153,8.2
+2012.0,Calaveras,FALSE,aian,44,1.7
+2012.0,Calaveras,FALSE,asian,20,0.8
+2012.0,Calaveras,FALSE,black_african_american,20,0.8
+2012.0,Calaveras,FALSE,hawaiian_pacific_islander,4,0.2
+2012.0,Calaveras,FALSE,white,2171,86.1
+2012.0,Calaveras,FALSE,two_or_more_races,16,0.6
+2012.0,Calaveras,FALSE,other,24,1.0
+2012.0,Calaveras,FALSE,hispanic_white,83,3.3
+2012.0,Calaveras,FALSE,hispanic_two_or_more_races,2,0.1
+2012.0,Calaveras,FALSE,hispanic_other,138,5.5
+2012.0,Colusa,FALSE,aian,18,2.6
+2012.0,Colusa,FALSE,asian,9,1.3
+2012.0,Colusa,FALSE,black_african_american,17,2.4
+2012.0,Colusa,FALSE,hawaiian_pacific_islander,3,0.4
+2012.0,Colusa,FALSE,white,272,38.8
+2012.0,Colusa,FALSE,two_or_more_races,7,1.0
+2012.0,Colusa,FALSE,other,15,2.1
+2012.0,Colusa,FALSE,hispanic_white,236,33.7
+2012.0,Colusa,FALSE,hispanic_two_or_more_races,3,0.4
+2012.0,Colusa,FALSE,hispanic_other,121,17.3
+2012.0,Contra Costa,FALSE,aian,218,0.7
+2012.0,Contra Costa,FALSE,asian,1694,5.1
+2012.0,Contra Costa,FALSE,black_african_american,10130,30.7
+2012.0,Contra Costa,FALSE,hawaiian_pacific_islander,291,0.9
+2012.0,Contra Costa,FALSE,white,9464,28.7
+2012.0,Contra Costa,FALSE,two_or_more_races,250,0.8
+2012.0,Contra Costa,FALSE,other,1053,3.2
+2012.0,Contra Costa,FALSE,hispanic_white,85,0.3
+2012.0,Contra Costa,FALSE,hispanic_two_or_more_races,50,0.2
+2012.0,Contra Costa,FALSE,hispanic_other,9742,29.5
+2012.0,Del Norte,FALSE,aian,328,12.5
+2012.0,Del Norte,FALSE,asian,133,5.1
+2012.0,Del Norte,FALSE,black_african_american,18,0.7
+2012.0,Del Norte,FALSE,hawaiian_pacific_islander,7,0.3
+2012.0,Del Norte,FALSE,white,1835,69.8
+2012.0,Del Norte,FALSE,two_or_more_races,34,1.3
+2012.0,Del Norte,FALSE,other,26,1.0
+2012.0,Del Norte,FALSE,hispanic_white,133,5.1
+2012.0,Del Norte,FALSE,hispanic_two_or_more_races,2,0.1
+2012.0,Del Norte,FALSE,hispanic_other,113,4.3
+2012.0,El Dorado,FALSE,aian,69,1.1
+2012.0,El Dorado,FALSE,asian,67,1.1
+2012.0,El Dorado,FALSE,black_african_american,73,1.2
+2012.0,El Dorado,FALSE,hawaiian_pacific_islander,11,0.2
+2012.0,El Dorado,FALSE,white,4693,77.2
+2012.0,El Dorado,FALSE,two_or_more_races,25,0.4
+2012.0,El Dorado,FALSE,other,406,6.7
+2012.0,El Dorado,FALSE,hispanic_white,196,3.2
+2012.0,El Dorado,FALSE,hispanic_two_or_more_races,4,0.1
+2012.0,El Dorado,FALSE,hispanic_other,537,8.8
+2012.0,Fresno,FALSE,aian,915,1.0
+2012.0,Fresno,FALSE,asian,5995,6.7
+2012.0,Fresno,FALSE,black_african_american,9675,10.9
+2012.0,Fresno,FALSE,hawaiian_pacific_islander,432,0.5
+2012.0,Fresno,FALSE,white,17388,19.6
+2012.0,Fresno,FALSE,two_or_more_races,290,0.3
+2012.0,Fresno,FALSE,other,1148,1.3
+2012.0,Fresno,FALSE,hispanic_white,3487,3.9
+2012.0,Fresno,FALSE,hispanic_two_or_more_races,35,0.0
+2012.0,Fresno,FALSE,hispanic_other,49485,55.7
+2012.0,Glenn,FALSE,aian,35,2.5
+2012.0,Glenn,FALSE,asian,60,4.3
+2012.0,Glenn,FALSE,black_african_american,27,1.9
+2012.0,Glenn,FALSE,hawaiian_pacific_islander,4,0.3
+2012.0,Glenn,FALSE,white,763,54.4
+2012.0,Glenn,FALSE,two_or_more_races,11,0.8
+2012.0,Glenn,FALSE,other,2,0.1
+2012.0,Glenn,FALSE,hispanic_white,479,34.2
+2012.0,Glenn,FALSE,hispanic_two_or_more_races,0,0.0
+2012.0,Glenn,FALSE,hispanic_other,21,1.5
+2012.0,Humboldt,FALSE,aian,882,10.9
+2012.0,Humboldt,FALSE,asian,200,2.5
+2012.0,Humboldt,FALSE,black_african_american,181,2.2
+2012.0,Humboldt,FALSE,hawaiian_pacific_islander,35,0.4
+2012.0,Humboldt,FALSE,white,5641,69.5
+2012.0,Humboldt,FALSE,two_or_more_races,168,2.1
+2012.0,Humboldt,FALSE,other,345,4.3
+2012.0,Humboldt,FALSE,hispanic_white,177,2.2
+2012.0,Humboldt,FALSE,hispanic_two_or_more_races,10,0.1
+2012.0,Humboldt,FALSE,hispanic_other,475,5.9
+2012.0,Imperial,FALSE,aian,134,1.0
+2012.0,Imperial,FALSE,asian,44,0.3
+2012.0,Imperial,FALSE,black_african_american,255,1.8
+2012.0,Imperial,FALSE,hawaiian_pacific_islander,6,0.0
+2012.0,Imperial,FALSE,white,1275,9.1
+2012.0,Imperial,FALSE,two_or_more_races,16,0.1
+2012.0,Imperial,FALSE,other,171,1.2
+2012.0,Imperial,FALSE,hispanic_white,11490,81.9
+2012.0,Imperial,FALSE,hispanic_two_or_more_races,27,0.2
+2012.0,Imperial,FALSE,hispanic_other,619,4.4
+2012.0,Inyo,FALSE,aian,223,23.3
+2012.0,Inyo,FALSE,asian,4,0.4
+2012.0,Inyo,FALSE,black_african_american,3,0.3
+2012.0,Inyo,FALSE,hawaiian_pacific_islander,3,0.3
+2012.0,Inyo,FALSE,white,507,53.0
+2012.0,Inyo,FALSE,two_or_more_races,15,1.6
+2012.0,Inyo,FALSE,other,7,0.7
+2012.0,Inyo,FALSE,hispanic_white,31,3.2
+2012.0,Inyo,FALSE,hispanic_two_or_more_races,0,0.0
+2012.0,Inyo,FALSE,hispanic_other,164,17.1
+2012.0,Kern,FALSE,aian,226,0.4
+2012.0,Kern,FALSE,asian,736,1.3
+2012.0,Kern,FALSE,black_african_american,6748,11.7
+2012.0,Kern,FALSE,hawaiian_pacific_islander,83,0.1
+2012.0,Kern,FALSE,white,17538,30.3
+2012.0,Kern,FALSE,two_or_more_races,212,0.4
+2012.0,Kern,FALSE,other,1066,1.8
+2012.0,Kern,FALSE,hispanic_white,16932,29.2
+2012.0,Kern,FALSE,hispanic_two_or_more_races,94,0.2
+2012.0,Kern,FALSE,hispanic_other,14280,24.7
+2012.0,Kings,FALSE,aian,33,0.3
+2012.0,Kings,FALSE,asian,213,2.2
+2012.0,Kings,FALSE,black_african_american,777,8.1
+2012.0,Kings,FALSE,hawaiian_pacific_islander,9,0.1
+2012.0,Kings,FALSE,white,2546,26.5
+2012.0,Kings,FALSE,two_or_more_races,15,0.2
+2012.0,Kings,FALSE,other,156,1.6
+2012.0,Kings,FALSE,hispanic_white,601,6.2
+2012.0,Kings,FALSE,hispanic_two_or_more_races,9,0.1
+2012.0,Kings,FALSE,hispanic_other,5265,54.7
+2012.0,Lake,FALSE,aian,133,2.6
+2012.0,Lake,FALSE,asian,36,0.7
+2012.0,Lake,FALSE,black_african_american,179,3.6
+2012.0,Lake,FALSE,hawaiian_pacific_islander,8,0.2
+2012.0,Lake,FALSE,white,3890,77.2
+2012.0,Lake,FALSE,two_or_more_races,43,0.9
+2012.0,Lake,FALSE,other,71,1.4
+2012.0,Lake,FALSE,hispanic_white,167,3.3
+2012.0,Lake,FALSE,hispanic_two_or_more_races,6,0.1
+2012.0,Lake,FALSE,hispanic_other,508,10.1
+2012.0,Lassen,FALSE,aian,78,5.6
+2012.0,Lassen,FALSE,asian,12,0.9
+2012.0,Lassen,FALSE,black_african_american,21,1.5
+2012.0,Lassen,FALSE,hawaiian_pacific_islander,16,1.2
+2012.0,Lassen,FALSE,white,1114,80.3
+2012.0,Lassen,FALSE,two_or_more_races,17,1.2
+2012.0,Lassen,FALSE,other,7,0.5
+2012.0,Lassen,FALSE,hispanic_white,35,2.5
+2012.0,Lassen,FALSE,hispanic_two_or_more_races,3,0.2
+2012.0,Lassen,FALSE,hispanic_other,84,6.1
+2012.0,Los Angeles,TRUE,aian,691,0.1
+2012.0,Los Angeles,TRUE,asian,16162,3.1
+2012.0,Los Angeles,TRUE,black_african_american,104530,20.2
+2012.0,Los Angeles,TRUE,hawaiian_pacific_islander,962,0.2
+2012.0,Los Angeles,TRUE,white,59552,11.5
+2012.0,Los Angeles,TRUE,two_or_more_races,3529,0.7
+2012.0,Los Angeles,TRUE,other,27491,5.3
+2012.0,Los Angeles,TRUE,hispanic_white,208397,40.3
+2012.0,Los Angeles,TRUE,hispanic_two_or_more_races,1770,0.3
+2012.0,Los Angeles,TRUE,hispanic_other,93900,18.2
+2012.0,Madera,FALSE,aian,95,0.9
+2012.0,Madera,FALSE,asian,81,0.8
+2012.0,Madera,FALSE,black_african_american,401,3.8
+2012.0,Madera,FALSE,hawaiian_pacific_islander,8,0.1
+2012.0,Madera,FALSE,white,2825,27.1
+2012.0,Madera,FALSE,two_or_more_races,22,0.2
+2012.0,Madera,FALSE,other,192,1.8
+2012.0,Madera,FALSE,hispanic_white,3071,29.4
+2012.0,Madera,FALSE,hispanic_two_or_more_races,28,0.3
+2012.0,Madera,FALSE,hispanic_other,3714,35.6
+2012.0,Marin,FALSE,aian,31,0.6
+2012.0,Marin,FALSE,asian,230,4.2
+2012.0,Marin,FALSE,black_african_american,712,12.8
+2012.0,Marin,FALSE,hawaiian_pacific_islander,20,0.4
+2012.0,Marin,FALSE,white,2651,47.8
+2012.0,Marin,FALSE,two_or_more_races,43,0.8
+2012.0,Marin,FALSE,other,59,1.1
+2012.0,Marin,FALSE,hispanic_white,1346,24.3
+2012.0,Marin,FALSE,hispanic_two_or_more_races,47,0.8
+2012.0,Marin,FALSE,hispanic_other,402,7.3
+2012.0,Mariposa,FALSE,aian,35,4.0
+2012.0,Mariposa,FALSE,asian,4,0.5
+2012.0,Mariposa,FALSE,black_african_american,3,0.3
+2012.0,Mariposa,FALSE,hawaiian_pacific_islander,0,0.0
+2012.0,Mariposa,FALSE,white,713,81.5
+2012.0,Mariposa,FALSE,two_or_more_races,34,3.9
+2012.0,Mariposa,FALSE,other,5,0.6
+2012.0,Mariposa,FALSE,hispanic_white,65,7.4
+2012.0,Mariposa,FALSE,hispanic_two_or_more_races,1,0.1
+2012.0,Mariposa,FALSE,hispanic_other,15,1.7
+2012.0,Mendocino,FALSE,aian,493,6.8
+2012.0,Mendocino,FALSE,asian,53,0.7
+2012.0,Mendocino,FALSE,black_african_american,124,1.7
+2012.0,Mendocino,FALSE,hawaiian_pacific_islander,13,0.2
+2012.0,Mendocino,FALSE,white,4976,68.7
+2012.0,Mendocino,FALSE,two_or_more_races,110,1.5
+2012.0,Mendocino,FALSE,other,114,1.6
+2012.0,Mendocino,FALSE,hispanic_white,392,5.4
+2012.0,Mendocino,FALSE,hispanic_two_or_more_races,14,0.2
+2012.0,Mendocino,FALSE,hispanic_other,953,13.2
+2012.0,Merced,FALSE,aian,96,0.4
+2012.0,Merced,FALSE,asian,1122,5.1
+2012.0,Merced,FALSE,black_african_american,1668,7.6
+2012.0,Merced,FALSE,hawaiian_pacific_islander,55,0.2
+2012.0,Merced,FALSE,white,5974,27.2
+2012.0,Merced,FALSE,two_or_more_races,87,0.4
+2012.0,Merced,FALSE,other,51,0.2
+2012.0,Merced,FALSE,hispanic_white,12350,56.1
+2012.0,Merced,FALSE,hispanic_two_or_more_races,38,0.2
+2012.0,Merced,FALSE,hispanic_other,562,2.6
+2012.0,Modoc,FALSE,aian,18,4.1
+2012.0,Modoc,FALSE,asian,2,0.5
+2012.0,Modoc,FALSE,black_african_american,2,0.5
+2012.0,Modoc,FALSE,hawaiian_pacific_islander,3,0.7
+2012.0,Modoc,FALSE,white,340,77.4
+2012.0,Modoc,FALSE,two_or_more_races,6,1.4
+2012.0,Modoc,FALSE,other,42,9.6
+2012.0,Modoc,FALSE,hispanic_white,8,1.8
+2012.0,Modoc,FALSE,hispanic_two_or_more_races,0,0.0
+2012.0,Modoc,FALSE,hispanic_other,18,4.1
+2012.0,Mono,FALSE,aian,15,3.4
+2012.0,Mono,FALSE,asian,7,1.6
+2012.0,Mono,FALSE,black_african_american,3,0.7
+2012.0,Mono,FALSE,hawaiian_pacific_islander,0,0.0
+2012.0,Mono,FALSE,white,287,64.2
+2012.0,Mono,FALSE,two_or_more_races,3,0.7
+2012.0,Mono,FALSE,other,3,0.7
+2012.0,Mono,FALSE,hispanic_white,109,24.4
+2012.0,Mono,FALSE,hispanic_two_or_more_races,1,0.2
+2012.0,Mono,FALSE,hispanic_other,19,4.3
+2012.0,Monterey,FALSE,aian,52,0.3
+2012.0,Monterey,FALSE,asian,398,2.1
+2012.0,Monterey,FALSE,black_african_american,791,4.1
+2012.0,Monterey,FALSE,hawaiian_pacific_islander,79,0.4
+2012.0,Monterey,FALSE,white,3238,16.8
+2012.0,Monterey,FALSE,two_or_more_races,44,0.2
+2012.0,Monterey,FALSE,other,543,2.8
+2012.0,Monterey,FALSE,hispanic_white,3483,18.0
+2012.0,Monterey,FALSE,hispanic_two_or_more_races,198,1.0
+2012.0,Monterey,FALSE,hispanic_other,10499,54.3
+2012.0,Napa,FALSE,aian,16,0.5
+2012.0,Napa,FALSE,asian,79,2.3
+2012.0,Napa,FALSE,black_african_american,94,2.7
+2012.0,Napa,FALSE,hawaiian_pacific_islander,17,0.5
+2012.0,Napa,FALSE,white,1466,42.5
+2012.0,Napa,FALSE,two_or_more_races,28,0.8
+2012.0,Napa,FALSE,other,33,1.0
+2012.0,Napa,FALSE,hispanic_white,1514,43.9
+2012.0,Napa,FALSE,hispanic_two_or_more_races,6,0.2
+2012.0,Napa,FALSE,hispanic_other,199,5.8
+2012.0,Nevada,FALSE,aian,43,1.2
+2012.0,Nevada,FALSE,asian,30,0.8
+2012.0,Nevada,FALSE,black_african_american,21,0.6
+2012.0,Nevada,FALSE,hawaiian_pacific_islander,5,0.1
+2012.0,Nevada,FALSE,white,3234,88.2
+2012.0,Nevada,FALSE,two_or_more_races,35,1.0
+2012.0,Nevada,FALSE,other,26,0.7
+2012.0,Nevada,FALSE,hispanic_white,223,6.1
+2012.0,Nevada,FALSE,hispanic_two_or_more_races,6,0.2
+2012.0,Nevada,FALSE,hispanic_other,44,1.2
+2012.0,Orange,FALSE,aian,395,0.4
+2012.0,Orange,FALSE,asian,11633,11.9
+2012.0,Orange,FALSE,black_african_american,3252,3.3
+2012.0,Orange,FALSE,hawaiian_pacific_islander,842,0.9
+2012.0,Orange,FALSE,white,25038,25.6
+2012.0,Orange,FALSE,two_or_more_races,173,0.2
+2012.0,Orange,FALSE,other,133,0.1
+2012.0,Orange,FALSE,hispanic_white,2284,2.3
+2012.0,Orange,FALSE,hispanic_two_or_more_races,18,0.0
+2012.0,Orange,FALSE,hispanic_other,54188,55.3
+2012.0,Placer,FALSE,aian,143,1.7
+2012.0,Placer,FALSE,asian,173,2.1
+2012.0,Placer,FALSE,black_african_american,261,3.2
+2012.0,Placer,FALSE,hawaiian_pacific_islander,79,1.0
+2012.0,Placer,FALSE,white,6260,76.1
+2012.0,Placer,FALSE,two_or_more_races,0,0.0
+2012.0,Placer,FALSE,other,0,0.0
+2012.0,Placer,FALSE,hispanic_white,0,0.0
+2012.0,Placer,FALSE,hispanic_two_or_more_races,0,0.0
+2012.0,Placer,FALSE,hispanic_other,1311,15.9
+2012.0,Plumas,FALSE,aian,19,2.5
+2012.0,Plumas,FALSE,asian,2,0.3
+2012.0,Plumas,FALSE,black_african_american,18,2.4
+2012.0,Plumas,FALSE,hawaiian_pacific_islander,0,0.0
+2012.0,Plumas,FALSE,white,645,85.3
+2012.0,Plumas,FALSE,two_or_more_races,15,2.0
+2012.0,Plumas,FALSE,other,16,2.1
+2012.0,Plumas,FALSE,hispanic_white,20,2.6
+2012.0,Plumas,FALSE,hispanic_two_or_more_races,1,0.1
+2012.0,Plumas,FALSE,hispanic_other,20,2.6
+2012.0,Riverside,FALSE,aian,406,0.4
+2012.0,Riverside,FALSE,asian,1936,1.8
+2012.0,Riverside,FALSE,black_african_american,13632,12.5
+2012.0,Riverside,FALSE,hawaiian_pacific_islander,374,0.3
+2012.0,Riverside,FALSE,white,30982,28.4
+2012.0,Riverside,FALSE,two_or_more_races,504,0.5
+2012.0,Riverside,FALSE,other,4140,3.8
+2012.0,Riverside,FALSE,hispanic_white,12933,11.8
+2012.0,Riverside,FALSE,hispanic_two_or_more_races,105,0.1
+2012.0,Riverside,FALSE,hispanic_other,44222,40.5
+2012.0,Sacramento,FALSE,aian,1720,1.9
+2012.0,Sacramento,FALSE,asian,5980,6.6
+2012.0,Sacramento,FALSE,black_african_american,24328,26.8
+2012.0,Sacramento,FALSE,hawaiian_pacific_islander,4177,4.6
+2012.0,Sacramento,FALSE,white,36566,40.2
+2012.0,Sacramento,FALSE,two_or_more_races,0,0.0
+2012.0,Sacramento,FALSE,other,0,0.0
+2012.0,Sacramento,FALSE,hispanic_white,15022,16.5
+2012.0,Sacramento,FALSE,hispanic_two_or_more_races,0,0.0
+2012.0,Sacramento,FALSE,hispanic_other,3063,3.4
+2012.0,San Benito,FALSE,aian,6,0.2
+2012.0,San Benito,FALSE,asian,19,0.7
+2012.0,San Benito,FALSE,black_african_american,18,0.7
+2012.0,San Benito,FALSE,hawaiian_pacific_islander,2,0.1
+2012.0,San Benito,FALSE,white,643,24.6
+2012.0,San Benito,FALSE,two_or_more_races,6,0.2
+2012.0,San Benito,FALSE,other,0,0.0
+2012.0,San Benito,FALSE,hispanic_white,1901,72.8
+2012.0,San Benito,FALSE,hispanic_two_or_more_races,5,0.2
+2012.0,San Benito,FALSE,hispanic_other,12,0.5
+2012.0,San Bernardino,FALSE,aian,648,0.4
+2012.0,San Bernardino,FALSE,asian,2730,1.8
+2012.0,San Bernardino,FALSE,black_african_american,26682,17.6
+2012.0,San Bernardino,FALSE,hawaiian_pacific_islander,596,0.4
+2012.0,San Bernardino,FALSE,white,38647,25.5
+2012.0,San Bernardino,FALSE,two_or_more_races,702,0.5
+2012.0,San Bernardino,FALSE,other,3892,2.6
+2012.0,San Bernardino,FALSE,hispanic_white,28582,18.8
+2012.0,San Bernardino,FALSE,hispanic_two_or_more_races,173,0.1
+2012.0,San Bernardino,FALSE,hispanic_other,48985,32.3
+2012.0,San Diego,FALSE,aian,775,0.7
+2012.0,San Diego,FALSE,asian,5196,4.6
+2012.0,San Diego,FALSE,black_african_american,15223,13.5
+2012.0,San Diego,FALSE,hawaiian_pacific_islander,1237,1.1
+2012.0,San Diego,FALSE,white,36903,32.8
+2012.0,San Diego,FALSE,two_or_more_races,197,0.2
+2012.0,San Diego,FALSE,other,1219,1.1
+2012.0,San Diego,FALSE,hispanic_white,3543,3.2
+2012.0,San Diego,FALSE,hispanic_two_or_more_races,56,0.0
+2012.0,San Diego,FALSE,hispanic_other,48012,42.7
+2012.0,San Francisco,FALSE,aian,295,0.9
+2012.0,San Francisco,FALSE,asian,7362,22.4
+2012.0,San Francisco,FALSE,black_african_american,8273,25.1
+2012.0,San Francisco,FALSE,hawaiian_pacific_islander,501,1.5
+2012.0,San Francisco,FALSE,white,7267,22.1
+2012.0,San Francisco,FALSE,two_or_more_races,0,0.0
+2012.0,San Francisco,FALSE,other,2699,8.2
+2012.0,San Francisco,FALSE,hispanic_white,0,0.0
+2012.0,San Francisco,FALSE,hispanic_two_or_more_races,0,0.0
+2012.0,San Francisco,FALSE,hispanic_other,6513,19.8
+2012.0,San Joaquin,FALSE,aian,234,0.5
+2012.0,San Joaquin,FALSE,asian,4700,10.7
+2012.0,San Joaquin,FALSE,black_african_american,7251,16.6
+2012.0,San Joaquin,FALSE,hawaiian_pacific_islander,211,0.5
+2012.0,San Joaquin,FALSE,white,11620,26.5
+2012.0,San Joaquin,FALSE,two_or_more_races,258,0.6
+2012.0,San Joaquin,FALSE,other,845,1.9
+2012.0,San Joaquin,FALSE,hispanic_white,7873,18.0
+2012.0,San Joaquin,FALSE,hispanic_two_or_more_races,200,0.5
+2012.0,San Joaquin,FALSE,hispanic_other,10598,24.2
+2012.0,San Luis Obispo,FALSE,aian,135,1.5
+2012.0,San Luis Obispo,FALSE,asian,147,1.7
+2012.0,San Luis Obispo,FALSE,black_african_american,144,1.6
+2012.0,San Luis Obispo,FALSE,hawaiian_pacific_islander,11,0.1
+2012.0,San Luis Obispo,FALSE,white,6145,69.1
+2012.0,San Luis Obispo,FALSE,two_or_more_races,0,0.0
+2012.0,San Luis Obispo,FALSE,other,0,0.0
+2012.0,San Luis Obispo,FALSE,hispanic_white,2259,25.4
+2012.0,San Luis Obispo,FALSE,hispanic_two_or_more_races,0,0.0
+2012.0,San Luis Obispo,FALSE,hispanic_other,58,0.7
+2012.0,San Mateo,TRUE,aian,181,1.3
+2012.0,San Mateo,TRUE,asian,4294,31.5
+2012.0,San Mateo,TRUE,black_african_american,2930,21.5
+2012.0,San Mateo,TRUE,hawaiian_pacific_islander,2168,15.9
+2012.0,San Mateo,TRUE,white,122,0.9
+2012.0,San Mateo,TRUE,two_or_more_races,0,0.0
+2012.0,San Mateo,TRUE,other,1,0.0
+2012.0,San Mateo,TRUE,hispanic_white,3916,28.8
+2012.0,San Mateo,TRUE,hispanic_two_or_more_races,0,0.0
+2012.0,San Mateo,TRUE,hispanic_other,0,0.0
+2012.0,Santa Barbara,FALSE,aian,73,0.5
+2012.0,Santa Barbara,FALSE,asian,152,1.1
+2012.0,Santa Barbara,FALSE,black_african_american,406,2.9
+2012.0,Santa Barbara,FALSE,hawaiian_pacific_islander,32,0.2
+2012.0,Santa Barbara,FALSE,white,3838,27.0
+2012.0,Santa Barbara,FALSE,two_or_more_races,29,0.2
+2012.0,Santa Barbara,FALSE,other,55,0.4
+2012.0,Santa Barbara,FALSE,hispanic_white,8414,59.3
+2012.0,Santa Barbara,FALSE,hispanic_two_or_more_races,9,0.1
+2012.0,Santa Barbara,FALSE,hispanic_other,1189,8.4
+2012.0,Santa Clara,FALSE,aian,660,1.3
+2012.0,Santa Clara,FALSE,asian,8956,18.3
+2012.0,Santa Clara,FALSE,black_african_american,3554,7.2
+2012.0,Santa Clara,FALSE,hawaiian_pacific_islander,329,0.7
+2012.0,Santa Clara,FALSE,white,10795,22.0
+2012.0,Santa Clara,FALSE,two_or_more_races,0,0.0
+2012.0,Santa Clara,FALSE,other,0,0.0
+2012.0,Santa Clara,FALSE,hispanic_white,0,0.0
+2012.0,Santa Clara,FALSE,hispanic_two_or_more_races,0,0.0
+2012.0,Santa Clara,FALSE,hispanic_other,24744,50.5
+2012.0,Santa Cruz,FALSE,aian,44,0.4
+2012.0,Santa Cruz,FALSE,asian,25,0.2
+2012.0,Santa Cruz,FALSE,black_african_american,18,0.2
+2012.0,Santa Cruz,FALSE,hawaiian_pacific_islander,21,0.2
+2012.0,Santa Cruz,FALSE,white,478,4.4
+2012.0,Santa Cruz,FALSE,two_or_more_races,30,0.3
+2012.0,Santa Cruz,FALSE,other,5150,46.9
+2012.0,Santa Cruz,FALSE,hispanic_white,4394,40.0
+2012.0,Santa Cruz,FALSE,hispanic_two_or_more_races,178,1.6
+2012.0,Santa Cruz,FALSE,hispanic_other,646,5.9
+2012.0,Shasta,FALSE,aian,462,3.7
+2012.0,Shasta,FALSE,asian,279,2.2
+2012.0,Shasta,FALSE,black_african_american,215,1.7
+2012.0,Shasta,FALSE,hawaiian_pacific_islander,26,0.2
+2012.0,Shasta,FALSE,white,9993,80.3
+2012.0,Shasta,FALSE,two_or_more_races,187,1.5
+2012.0,Shasta,FALSE,other,472,3.8
+2012.0,Shasta,FALSE,hispanic_white,326,2.6
+2012.0,Shasta,FALSE,hispanic_two_or_more_races,15,0.1
+2012.0,Shasta,FALSE,hispanic_other,470,3.8
+2012.0,Sierra,FALSE,aian,3,1.9
+2012.0,Sierra,FALSE,asian,0,0.0
+2012.0,Sierra,FALSE,black_african_american,0,0.0
+2012.0,Sierra,FALSE,hawaiian_pacific_islander,1,0.6
+2012.0,Sierra,FALSE,white,143,91.7
+2012.0,Sierra,FALSE,two_or_more_races,0,0.0
+2012.0,Sierra,FALSE,other,0,0.0
+2012.0,Sierra,FALSE,hispanic_white,2,1.3
+2012.0,Sierra,FALSE,hispanic_two_or_more_races,0,0.0
+2012.0,Sierra,FALSE,hispanic_other,7,4.5
+2012.0,Siskiyou,FALSE,aian,186,6.8
+2012.0,Siskiyou,FALSE,asian,39,1.4
+2012.0,Siskiyou,FALSE,black_african_american,63,2.3
+2012.0,Siskiyou,FALSE,hawaiian_pacific_islander,7,0.3
+2012.0,Siskiyou,FALSE,white,2112,77.7
+2012.0,Siskiyou,FALSE,two_or_more_races,48,1.8
+2012.0,Siskiyou,FALSE,other,43,1.6
+2012.0,Siskiyou,FALSE,hispanic_white,60,2.2
+2012.0,Siskiyou,FALSE,hispanic_two_or_more_races,5,0.2
+2012.0,Siskiyou,FALSE,hispanic_other,156,5.7
+2012.0,Solano,FALSE,aian,204,1.0
+2012.0,Solano,FALSE,asian,1246,6.2
+2012.0,Solano,FALSE,black_african_american,6902,34.6
+2012.0,Solano,FALSE,hawaiian_pacific_islander,351,1.8
+2012.0,Solano,FALSE,white,5882,29.5
+2012.0,Solano,FALSE,two_or_more_races,215,1.1
+2012.0,Solano,FALSE,other,82,0.4
+2012.0,Solano,FALSE,hispanic_white,515,2.6
+2012.0,Solano,FALSE,hispanic_two_or_more_races,33,0.2
+2012.0,Solano,FALSE,hispanic_other,4524,22.7
+2012.0,Sonoma,FALSE,aian,441,2.4
+2012.0,Sonoma,FALSE,asian,395,2.1
+2012.0,Sonoma,FALSE,black_african_american,733,4.0
+2012.0,Sonoma,FALSE,hawaiian_pacific_islander,129,0.7
+2012.0,Sonoma,FALSE,white,10055,54.7
+2012.0,Sonoma,FALSE,two_or_more_races,0,0.0
+2012.0,Sonoma,FALSE,other,101,0.5
+2012.0,Sonoma,FALSE,hispanic_white,462,2.5
+2012.0,Sonoma,FALSE,hispanic_two_or_more_races,0,0.0
+2012.0,Sonoma,FALSE,hispanic_other,6074,33.0
+2012.0,Stanislaus,FALSE,aian,153,0.4
+2012.0,Stanislaus,FALSE,asian,1412,3.5
+2012.0,Stanislaus,FALSE,black_african_american,2249,5.6
+2012.0,Stanislaus,FALSE,hawaiian_pacific_islander,218,0.5
+2012.0,Stanislaus,FALSE,white,17330,43.3
+2012.0,Stanislaus,FALSE,two_or_more_races,204,0.5
+2012.0,Stanislaus,FALSE,other,1094,2.7
+2012.0,Stanislaus,FALSE,hispanic_white,6870,17.2
+2012.0,Stanislaus,FALSE,hispanic_two_or_more_races,29,0.1
+2012.0,Stanislaus,FALSE,hispanic_other,10477,26.2
+2012.0,Sutter,FALSE,aian,67,1.4
+2012.0,Sutter,FALSE,asian,240,4.8
+2012.0,Sutter,FALSE,black_african_american,183,3.7
+2012.0,Sutter,FALSE,hawaiian_pacific_islander,11,0.2
+2012.0,Sutter,FALSE,white,2633,53.1
+2012.0,Sutter,FALSE,two_or_more_races,57,1.1
+2012.0,Sutter,FALSE,other,70,1.4
+2012.0,Sutter,FALSE,hispanic_white,543,10.9
+2012.0,Sutter,FALSE,hispanic_two_or_more_races,42,0.8
+2012.0,Sutter,FALSE,hispanic_other,1115,22.5
+2012.0,Tehama,FALSE,aian,84,2.0
+2012.0,Tehama,FALSE,asian,30,0.7
+2012.0,Tehama,FALSE,black_african_american,34,0.8
+2012.0,Tehama,FALSE,hawaiian_pacific_islander,12,0.3
+2012.0,Tehama,FALSE,white,3109,73.7
+2012.0,Tehama,FALSE,two_or_more_races,51,1.2
+2012.0,Tehama,FALSE,other,81,1.9
+2012.0,Tehama,FALSE,hispanic_white,92,2.2
+2012.0,Tehama,FALSE,hispanic_two_or_more_races,5,0.1
+2012.0,Tehama,FALSE,hispanic_other,721,17.1
+2012.0,Trinity,FALSE,aian,40,5.2
+2012.0,Trinity,FALSE,asian,0,0.0
+2012.0,Trinity,FALSE,black_african_american,4,0.5
+2012.0,Trinity,FALSE,hawaiian_pacific_islander,1,0.1
+2012.0,Trinity,FALSE,white,653,84.1
+2012.0,Trinity,FALSE,two_or_more_races,18,2.3
+2012.0,Trinity,FALSE,other,24,3.1
+2012.0,Trinity,FALSE,hispanic_white,20,2.6
+2012.0,Trinity,FALSE,hispanic_two_or_more_races,0,0.0
+2012.0,Trinity,FALSE,hispanic_other,16,2.1
+2012.0,Tulare,FALSE,aian,139,0.3
+2012.0,Tulare,FALSE,asian,503,1.1
+2012.0,Tulare,FALSE,black_african_american,715,1.6
+2012.0,Tulare,FALSE,hawaiian_pacific_islander,31,0.1
+2012.0,Tulare,FALSE,white,8205,18.4
+2012.0,Tulare,FALSE,two_or_more_races,997,2.2
+2012.0,Tulare,FALSE,other,283,0.6
+2012.0,Tulare,FALSE,hispanic_white,30784,69.1
+2012.0,Tulare,FALSE,hispanic_two_or_more_races,1658,3.7
+2012.0,Tulare,FALSE,hispanic_other,1262,2.8
+2012.0,Tuolumne,FALSE,aian,43,1.6
+2012.0,Tuolumne,FALSE,asian,17,0.6
+2012.0,Tuolumne,FALSE,black_african_american,19,0.7
+2012.0,Tuolumne,FALSE,hawaiian_pacific_islander,7,0.3
+2012.0,Tuolumne,FALSE,white,2410,87.5
+2012.0,Tuolumne,FALSE,two_or_more_races,32,1.2
+2012.0,Tuolumne,FALSE,other,27,1.0
+2012.0,Tuolumne,FALSE,hispanic_white,129,4.7
+2012.0,Tuolumne,FALSE,hispanic_two_or_more_races,7,0.3
+2012.0,Tuolumne,FALSE,hispanic_other,64,2.3
+2012.0,Ventura,FALSE,aian,163,0.5
+2012.0,Ventura,FALSE,asian,561,1.8
+2012.0,Ventura,FALSE,black_african_american,1095,3.5
+2012.0,Ventura,FALSE,hawaiian_pacific_islander,122,0.4
+2012.0,Ventura,FALSE,white,10520,33.6
+2012.0,Ventura,FALSE,two_or_more_races,0,0.0
+2012.0,Ventura,FALSE,other,0,0.0
+2012.0,Ventura,FALSE,hispanic_white,0,0.0
+2012.0,Ventura,FALSE,hispanic_two_or_more_races,0,0.0
+2012.0,Ventura,FALSE,hispanic_other,18823,60.2
+2012.0,Yolo,FALSE,aian,187,2.4
+2012.0,Yolo,FALSE,asian,407,5.3
+2012.0,Yolo,FALSE,black_african_american,552,7.1
+2012.0,Yolo,FALSE,hawaiian_pacific_islander,17,0.2
+2012.0,Yolo,FALSE,white,3577,46.3
+2012.0,Yolo,FALSE,two_or_more_races,0,0.0
+2012.0,Yolo,FALSE,other,0,0.0
+2012.0,Yolo,FALSE,hispanic_white,2985,38.6
+2012.0,Yolo,FALSE,hispanic_two_or_more_races,0,0.0
+2012.0,Yolo,FALSE,hispanic_other,0,0.0
+2012.0,Yuba,FALSE,aian,118,2.0
+2012.0,Yuba,FALSE,asian,370,6.4
+2012.0,Yuba,FALSE,black_african_american,267,4.6
+2012.0,Yuba,FALSE,hawaiian_pacific_islander,24,0.4
+2012.0,Yuba,FALSE,white,3596,62.3
+2012.0,Yuba,FALSE,two_or_more_races,92,1.6
+2012.0,Yuba,FALSE,other,88,1.5
+2012.0,Yuba,FALSE,hispanic_white,348,6.0
+2012.0,Yuba,FALSE,hispanic_two_or_more_races,12,0.2
+2012.0,Yuba,FALSE,hispanic_other,861,14.9
+2013.0,Alameda,FALSE,aian,341,0.5
+2013.0,Alameda,FALSE,asian,7644,12.2
+2013.0,Alameda,FALSE,black_african_american,24588,39.1
+2013.0,Alameda,FALSE,hawaiian_pacific_islander,889,1.4
+2013.0,Alameda,FALSE,white,12305,19.6
+2013.0,Alameda,FALSE,two_or_more_races,4,0.0
+2013.0,Alameda,FALSE,other,3,0.0
+2013.0,Alameda,FALSE,hispanic_white,88,0.1
+2013.0,Alameda,FALSE,hispanic_two_or_more_races,0,0.0
+2013.0,Alameda,FALSE,hispanic_other,17013,27.1
+2013.0,Alpine,FALSE,aian,57,62.6
+2013.0,Alpine,FALSE,asian,0,0.0
+2013.0,Alpine,FALSE,black_african_american,1,1.1
+2013.0,Alpine,FALSE,hawaiian_pacific_islander,0,0.0
+2013.0,Alpine,FALSE,white,30,33.0
+2013.0,Alpine,FALSE,two_or_more_races,0,0.0
+2013.0,Alpine,FALSE,other,0,0.0
+2013.0,Alpine,FALSE,hispanic_white,0,0.0
+2013.0,Alpine,FALSE,hispanic_two_or_more_races,0,0.0
+2013.0,Alpine,FALSE,hispanic_other,3,3.3
+2013.0,Amador,FALSE,aian,44,2.6
+2013.0,Amador,FALSE,asian,8,0.5
+2013.0,Amador,FALSE,black_african_american,8,0.5
+2013.0,Amador,FALSE,hawaiian_pacific_islander,2,0.1
+2013.0,Amador,FALSE,white,1408,83.6
+2013.0,Amador,FALSE,two_or_more_races,24,1.4
+2013.0,Amador,FALSE,other,51,3.0
+2013.0,Amador,FALSE,hispanic_white,78,4.6
+2013.0,Amador,FALSE,hispanic_two_or_more_races,2,0.1
+2013.0,Amador,FALSE,hispanic_other,60,3.6
+2013.0,Butte,FALSE,aian,333,2.3
+2013.0,Butte,FALSE,asian,688,4.7
+2013.0,Butte,FALSE,black_african_american,548,3.7
+2013.0,Butte,FALSE,hawaiian_pacific_islander,47,0.3
+2013.0,Butte,FALSE,white,10845,73.6
+2013.0,Butte,FALSE,two_or_more_races,215,1.5
+2013.0,Butte,FALSE,other,239,1.6
+2013.0,Butte,FALSE,hispanic_white,634,4.3
+2013.0,Butte,FALSE,hispanic_two_or_more_races,25,0.2
+2013.0,Butte,FALSE,hispanic_other,1159,7.9
+2013.0,Calaveras,FALSE,aian,45,1.7
+2013.0,Calaveras,FALSE,asian,21,0.8
+2013.0,Calaveras,FALSE,black_african_american,24,0.9
+2013.0,Calaveras,FALSE,hawaiian_pacific_islander,8,0.3
+2013.0,Calaveras,FALSE,white,2192,85.1
+2013.0,Calaveras,FALSE,two_or_more_races,20,0.8
+2013.0,Calaveras,FALSE,other,26,1.0
+2013.0,Calaveras,FALSE,hispanic_white,85,3.3
+2013.0,Calaveras,FALSE,hispanic_two_or_more_races,2,0.1
+2013.0,Calaveras,FALSE,hispanic_other,153,5.9
+2013.0,Colusa,FALSE,aian,25,3.5
+2013.0,Colusa,FALSE,asian,9,1.3
+2013.0,Colusa,FALSE,black_african_american,16,2.2
+2013.0,Colusa,FALSE,hawaiian_pacific_islander,2,0.3
+2013.0,Colusa,FALSE,white,274,38.4
+2013.0,Colusa,FALSE,two_or_more_races,4,0.6
+2013.0,Colusa,FALSE,other,21,2.9
+2013.0,Colusa,FALSE,hispanic_white,225,31.6
+2013.0,Colusa,FALSE,hispanic_two_or_more_races,2,0.3
+2013.0,Colusa,FALSE,hispanic_other,135,18.9
+2013.0,Contra Costa,TRUE,aian,252,0.8
+2013.0,Contra Costa,TRUE,asian,1775,5.4
+2013.0,Contra Costa,TRUE,black_african_american,10202,31.2
+2013.0,Contra Costa,TRUE,hawaiian_pacific_islander,339,1.0
+2013.0,Contra Costa,TRUE,white,9172,28.0
+2013.0,Contra Costa,TRUE,two_or_more_races,159,0.5
+2013.0,Contra Costa,TRUE,other,1259,3.8
+2013.0,Contra Costa,TRUE,hispanic_white,78,0.2
+2013.0,Contra Costa,TRUE,hispanic_two_or_more_races,36,0.1
+2013.0,Contra Costa,TRUE,hispanic_other,9458,28.9
+2013.0,Del Norte,FALSE,aian,311,12.3
+2013.0,Del Norte,FALSE,asian,126,5.0
+2013.0,Del Norte,FALSE,black_african_american,11,0.4
+2013.0,Del Norte,FALSE,hawaiian_pacific_islander,8,0.3
+2013.0,Del Norte,FALSE,white,1749,69.3
+2013.0,Del Norte,FALSE,two_or_more_races,45,1.8
+2013.0,Del Norte,FALSE,other,43,1.7
+2013.0,Del Norte,FALSE,hispanic_white,119,4.7
+2013.0,Del Norte,FALSE,hispanic_two_or_more_races,0,0.0
+2013.0,Del Norte,FALSE,hispanic_other,113,4.5
+2013.0,El Dorado,FALSE,aian,63,1.0
+2013.0,El Dorado,FALSE,asian,84,1.3
+2013.0,El Dorado,FALSE,black_african_american,81,1.3
+2013.0,El Dorado,FALSE,hawaiian_pacific_islander,12,0.2
+2013.0,El Dorado,FALSE,white,4816,75.3
+2013.0,El Dorado,FALSE,two_or_more_races,47,0.7
+2013.0,El Dorado,FALSE,other,519,8.1
+2013.0,El Dorado,FALSE,hispanic_white,201,3.1
+2013.0,El Dorado,FALSE,hispanic_two_or_more_races,8,0.1
+2013.0,El Dorado,FALSE,hispanic_other,566,8.8
+2013.0,Fresno,FALSE,aian,1406,1.5
+2013.0,Fresno,FALSE,asian,8011,8.8
+2013.0,Fresno,FALSE,black_african_american,11372,12.5
+2013.0,Fresno,FALSE,hawaiian_pacific_islander,585,0.6
+2013.0,Fresno,FALSE,white,27296,30.1
+2013.0,Fresno,FALSE,two_or_more_races,0,0.0
+2013.0,Fresno,FALSE,other,5,0.0
+2013.0,Fresno,FALSE,hispanic_white,0,0.0
+2013.0,Fresno,FALSE,hispanic_two_or_more_races,0,0.0
+2013.0,Fresno,FALSE,hispanic_other,42108,46.4
+2013.0,Glenn,FALSE,aian,46,3.2
+2013.0,Glenn,FALSE,asian,58,4.1
+2013.0,Glenn,FALSE,black_african_american,26,1.8
+2013.0,Glenn,FALSE,hawaiian_pacific_islander,3,0.2
+2013.0,Glenn,FALSE,white,785,54.9
+2013.0,Glenn,FALSE,two_or_more_races,8,0.6
+2013.0,Glenn,FALSE,other,2,0.1
+2013.0,Glenn,FALSE,hispanic_white,489,34.2
+2013.0,Glenn,FALSE,hispanic_two_or_more_races,2,0.1
+2013.0,Glenn,FALSE,hispanic_other,12,0.8
+2013.0,Humboldt,FALSE,aian,910,10.3
+2013.0,Humboldt,FALSE,asian,233,2.6
+2013.0,Humboldt,FALSE,black_african_american,183,2.1
+2013.0,Humboldt,FALSE,hawaiian_pacific_islander,32,0.4
+2013.0,Humboldt,FALSE,white,6061,68.8
+2013.0,Humboldt,FALSE,two_or_more_races,207,2.3
+2013.0,Humboldt,FALSE,other,428,4.9
+2013.0,Humboldt,FALSE,hispanic_white,199,2.3
+2013.0,Humboldt,FALSE,hispanic_two_or_more_races,13,0.1
+2013.0,Humboldt,FALSE,hispanic_other,546,6.2
+2013.0,Imperial,FALSE,aian,151,1.0
+2013.0,Imperial,FALSE,asian,54,0.4
+2013.0,Imperial,FALSE,black_african_american,265,1.8
+2013.0,Imperial,FALSE,hawaiian_pacific_islander,8,0.1
+2013.0,Imperial,FALSE,white,1328,9.1
+2013.0,Imperial,FALSE,two_or_more_races,19,0.1
+2013.0,Imperial,FALSE,other,218,1.5
+2013.0,Imperial,FALSE,hispanic_white,11862,81.7
+2013.0,Imperial,FALSE,hispanic_two_or_more_races,27,0.2
+2013.0,Imperial,FALSE,hispanic_other,586,4.0
+2013.0,Inyo,FALSE,aian,267,25.2
+2013.0,Inyo,FALSE,asian,5,0.5
+2013.0,Inyo,FALSE,black_african_american,5,0.5
+2013.0,Inyo,FALSE,hawaiian_pacific_islander,6,0.6
+2013.0,Inyo,FALSE,white,547,51.7
+2013.0,Inyo,FALSE,two_or_more_races,20,1.9
+2013.0,Inyo,FALSE,other,4,0.4
+2013.0,Inyo,FALSE,hispanic_white,40,3.8
+2013.0,Inyo,FALSE,hispanic_two_or_more_races,1,0.1
+2013.0,Inyo,FALSE,hispanic_other,163,15.4
+2013.0,Kern,FALSE,aian,264,0.4
+2013.0,Kern,FALSE,asian,817,1.4
+2013.0,Kern,FALSE,black_african_american,6945,11.6
+2013.0,Kern,FALSE,hawaiian_pacific_islander,83,0.1
+2013.0,Kern,FALSE,white,18288,30.7
+2013.0,Kern,FALSE,two_or_more_races,272,0.5
+2013.0,Kern,FALSE,other,1038,1.7
+2013.0,Kern,FALSE,hispanic_white,17813,29.9
+2013.0,Kern,FALSE,hispanic_two_or_more_races,118,0.2
+2013.0,Kern,FALSE,hispanic_other,13985,23.5
+2013.0,Kings,FALSE,aian,35,0.4
+2013.0,Kings,FALSE,asian,201,2.0
+2013.0,Kings,FALSE,black_african_american,803,8.1
+2013.0,Kings,FALSE,hawaiian_pacific_islander,17,0.2
+2013.0,Kings,FALSE,white,2553,25.6
+2013.0,Kings,FALSE,two_or_more_races,18,0.2
+2013.0,Kings,FALSE,other,273,2.7
+2013.0,Kings,FALSE,hispanic_white,612,6.1
+2013.0,Kings,FALSE,hispanic_two_or_more_races,11,0.1
+2013.0,Kings,FALSE,hispanic_other,5433,54.6
+2013.0,Lake,FALSE,aian,135,2.6
+2013.0,Lake,FALSE,asian,35,0.7
+2013.0,Lake,FALSE,black_african_american,169,3.2
+2013.0,Lake,FALSE,hawaiian_pacific_islander,11,0.2
+2013.0,Lake,FALSE,white,3996,76.4
+2013.0,Lake,FALSE,two_or_more_races,49,0.9
+2013.0,Lake,FALSE,other,120,2.3
+2013.0,Lake,FALSE,hispanic_white,157,3.0
+2013.0,Lake,FALSE,hispanic_two_or_more_races,5,0.1
+2013.0,Lake,FALSE,hispanic_other,550,10.5
+2013.0,Lassen,FALSE,aian,70,4.9
+2013.0,Lassen,FALSE,asian,11,0.8
+2013.0,Lassen,FALSE,black_african_american,27,1.9
+2013.0,Lassen,FALSE,hawaiian_pacific_islander,17,1.2
+2013.0,Lassen,FALSE,white,1126,79.0
+2013.0,Lassen,FALSE,two_or_more_races,16,1.1
+2013.0,Lassen,FALSE,other,16,1.1
+2013.0,Lassen,FALSE,hispanic_white,49,3.4
+2013.0,Lassen,FALSE,hispanic_two_or_more_races,3,0.2
+2013.0,Lassen,FALSE,hispanic_other,91,6.4
+2013.0,Los Angeles,FALSE,aian,771,0.1
+2013.0,Los Angeles,FALSE,asian,17305,3.1
+2013.0,Los Angeles,FALSE,black_african_american,110459,19.8
+2013.0,Los Angeles,FALSE,hawaiian_pacific_islander,1055,0.2
+2013.0,Los Angeles,FALSE,white,65161,11.7
+2013.0,Los Angeles,FALSE,two_or_more_races,4182,0.8
+2013.0,Los Angeles,FALSE,other,30858,5.5
+2013.0,Los Angeles,FALSE,hispanic_white,225699,40.5
+2013.0,Los Angeles,FALSE,hispanic_two_or_more_races,1868,0.3
+2013.0,Los Angeles,FALSE,hispanic_other,100212,18.0
+2013.0,Madera,FALSE,aian,102,1.0
+2013.0,Madera,FALSE,asian,80,0.8
+2013.0,Madera,FALSE,black_african_american,423,4.0
+2013.0,Madera,FALSE,hawaiian_pacific_islander,6,0.1
+2013.0,Madera,FALSE,white,2935,27.7
+2013.0,Madera,FALSE,two_or_more_races,21,0.2
+2013.0,Madera,FALSE,other,229,2.2
+2013.0,Madera,FALSE,hispanic_white,3154,29.7
+2013.0,Madera,FALSE,hispanic_two_or_more_races,29,0.3
+2013.0,Madera,FALSE,hispanic_other,3629,34.2
+2013.0,Marin,FALSE,aian,31,0.5
+2013.0,Marin,FALSE,asian,248,4.3
+2013.0,Marin,FALSE,black_african_american,675,11.7
+2013.0,Marin,FALSE,hawaiian_pacific_islander,18,0.3
+2013.0,Marin,FALSE,white,2642,45.9
+2013.0,Marin,FALSE,two_or_more_races,47,0.8
+2013.0,Marin,FALSE,other,62,1.1
+2013.0,Marin,FALSE,hispanic_white,1530,26.6
+2013.0,Marin,FALSE,hispanic_two_or_more_races,46,0.8
+2013.0,Marin,FALSE,hispanic_other,463,8.0
+2013.0,Mariposa,FALSE,aian,40,4.3
+2013.0,Mariposa,FALSE,asian,5,0.5
+2013.0,Mariposa,FALSE,black_african_american,5,0.5
+2013.0,Mariposa,FALSE,hawaiian_pacific_islander,2,0.2
+2013.0,Mariposa,FALSE,white,750,81.5
+2013.0,Mariposa,FALSE,two_or_more_races,30,3.3
+2013.0,Mariposa,FALSE,other,3,0.3
+2013.0,Mariposa,FALSE,hispanic_white,66,7.2
+2013.0,Mariposa,FALSE,hispanic_two_or_more_races,1,0.1
+2013.0,Mariposa,FALSE,hispanic_other,18,2.0
+2013.0,Mendocino,FALSE,aian,485,7.0
+2013.0,Mendocino,FALSE,asian,55,0.8
+2013.0,Mendocino,FALSE,black_african_american,119,1.7
+2013.0,Mendocino,FALSE,hawaiian_pacific_islander,12,0.2
+2013.0,Mendocino,FALSE,white,4707,68.0
+2013.0,Mendocino,FALSE,two_or_more_races,95,1.4
+2013.0,Mendocino,FALSE,other,156,2.3
+2013.0,Mendocino,FALSE,hispanic_white,358,5.2
+2013.0,Mendocino,FALSE,hispanic_two_or_more_races,15,0.2
+2013.0,Mendocino,FALSE,hispanic_other,921,13.3
+2013.0,Merced,FALSE,aian,91,0.4
+2013.0,Merced,FALSE,asian,1175,5.1
+2013.0,Merced,FALSE,black_african_american,1657,7.2
+2013.0,Merced,FALSE,hawaiian_pacific_islander,69,0.3
+2013.0,Merced,FALSE,white,6153,26.8
+2013.0,Merced,FALSE,two_or_more_races,117,0.5
+2013.0,Merced,FALSE,other,69,0.3
+2013.0,Merced,FALSE,hispanic_white,12969,56.5
+2013.0,Merced,FALSE,hispanic_two_or_more_races,42,0.2
+2013.0,Merced,FALSE,hispanic_other,614,2.7
+2013.0,Modoc,FALSE,aian,16,3.9
+2013.0,Modoc,FALSE,asian,2,0.5
+2013.0,Modoc,FALSE,black_african_american,1,0.2
+2013.0,Modoc,FALSE,hawaiian_pacific_islander,1,0.2
+2013.0,Modoc,FALSE,white,322,77.6
+2013.0,Modoc,FALSE,two_or_more_races,7,1.7
+2013.0,Modoc,FALSE,other,7,1.7
+2013.0,Modoc,FALSE,hispanic_white,9,2.2
+2013.0,Modoc,FALSE,hispanic_two_or_more_races,0,0.0
+2013.0,Modoc,FALSE,hispanic_other,50,12.0
+2013.0,Mono,FALSE,aian,23,5.8
+2013.0,Mono,FALSE,asian,5,1.2
+2013.0,Mono,FALSE,black_african_american,4,1.0
+2013.0,Mono,FALSE,hawaiian_pacific_islander,1,0.2
+2013.0,Mono,FALSE,white,257,64.2
+2013.0,Mono,FALSE,two_or_more_races,5,1.2
+2013.0,Mono,FALSE,other,4,1.0
+2013.0,Mono,FALSE,hispanic_white,85,21.2
+2013.0,Mono,FALSE,hispanic_two_or_more_races,1,0.2
+2013.0,Mono,FALSE,hispanic_other,15,3.8
+2013.0,Monterey,FALSE,aian,51,0.3
+2013.0,Monterey,FALSE,asian,450,2.2
+2013.0,Monterey,FALSE,black_african_american,821,4.1
+2013.0,Monterey,FALSE,hawaiian_pacific_islander,82,0.4
+2013.0,Monterey,FALSE,white,3476,17.2
+2013.0,Monterey,FALSE,two_or_more_races,59,0.3
+2013.0,Monterey,FALSE,other,678,3.4
+2013.0,Monterey,FALSE,hispanic_white,3318,16.4
+2013.0,Monterey,FALSE,hispanic_two_or_more_races,166,0.8
+2013.0,Monterey,FALSE,hispanic_other,11112,55.0
+2013.0,Napa,FALSE,aian,11,0.3
+2013.0,Napa,FALSE,asian,73,2.3
+2013.0,Napa,FALSE,black_african_american,78,2.4
+2013.0,Napa,FALSE,hawaiian_pacific_islander,9,0.3
+2013.0,Napa,FALSE,white,1368,42.8
+2013.0,Napa,FALSE,two_or_more_races,27,0.8
+2013.0,Napa,FALSE,other,23,0.7
+2013.0,Napa,FALSE,hispanic_white,1481,46.4
+2013.0,Napa,FALSE,hispanic_two_or_more_races,6,0.2
+2013.0,Napa,FALSE,hispanic_other,117,3.7
+2013.0,Nevada,FALSE,aian,45,1.2
+2013.0,Nevada,FALSE,asian,34,0.9
+2013.0,Nevada,FALSE,black_african_american,20,0.5
+2013.0,Nevada,FALSE,hawaiian_pacific_islander,6,0.2
+2013.0,Nevada,FALSE,white,3415,87.6
+2013.0,Nevada,FALSE,two_or_more_races,42,1.1
+2013.0,Nevada,FALSE,other,43,1.1
+2013.0,Nevada,FALSE,hispanic_white,238,6.1
+2013.0,Nevada,FALSE,hispanic_two_or_more_races,6,0.2
+2013.0,Nevada,FALSE,hispanic_other,49,1.3
+2013.0,Orange,FALSE,aian,400,0.4
+2013.0,Orange,FALSE,asian,12776,12.1
+2013.0,Orange,FALSE,black_african_american,3553,3.4
+2013.0,Orange,FALSE,hawaiian_pacific_islander,1012,1.0
+2013.0,Orange,FALSE,white,27353,25.8
+2013.0,Orange,FALSE,two_or_more_races,56,0.1
+2013.0,Orange,FALSE,other,61,0.1
+2013.0,Orange,FALSE,hispanic_white,2878,2.7
+2013.0,Orange,FALSE,hispanic_two_or_more_races,9,0.0
+2013.0,Orange,FALSE,hispanic_other,57726,54.5
+2013.0,Placer,FALSE,aian,132,1.6
+2013.0,Placer,FALSE,asian,269,3.2
+2013.0,Placer,FALSE,black_african_american,272,3.2
+2013.0,Placer,FALSE,hawaiian_pacific_islander,20,0.2
+2013.0,Placer,FALSE,white,6467,76.3
+2013.0,Placer,FALSE,two_or_more_races,0,0.0
+2013.0,Placer,FALSE,other,1320,15.6
+2013.0,Placer,FALSE,hispanic_white,0,0.0
+2013.0,Placer,FALSE,hispanic_two_or_more_races,0,0.0
+2013.0,Placer,FALSE,hispanic_other,0,0.0
+2013.0,Plumas,FALSE,aian,26,3.4
+2013.0,Plumas,FALSE,asian,4,0.5
+2013.0,Plumas,FALSE,black_african_american,27,3.5
+2013.0,Plumas,FALSE,hawaiian_pacific_islander,0,0.0
+2013.0,Plumas,FALSE,white,626,81.0
+2013.0,Plumas,FALSE,two_or_more_races,12,1.6
+2013.0,Plumas,FALSE,other,30,3.9
+2013.0,Plumas,FALSE,hispanic_white,19,2.5
+2013.0,Plumas,FALSE,hispanic_two_or_more_races,1,0.1
+2013.0,Plumas,FALSE,hispanic_other,28,3.6
+2013.0,Riverside,FALSE,aian,440,0.4
+2013.0,Riverside,FALSE,asian,2118,1.8
+2013.0,Riverside,FALSE,black_african_american,14278,12.3
+2013.0,Riverside,FALSE,hawaiian_pacific_islander,413,0.4
+2013.0,Riverside,FALSE,white,32652,28.2
+2013.0,Riverside,FALSE,two_or_more_races,614,0.5
+2013.0,Riverside,FALSE,other,5011,4.3
+2013.0,Riverside,FALSE,hispanic_white,14992,12.9
+2013.0,Riverside,FALSE,hispanic_two_or_more_races,127,0.1
+2013.0,Riverside,FALSE,hispanic_other,45155,39.0
+2013.0,Sacramento,FALSE,aian,1881,2.0
+2013.0,Sacramento,FALSE,asian,6433,6.8
+2013.0,Sacramento,FALSE,black_african_american,25309,26.7
+2013.0,Sacramento,FALSE,hawaiian_pacific_islander,4365,4.6
+2013.0,Sacramento,FALSE,white,38621,40.7
+2013.0,Sacramento,FALSE,two_or_more_races,0,0.0
+2013.0,Sacramento,FALSE,other,0,0.0
+2013.0,Sacramento,FALSE,hispanic_white,16023,16.9
+2013.0,Sacramento,FALSE,hispanic_two_or_more_races,0,0.0
+2013.0,Sacramento,FALSE,hispanic_other,2192,2.3
+2013.0,San Benito,FALSE,aian,7,0.3
+2013.0,San Benito,FALSE,asian,20,0.7
+2013.0,San Benito,FALSE,black_african_american,15,0.6
+2013.0,San Benito,FALSE,hawaiian_pacific_islander,3,0.1
+2013.0,San Benito,FALSE,white,634,23.6
+2013.0,San Benito,FALSE,two_or_more_races,9,0.3
+2013.0,San Benito,FALSE,other,5,0.2
+2013.0,San Benito,FALSE,hispanic_white,1745,65.0
+2013.0,San Benito,FALSE,hispanic_two_or_more_races,7,0.3
+2013.0,San Benito,FALSE,hispanic_other,239,8.9
+2013.0,San Bernardino,FALSE,aian,629,0.4
+2013.0,San Bernardino,FALSE,asian,2874,1.8
+2013.0,San Bernardino,FALSE,black_african_american,27496,17.2
+2013.0,San Bernardino,FALSE,hawaiian_pacific_islander,619,0.4
+2013.0,San Bernardino,FALSE,white,40273,25.2
+2013.0,San Bernardino,FALSE,two_or_more_races,789,0.5
+2013.0,San Bernardino,FALSE,other,4822,3.0
+2013.0,San Bernardino,FALSE,hispanic_white,33140,20.7
+2013.0,San Bernardino,FALSE,hispanic_two_or_more_races,221,0.1
+2013.0,San Bernardino,FALSE,hispanic_other,48874,30.6
+2013.0,San Diego,FALSE,aian,913,0.7
+2013.0,San Diego,FALSE,asian,5519,4.5
+2013.0,San Diego,FALSE,black_african_american,16419,13.4
+2013.0,San Diego,FALSE,hawaiian_pacific_islander,1455,1.2
+2013.0,San Diego,FALSE,white,42132,34.4
+2013.0,San Diego,FALSE,two_or_more_races,264,0.2
+2013.0,San Diego,FALSE,other,1100,0.9
+2013.0,San Diego,FALSE,hispanic_white,5015,4.1
+2013.0,San Diego,FALSE,hispanic_two_or_more_races,69,0.1
+2013.0,San Diego,FALSE,hispanic_other,49675,40.5
+2013.0,San Francisco,FALSE,aian,287,0.9
+2013.0,San Francisco,FALSE,asian,7640,23.8
+2013.0,San Francisco,FALSE,black_african_american,7878,24.5
+2013.0,San Francisco,FALSE,hawaiian_pacific_islander,463,1.4
+2013.0,San Francisco,FALSE,white,6818,21.2
+2013.0,San Francisco,FALSE,two_or_more_races,0,0.0
+2013.0,San Francisco,FALSE,other,2570,8.0
+2013.0,San Francisco,FALSE,hispanic_white,0,0.0
+2013.0,San Francisco,FALSE,hispanic_two_or_more_races,0,0.0
+2013.0,San Francisco,FALSE,hispanic_other,6440,20.1
+2013.0,San Joaquin,FALSE,aian,252,0.5
+2013.0,San Joaquin,FALSE,asian,5093,10.8
+2013.0,San Joaquin,FALSE,black_african_american,7637,16.3
+2013.0,San Joaquin,FALSE,hawaiian_pacific_islander,259,0.6
+2013.0,San Joaquin,FALSE,white,12325,26.2
+2013.0,San Joaquin,FALSE,two_or_more_races,319,0.7
+2013.0,San Joaquin,FALSE,other,1208,2.6
+2013.0,San Joaquin,FALSE,hispanic_white,8108,17.3
+2013.0,San Joaquin,FALSE,hispanic_two_or_more_races,225,0.5
+2013.0,San Joaquin,FALSE,hispanic_other,11538,24.6
+2013.0,San Luis Obispo,FALSE,aian,132,1.5
+2013.0,San Luis Obispo,FALSE,asian,154,1.7
+2013.0,San Luis Obispo,FALSE,black_african_american,169,1.9
+2013.0,San Luis Obispo,FALSE,hawaiian_pacific_islander,17,0.2
+2013.0,San Luis Obispo,FALSE,white,6155,69.1
+2013.0,San Luis Obispo,FALSE,two_or_more_races,0,0.0
+2013.0,San Luis Obispo,FALSE,other,0,0.0
+2013.0,San Luis Obispo,FALSE,hispanic_white,2228,25.0
+2013.0,San Luis Obispo,FALSE,hispanic_two_or_more_races,0,0.0
+2013.0,San Luis Obispo,FALSE,hispanic_other,52,0.6
+2013.0,San Mateo,FALSE,aian,115,0.8
+2013.0,San Mateo,FALSE,asian,4295,29.6
+2013.0,San Mateo,FALSE,black_african_american,2831,19.5
+2013.0,San Mateo,FALSE,hawaiian_pacific_islander,1196,8.3
+2013.0,San Mateo,FALSE,white,302,2.1
+2013.0,San Mateo,FALSE,two_or_more_races,0,0.0
+2013.0,San Mateo,FALSE,other,4,0.0
+2013.0,San Mateo,FALSE,hispanic_white,5750,39.7
+2013.0,San Mateo,FALSE,hispanic_two_or_more_races,0,0.0
+2013.0,San Mateo,FALSE,hispanic_other,0,0.0
+2013.0,Santa Barbara,FALSE,aian,76,0.5
+2013.0,Santa Barbara,FALSE,asian,148,1.0
+2013.0,Santa Barbara,FALSE,black_african_american,424,3.0
+2013.0,Santa Barbara,FALSE,hawaiian_pacific_islander,32,0.2
+2013.0,Santa Barbara,FALSE,white,3814,26.6
+2013.0,Santa Barbara,FALSE,two_or_more_races,58,0.4
+2013.0,Santa Barbara,FALSE,other,21,0.1
+2013.0,Santa Barbara,FALSE,hispanic_white,8683,60.5
+2013.0,Santa Barbara,FALSE,hispanic_two_or_more_races,24,0.2
+2013.0,Santa Barbara,FALSE,hispanic_other,1064,7.4
+2013.0,Santa Clara,FALSE,aian,766,1.5
+2013.0,Santa Clara,FALSE,asian,10069,19.3
+2013.0,Santa Clara,FALSE,black_african_american,3781,7.2
+2013.0,Santa Clara,FALSE,hawaiian_pacific_islander,348,0.7
+2013.0,Santa Clara,FALSE,white,12494,23.9
+2013.0,Santa Clara,FALSE,two_or_more_races,0,0.0
+2013.0,Santa Clara,FALSE,other,0,0.0
+2013.0,Santa Clara,FALSE,hispanic_white,0,0.0
+2013.0,Santa Clara,FALSE,hispanic_two_or_more_races,0,0.0
+2013.0,Santa Clara,FALSE,hispanic_other,24838,47.5
+2013.0,Santa Cruz,FALSE,aian,44,0.4
+2013.0,Santa Cruz,FALSE,asian,29,0.2
+2013.0,Santa Cruz,FALSE,black_african_american,16,0.1
+2013.0,Santa Cruz,FALSE,hawaiian_pacific_islander,75,0.6
+2013.0,Santa Cruz,FALSE,white,661,5.7
+2013.0,Santa Cruz,FALSE,two_or_more_races,36,0.3
+2013.0,Santa Cruz,FALSE,other,5177,44.5
+2013.0,Santa Cruz,FALSE,hispanic_white,4610,39.6
+2013.0,Santa Cruz,FALSE,hispanic_two_or_more_races,161,1.4
+2013.0,Santa Cruz,FALSE,hispanic_other,832,7.1
+2013.0,Shasta,FALSE,aian,413,3.5
+2013.0,Shasta,FALSE,asian,262,2.2
+2013.0,Shasta,FALSE,black_african_american,207,1.7
+2013.0,Shasta,FALSE,hawaiian_pacific_islander,26,0.2
+2013.0,Shasta,FALSE,white,9619,80.8
+2013.0,Shasta,FALSE,two_or_more_races,226,1.9
+2013.0,Shasta,FALSE,other,387,3.2
+2013.0,Shasta,FALSE,hispanic_white,333,2.8
+2013.0,Shasta,FALSE,hispanic_two_or_more_races,23,0.2
+2013.0,Shasta,FALSE,hispanic_other,415,3.5
+2013.0,Sierra,FALSE,aian,2,1.3
+2013.0,Sierra,FALSE,asian,0,0.0
+2013.0,Sierra,FALSE,black_african_american,0,0.0
+2013.0,Sierra,FALSE,hawaiian_pacific_islander,0,0.0
+2013.0,Sierra,FALSE,white,142,91.0
+2013.0,Sierra,FALSE,two_or_more_races,1,0.6
+2013.0,Sierra,FALSE,other,1,0.6
+2013.0,Sierra,FALSE,hispanic_white,4,2.6
+2013.0,Sierra,FALSE,hispanic_two_or_more_races,0,0.0
+2013.0,Sierra,FALSE,hispanic_other,6,3.8
+2013.0,Siskiyou,FALSE,aian,181,6.2
+2013.0,Siskiyou,FALSE,asian,46,1.6
+2013.0,Siskiyou,FALSE,black_african_american,74,2.6
+2013.0,Siskiyou,FALSE,hawaiian_pacific_islander,4,0.1
+2013.0,Siskiyou,FALSE,white,2199,75.8
+2013.0,Siskiyou,FALSE,two_or_more_races,66,2.3
+2013.0,Siskiyou,FALSE,other,81,2.8
+2013.0,Siskiyou,FALSE,hispanic_white,80,2.8
+2013.0,Siskiyou,FALSE,hispanic_two_or_more_races,5,0.2
+2013.0,Siskiyou,FALSE,hispanic_other,164,5.7
+2013.0,Solano,FALSE,aian,212,1.0
+2013.0,Solano,FALSE,asian,1380,6.6
+2013.0,Solano,FALSE,black_african_american,7044,33.9
+2013.0,Solano,FALSE,hawaiian_pacific_islander,345,1.7
+2013.0,Solano,FALSE,white,6070,29.2
+2013.0,Solano,FALSE,two_or_more_races,292,1.4
+2013.0,Solano,FALSE,other,174,0.8
+2013.0,Solano,FALSE,hispanic_white,630,3.0
+2013.0,Solano,FALSE,hispanic_two_or_more_races,50,0.2
+2013.0,Solano,FALSE,hispanic_other,4585,22.1
+2013.0,Sonoma,FALSE,aian,445,2.4
+2013.0,Sonoma,FALSE,asian,407,2.2
+2013.0,Sonoma,FALSE,black_african_american,768,4.1
+2013.0,Sonoma,FALSE,hawaiian_pacific_islander,142,0.8
+2013.0,Sonoma,FALSE,white,10397,55.6
+2013.0,Sonoma,FALSE,two_or_more_races,0,0.0
+2013.0,Sonoma,FALSE,other,85,0.5
+2013.0,Sonoma,FALSE,hispanic_white,483,2.6
+2013.0,Sonoma,FALSE,hispanic_two_or_more_races,0,0.0
+2013.0,Sonoma,FALSE,hispanic_other,5959,31.9
+2013.0,Stanislaus,FALSE,aian,150,0.4
+2013.0,Stanislaus,FALSE,asian,1511,3.6
+2013.0,Stanislaus,FALSE,black_african_american,2328,5.6
+2013.0,Stanislaus,FALSE,hawaiian_pacific_islander,225,0.5
+2013.0,Stanislaus,FALSE,white,17752,42.7
+2013.0,Stanislaus,FALSE,two_or_more_races,254,0.6
+2013.0,Stanislaus,FALSE,other,1080,2.6
+2013.0,Stanislaus,FALSE,hispanic_white,8443,20.3
+2013.0,Stanislaus,FALSE,hispanic_two_or_more_races,35,0.1
+2013.0,Stanislaus,FALSE,hispanic_other,9761,23.5
+2013.0,Sutter,FALSE,aian,58,1.1
+2013.0,Sutter,FALSE,asian,250,4.8
+2013.0,Sutter,FALSE,black_african_american,199,3.8
+2013.0,Sutter,FALSE,hawaiian_pacific_islander,16,0.3
+2013.0,Sutter,FALSE,white,2754,52.8
+2013.0,Sutter,FALSE,two_or_more_races,64,1.2
+2013.0,Sutter,FALSE,other,97,1.9
+2013.0,Sutter,FALSE,hispanic_white,517,9.9
+2013.0,Sutter,FALSE,hispanic_two_or_more_races,42,0.8
+2013.0,Sutter,FALSE,hispanic_other,1218,23.4
+2013.0,Tehama,FALSE,aian,95,2.2
+2013.0,Tehama,FALSE,asian,38,0.9
+2013.0,Tehama,FALSE,black_african_american,48,1.1
+2013.0,Tehama,FALSE,hawaiian_pacific_islander,8,0.2
+2013.0,Tehama,FALSE,white,3131,72.5
+2013.0,Tehama,FALSE,two_or_more_races,46,1.1
+2013.0,Tehama,FALSE,other,100,2.3
+2013.0,Tehama,FALSE,hispanic_white,114,2.6
+2013.0,Tehama,FALSE,hispanic_two_or_more_races,3,0.1
+2013.0,Tehama,FALSE,hispanic_other,737,17.1
+2013.0,Trinity,FALSE,aian,40,5.2
+2013.0,Trinity,FALSE,asian,3,0.4
+2013.0,Trinity,FALSE,black_african_american,3,0.4
+2013.0,Trinity,FALSE,hawaiian_pacific_islander,1,0.1
+2013.0,Trinity,FALSE,white,618,81.1
+2013.0,Trinity,FALSE,two_or_more_races,24,3.1
+2013.0,Trinity,FALSE,other,35,4.6
+2013.0,Trinity,FALSE,hispanic_white,15,2.0
+2013.0,Trinity,FALSE,hispanic_two_or_more_races,1,0.1
+2013.0,Trinity,FALSE,hispanic_other,22,2.9
+2013.0,Tulare,FALSE,aian,170,0.4
+2013.0,Tulare,FALSE,asian,557,1.2
+2013.0,Tulare,FALSE,black_african_american,748,1.6
+2013.0,Tulare,FALSE,hawaiian_pacific_islander,14,0.0
+2013.0,Tulare,FALSE,white,8371,18.0
+2013.0,Tulare,FALSE,two_or_more_races,1173,2.5
+2013.0,Tulare,FALSE,other,382,0.8
+2013.0,Tulare,FALSE,hispanic_white,31810,68.5
+2013.0,Tulare,FALSE,hispanic_two_or_more_races,1680,3.6
+2013.0,Tulare,FALSE,hispanic_other,1566,3.4
+2013.0,Tuolumne,FALSE,aian,43,1.5
+2013.0,Tuolumne,FALSE,asian,15,0.5
+2013.0,Tuolumne,FALSE,black_african_american,25,0.9
+2013.0,Tuolumne,FALSE,hawaiian_pacific_islander,10,0.4
+2013.0,Tuolumne,FALSE,white,2413,85.3
+2013.0,Tuolumne,FALSE,two_or_more_races,44,1.6
+2013.0,Tuolumne,FALSE,other,36,1.3
+2013.0,Tuolumne,FALSE,hispanic_white,160,5.7
+2013.0,Tuolumne,FALSE,hispanic_two_or_more_races,10,0.4
+2013.0,Tuolumne,FALSE,hispanic_other,72,2.5
+2013.0,Ventura,FALSE,aian,240,0.7
+2013.0,Ventura,FALSE,asian,528,1.6
+2013.0,Ventura,FALSE,black_african_american,1020,3.2
+2013.0,Ventura,FALSE,hawaiian_pacific_islander,331,1.0
+2013.0,Ventura,FALSE,white,11009,34.2
+2013.0,Ventura,FALSE,two_or_more_races,0,0.0
+2013.0,Ventura,FALSE,other,29,0.1
+2013.0,Ventura,FALSE,hispanic_white,0,0.0
+2013.0,Ventura,FALSE,hispanic_two_or_more_races,0,0.0
+2013.0,Ventura,FALSE,hispanic_other,19075,59.2
+2013.0,Yolo,FALSE,aian,158,2.0
+2013.0,Yolo,FALSE,asian,314,4.0
+2013.0,Yolo,FALSE,black_african_american,585,7.5
+2013.0,Yolo,FALSE,hawaiian_pacific_islander,154,2.0
+2013.0,Yolo,FALSE,white,3723,47.4
+2013.0,Yolo,FALSE,two_or_more_races,0,0.0
+2013.0,Yolo,FALSE,other,0,0.0
+2013.0,Yolo,FALSE,hispanic_white,2916,37.1
+2013.0,Yolo,FALSE,hispanic_two_or_more_races,0,0.0
+2013.0,Yolo,FALSE,hispanic_other,0,0.0
+2013.0,Yuba,FALSE,aian,112,1.9
+2013.0,Yuba,FALSE,asian,338,5.9
+2013.0,Yuba,FALSE,black_african_american,245,4.3
+2013.0,Yuba,FALSE,hawaiian_pacific_islander,23,0.4
+2013.0,Yuba,FALSE,white,3583,62.3
+2013.0,Yuba,FALSE,two_or_more_races,109,1.9
+2013.0,Yuba,FALSE,other,115,2.0
+2013.0,Yuba,FALSE,hispanic_white,346,6.0
+2013.0,Yuba,FALSE,hispanic_two_or_more_races,18,0.3
+2013.0,Yuba,FALSE,hispanic_other,860,15.0
+2014.0,Alameda,FALSE,aian,327,0.5
+2014.0,Alameda,FALSE,asian,8898,13.9
+2014.0,Alameda,FALSE,black_african_american,22867,35.7
+2014.0,Alameda,FALSE,hawaiian_pacific_islander,804,1.3
+2014.0,Alameda,FALSE,white,13950,21.8
+2014.0,Alameda,FALSE,two_or_more_races,3,0.0
+2014.0,Alameda,FALSE,other,9,0.0
+2014.0,Alameda,FALSE,hispanic_white,137,0.2
+2014.0,Alameda,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,Alameda,FALSE,hispanic_other,17025,26.6
+2014.0,Alpine,FALSE,aian,61,53.5
+2014.0,Alpine,FALSE,asian,0,0.0
+2014.0,Alpine,FALSE,black_african_american,0,0.0
+2014.0,Alpine,FALSE,hawaiian_pacific_islander,0,0.0
+2014.0,Alpine,FALSE,white,49,43.0
+2014.0,Alpine,FALSE,two_or_more_races,0,0.0
+2014.0,Alpine,FALSE,other,0,0.0
+2014.0,Alpine,FALSE,hispanic_white,2,1.8
+2014.0,Alpine,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,Alpine,FALSE,hispanic_other,2,1.8
+2014.0,Amador,FALSE,aian,39,2.2
+2014.0,Amador,FALSE,asian,11,0.6
+2014.0,Amador,FALSE,black_african_american,13,0.7
+2014.0,Amador,FALSE,hawaiian_pacific_islander,3,0.2
+2014.0,Amador,FALSE,white,1466,82.8
+2014.0,Amador,FALSE,two_or_more_races,26,1.5
+2014.0,Amador,FALSE,other,60,3.4
+2014.0,Amador,FALSE,hispanic_white,80,4.5
+2014.0,Amador,FALSE,hispanic_two_or_more_races,2,0.1
+2014.0,Amador,FALSE,hispanic_other,70,4.0
+2014.0,Butte,FALSE,aian,338,2.2
+2014.0,Butte,FALSE,asian,726,4.7
+2014.0,Butte,FALSE,black_african_american,573,3.7
+2014.0,Butte,FALSE,hawaiian_pacific_islander,53,0.3
+2014.0,Butte,FALSE,white,11222,72.1
+2014.0,Butte,FALSE,two_or_more_races,323,2.1
+2014.0,Butte,FALSE,other,291,1.9
+2014.0,Butte,FALSE,hispanic_white,673,4.3
+2014.0,Butte,FALSE,hispanic_two_or_more_races,35,0.2
+2014.0,Butte,FALSE,hispanic_other,1337,8.6
+2014.0,Calaveras,FALSE,aian,56,2.0
+2014.0,Calaveras,FALSE,asian,26,0.9
+2014.0,Calaveras,FALSE,black_african_american,15,0.5
+2014.0,Calaveras,FALSE,hawaiian_pacific_islander,7,0.3
+2014.0,Calaveras,FALSE,white,2365,85.4
+2014.0,Calaveras,FALSE,two_or_more_races,21,0.8
+2014.0,Calaveras,FALSE,other,35,1.3
+2014.0,Calaveras,FALSE,hispanic_white,99,3.6
+2014.0,Calaveras,FALSE,hispanic_two_or_more_races,5,0.2
+2014.0,Calaveras,FALSE,hispanic_other,139,5.0
+2014.0,Colusa,FALSE,aian,17,2.3
+2014.0,Colusa,FALSE,asian,6,0.8
+2014.0,Colusa,FALSE,black_african_american,11,1.5
+2014.0,Colusa,FALSE,hawaiian_pacific_islander,2,0.3
+2014.0,Colusa,FALSE,white,293,40.4
+2014.0,Colusa,FALSE,two_or_more_races,6,0.8
+2014.0,Colusa,FALSE,other,30,4.1
+2014.0,Colusa,FALSE,hispanic_white,197,27.2
+2014.0,Colusa,FALSE,hispanic_two_or_more_races,2,0.3
+2014.0,Colusa,FALSE,hispanic_other,161,22.2
+2014.0,Contra Costa,FALSE,aian,213,0.6
+2014.0,Contra Costa,FALSE,asian,1934,5.5
+2014.0,Contra Costa,FALSE,black_african_american,10581,30.0
+2014.0,Contra Costa,FALSE,hawaiian_pacific_islander,338,1.0
+2014.0,Contra Costa,FALSE,white,9618,27.3
+2014.0,Contra Costa,FALSE,two_or_more_races,275,0.8
+2014.0,Contra Costa,FALSE,other,1838,5.2
+2014.0,Contra Costa,FALSE,hispanic_white,126,0.4
+2014.0,Contra Costa,FALSE,hispanic_two_or_more_races,55,0.2
+2014.0,Contra Costa,FALSE,hispanic_other,10302,29.2
+2014.0,Del Norte,FALSE,aian,315,12.4
+2014.0,Del Norte,FALSE,asian,126,5.0
+2014.0,Del Norte,FALSE,black_african_american,14,0.6
+2014.0,Del Norte,FALSE,hawaiian_pacific_islander,8,0.3
+2014.0,Del Norte,FALSE,white,1729,67.9
+2014.0,Del Norte,FALSE,two_or_more_races,59,2.3
+2014.0,Del Norte,FALSE,other,47,1.8
+2014.0,Del Norte,FALSE,hispanic_white,109,4.3
+2014.0,Del Norte,FALSE,hispanic_two_or_more_races,3,0.1
+2014.0,Del Norte,FALSE,hispanic_other,135,5.3
+2014.0,El Dorado,FALSE,aian,76,1.1
+2014.0,El Dorado,FALSE,asian,89,1.3
+2014.0,El Dorado,FALSE,black_african_american,73,1.1
+2014.0,El Dorado,FALSE,hawaiian_pacific_islander,28,0.4
+2014.0,El Dorado,FALSE,white,5131,74.7
+2014.0,El Dorado,FALSE,two_or_more_races,58,0.8
+2014.0,El Dorado,FALSE,other,583,8.5
+2014.0,El Dorado,FALSE,hispanic_white,216,3.1
+2014.0,El Dorado,FALSE,hispanic_two_or_more_races,2,0.0
+2014.0,El Dorado,FALSE,hispanic_other,615,9.0
+2014.0,Fresno,FALSE,aian,1035,1.1
+2014.0,Fresno,FALSE,asian,5976,6.3
+2014.0,Fresno,FALSE,black_african_american,10019,10.6
+2014.0,Fresno,FALSE,hawaiian_pacific_islander,1310,1.4
+2014.0,Fresno,FALSE,white,24293,25.8
+2014.0,Fresno,FALSE,two_or_more_races,0,0.0
+2014.0,Fresno,FALSE,other,6,0.0
+2014.0,Fresno,FALSE,hispanic_white,0,0.0
+2014.0,Fresno,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,Fresno,FALSE,hispanic_other,51646,54.8
+2014.0,Glenn,FALSE,aian,41,2.7
+2014.0,Glenn,FALSE,asian,63,4.1
+2014.0,Glenn,FALSE,black_african_american,18,1.2
+2014.0,Glenn,FALSE,hawaiian_pacific_islander,2,0.1
+2014.0,Glenn,FALSE,white,820,53.7
+2014.0,Glenn,FALSE,two_or_more_races,11,0.7
+2014.0,Glenn,FALSE,other,18,1.2
+2014.0,Glenn,FALSE,hispanic_white,234,15.3
+2014.0,Glenn,FALSE,hispanic_two_or_more_races,2,0.1
+2014.0,Glenn,FALSE,hispanic_other,317,20.8
+2014.0,Humboldt,FALSE,aian,1006,9.5
+2014.0,Humboldt,FALSE,asian,283,2.7
+2014.0,Humboldt,FALSE,black_african_american,242,2.3
+2014.0,Humboldt,FALSE,hawaiian_pacific_islander,62,0.6
+2014.0,Humboldt,FALSE,white,7086,67.2
+2014.0,Humboldt,FALSE,two_or_more_races,315,3.0
+2014.0,Humboldt,FALSE,other,549,5.2
+2014.0,Humboldt,FALSE,hispanic_white,252,2.4
+2014.0,Humboldt,FALSE,hispanic_two_or_more_races,29,0.3
+2014.0,Humboldt,FALSE,hispanic_other,727,6.9
+2014.0,Imperial,FALSE,aian,169,1.1
+2014.0,Imperial,FALSE,asian,63,0.4
+2014.0,Imperial,FALSE,black_african_american,293,1.8
+2014.0,Imperial,FALSE,hawaiian_pacific_islander,17,0.1
+2014.0,Imperial,FALSE,white,1380,8.7
+2014.0,Imperial,FALSE,two_or_more_races,33,0.2
+2014.0,Imperial,FALSE,other,242,1.5
+2014.0,Imperial,FALSE,hispanic_white,10906,68.4
+2014.0,Imperial,FALSE,hispanic_two_or_more_races,31,0.2
+2014.0,Imperial,FALSE,hispanic_other,2802,17.6
+2014.0,Inyo,FALSE,aian,266,24.9
+2014.0,Inyo,FALSE,asian,5,0.5
+2014.0,Inyo,FALSE,black_african_american,4,0.4
+2014.0,Inyo,FALSE,hawaiian_pacific_islander,2,0.2
+2014.0,Inyo,FALSE,white,569,53.3
+2014.0,Inyo,FALSE,two_or_more_races,19,1.8
+2014.0,Inyo,FALSE,other,5,0.5
+2014.0,Inyo,FALSE,hispanic_white,42,3.9
+2014.0,Inyo,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,Inyo,FALSE,hispanic_other,156,14.6
+2014.0,Kern,FALSE,aian,263,0.4
+2014.0,Kern,FALSE,asian,951,1.5
+2014.0,Kern,FALSE,black_african_american,7030,11.4
+2014.0,Kern,FALSE,hawaiian_pacific_islander,118,0.2
+2014.0,Kern,FALSE,white,19074,30.8
+2014.0,Kern,FALSE,two_or_more_races,313,0.5
+2014.0,Kern,FALSE,other,1197,1.9
+2014.0,Kern,FALSE,hispanic_white,16427,26.5
+2014.0,Kern,FALSE,hispanic_two_or_more_races,120,0.2
+2014.0,Kern,FALSE,hispanic_other,16425,26.5
+2014.0,Kings,FALSE,aian,36,0.4
+2014.0,Kings,FALSE,asian,190,1.9
+2014.0,Kings,FALSE,black_african_american,803,7.9
+2014.0,Kings,FALSE,hawaiian_pacific_islander,26,0.3
+2014.0,Kings,FALSE,white,2564,25.1
+2014.0,Kings,FALSE,two_or_more_races,28,0.3
+2014.0,Kings,FALSE,other,304,3.0
+2014.0,Kings,FALSE,hispanic_white,661,6.5
+2014.0,Kings,FALSE,hispanic_two_or_more_races,4,0.0
+2014.0,Kings,FALSE,hispanic_other,5594,54.8
+2014.0,Lake,FALSE,aian,166,3.0
+2014.0,Lake,FALSE,asian,43,0.8
+2014.0,Lake,FALSE,black_african_american,196,3.5
+2014.0,Lake,FALSE,hawaiian_pacific_islander,12,0.2
+2014.0,Lake,FALSE,white,4114,74.5
+2014.0,Lake,FALSE,two_or_more_races,67,1.2
+2014.0,Lake,FALSE,other,176,3.2
+2014.0,Lake,FALSE,hispanic_white,150,2.7
+2014.0,Lake,FALSE,hispanic_two_or_more_races,6,0.1
+2014.0,Lake,FALSE,hispanic_other,595,10.8
+2014.0,Lassen,FALSE,aian,77,5.0
+2014.0,Lassen,FALSE,asian,13,0.8
+2014.0,Lassen,FALSE,black_african_american,37,2.4
+2014.0,Lassen,FALSE,hawaiian_pacific_islander,13,0.8
+2014.0,Lassen,FALSE,white,1190,77.5
+2014.0,Lassen,FALSE,two_or_more_races,21,1.4
+2014.0,Lassen,FALSE,other,40,2.6
+2014.0,Lassen,FALSE,hispanic_white,49,3.2
+2014.0,Lassen,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,Lassen,FALSE,hispanic_other,96,6.2
+2014.0,Los Angeles,FALSE,aian,727,0.1
+2014.0,Los Angeles,FALSE,asian,18591,3.2
+2014.0,Los Angeles,FALSE,black_african_american,110868,18.9
+2014.0,Los Angeles,FALSE,hawaiian_pacific_islander,1078,0.2
+2014.0,Los Angeles,FALSE,white,64359,11.0
+2014.0,Los Angeles,FALSE,two_or_more_races,4552,0.8
+2014.0,Los Angeles,FALSE,other,40211,6.9
+2014.0,Los Angeles,FALSE,hispanic_white,236676,40.4
+2014.0,Los Angeles,FALSE,hispanic_two_or_more_races,1959,0.3
+2014.0,Los Angeles,FALSE,hispanic_other,106675,18.2
+2014.0,Madera,FALSE,aian,96,0.8
+2014.0,Madera,FALSE,asian,93,0.8
+2014.0,Madera,FALSE,black_african_american,420,3.6
+2014.0,Madera,FALSE,hawaiian_pacific_islander,18,0.2
+2014.0,Madera,FALSE,white,3116,27.1
+2014.0,Madera,FALSE,two_or_more_races,32,0.3
+2014.0,Madera,FALSE,other,359,3.1
+2014.0,Madera,FALSE,hispanic_white,3205,27.9
+2014.0,Madera,FALSE,hispanic_two_or_more_races,21,0.2
+2014.0,Madera,FALSE,hispanic_other,4147,36.0
+2014.0,Marin,FALSE,aian,31,0.5
+2014.0,Marin,FALSE,asian,286,4.6
+2014.0,Marin,FALSE,black_african_american,633,10.2
+2014.0,Marin,FALSE,hawaiian_pacific_islander,40,0.6
+2014.0,Marin,FALSE,white,2866,46.1
+2014.0,Marin,FALSE,two_or_more_races,64,1.0
+2014.0,Marin,FALSE,other,97,1.6
+2014.0,Marin,FALSE,hispanic_white,1330,21.4
+2014.0,Marin,FALSE,hispanic_two_or_more_races,42,0.7
+2014.0,Marin,FALSE,hispanic_other,827,13.3
+2014.0,Mariposa,FALSE,aian,35,3.5
+2014.0,Mariposa,FALSE,asian,4,0.4
+2014.0,Mariposa,FALSE,black_african_american,9,0.9
+2014.0,Mariposa,FALSE,hawaiian_pacific_islander,3,0.3
+2014.0,Mariposa,FALSE,white,808,80.4
+2014.0,Mariposa,FALSE,two_or_more_races,38,3.8
+2014.0,Mariposa,FALSE,other,10,1.0
+2014.0,Mariposa,FALSE,hispanic_white,69,6.9
+2014.0,Mariposa,FALSE,hispanic_two_or_more_races,5,0.5
+2014.0,Mariposa,FALSE,hispanic_other,24,2.4
+2014.0,Mendocino,FALSE,aian,492,6.5
+2014.0,Mendocino,FALSE,asian,52,0.7
+2014.0,Mendocino,FALSE,black_african_american,138,1.8
+2014.0,Mendocino,FALSE,hawaiian_pacific_islander,19,0.3
+2014.0,Mendocino,FALSE,white,5079,67.1
+2014.0,Mendocino,FALSE,two_or_more_races,119,1.6
+2014.0,Mendocino,FALSE,other,221,2.9
+2014.0,Mendocino,FALSE,hispanic_white,399,5.3
+2014.0,Mendocino,FALSE,hispanic_two_or_more_races,15,0.2
+2014.0,Mendocino,FALSE,hispanic_other,1035,13.7
+2014.0,Merced,FALSE,aian,95,0.4
+2014.0,Merced,FALSE,asian,1264,5.2
+2014.0,Merced,FALSE,black_african_american,1687,6.9
+2014.0,Merced,FALSE,hawaiian_pacific_islander,85,0.3
+2014.0,Merced,FALSE,white,6495,26.7
+2014.0,Merced,FALSE,two_or_more_races,161,0.7
+2014.0,Merced,FALSE,other,93,0.4
+2014.0,Merced,FALSE,hispanic_white,10429,42.8
+2014.0,Merced,FALSE,hispanic_two_or_more_races,59,0.2
+2014.0,Merced,FALSE,hispanic_other,4002,16.4
+2014.0,Modoc,FALSE,aian,35,7.5
+2014.0,Modoc,FALSE,asian,1,0.2
+2014.0,Modoc,FALSE,black_african_american,1,0.2
+2014.0,Modoc,FALSE,hawaiian_pacific_islander,1,0.2
+2014.0,Modoc,FALSE,white,354,75.8
+2014.0,Modoc,FALSE,two_or_more_races,8,1.7
+2014.0,Modoc,FALSE,other,13,2.8
+2014.0,Modoc,FALSE,hispanic_white,6,1.3
+2014.0,Modoc,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,Modoc,FALSE,hispanic_other,48,10.3
+2014.0,Mono,FALSE,aian,20,3.8
+2014.0,Mono,FALSE,asian,6,1.1
+2014.0,Mono,FALSE,black_african_american,2,0.4
+2014.0,Mono,FALSE,hawaiian_pacific_islander,3,0.6
+2014.0,Mono,FALSE,white,325,62.3
+2014.0,Mono,FALSE,two_or_more_races,7,1.3
+2014.0,Mono,FALSE,other,11,2.1
+2014.0,Mono,FALSE,hispanic_white,107,20.5
+2014.0,Mono,FALSE,hispanic_two_or_more_races,4,0.8
+2014.0,Mono,FALSE,hispanic_other,37,7.1
+2014.0,Monterey,FALSE,aian,59,0.3
+2014.0,Monterey,FALSE,asian,523,2.4
+2014.0,Monterey,FALSE,black_african_american,809,3.7
+2014.0,Monterey,FALSE,hawaiian_pacific_islander,130,0.6
+2014.0,Monterey,FALSE,white,3703,17.0
+2014.0,Monterey,FALSE,two_or_more_races,75,0.3
+2014.0,Monterey,FALSE,other,859,3.9
+2014.0,Monterey,FALSE,hispanic_white,3185,14.6
+2014.0,Monterey,FALSE,hispanic_two_or_more_races,157,0.7
+2014.0,Monterey,FALSE,hispanic_other,12258,56.3
+2014.0,Napa,FALSE,aian,14,0.4
+2014.0,Napa,FALSE,asian,101,2.9
+2014.0,Napa,FALSE,black_african_american,113,3.2
+2014.0,Napa,FALSE,hawaiian_pacific_islander,16,0.5
+2014.0,Napa,FALSE,white,1507,42.7
+2014.0,Napa,FALSE,two_or_more_races,36,1.0
+2014.0,Napa,FALSE,other,25,0.7
+2014.0,Napa,FALSE,hispanic_white,1306,37.0
+2014.0,Napa,FALSE,hispanic_two_or_more_races,6,0.2
+2014.0,Napa,FALSE,hispanic_other,402,11.4
+2014.0,Nevada,FALSE,aian,48,1.1
+2014.0,Nevada,FALSE,asian,34,0.8
+2014.0,Nevada,FALSE,black_african_american,21,0.5
+2014.0,Nevada,FALSE,hawaiian_pacific_islander,9,0.2
+2014.0,Nevada,FALSE,white,3616,85.7
+2014.0,Nevada,FALSE,two_or_more_races,61,1.4
+2014.0,Nevada,FALSE,other,95,2.3
+2014.0,Nevada,FALSE,hispanic_white,246,5.8
+2014.0,Nevada,FALSE,hispanic_two_or_more_races,7,0.2
+2014.0,Nevada,FALSE,hispanic_other,84,2.0
+2014.0,Orange,FALSE,aian,392,0.3
+2014.0,Orange,FALSE,asian,14730,12.6
+2014.0,Orange,FALSE,black_african_american,3813,3.3
+2014.0,Orange,FALSE,hawaiian_pacific_islander,1120,1.0
+2014.0,Orange,FALSE,white,29042,24.8
+2014.0,Orange,FALSE,two_or_more_races,61,0.1
+2014.0,Orange,FALSE,other,58,0.0
+2014.0,Orange,FALSE,hispanic_white,3432,2.9
+2014.0,Orange,FALSE,hispanic_two_or_more_races,7,0.0
+2014.0,Orange,FALSE,hispanic_other,64580,55.1
+2014.0,Placer,FALSE,aian,160,1.7
+2014.0,Placer,FALSE,asian,204,2.2
+2014.0,Placer,FALSE,black_african_american,275,3.0
+2014.0,Placer,FALSE,hawaiian_pacific_islander,117,1.3
+2014.0,Placer,FALSE,white,7064,76.7
+2014.0,Placer,FALSE,two_or_more_races,0,0.0
+2014.0,Placer,FALSE,other,1386,15.1
+2014.0,Placer,FALSE,hispanic_white,0,0.0
+2014.0,Placer,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,Placer,FALSE,hispanic_other,0,0.0
+2014.0,Plumas,FALSE,aian,28,2.9
+2014.0,Plumas,FALSE,asian,3,0.3
+2014.0,Plumas,FALSE,black_african_american,39,4.1
+2014.0,Plumas,FALSE,hawaiian_pacific_islander,1,0.1
+2014.0,Plumas,FALSE,white,712,74.5
+2014.0,Plumas,FALSE,two_or_more_races,17,1.8
+2014.0,Plumas,FALSE,other,91,9.5
+2014.0,Plumas,FALSE,hispanic_white,24,2.5
+2014.0,Plumas,FALSE,hispanic_two_or_more_races,1,0.1
+2014.0,Plumas,FALSE,hispanic_other,40,4.2
+2014.0,Riverside,FALSE,aian,469,0.4
+2014.0,Riverside,FALSE,asian,2336,1.9
+2014.0,Riverside,FALSE,black_african_american,14981,12.1
+2014.0,Riverside,FALSE,hawaiian_pacific_islander,575,0.5
+2014.0,Riverside,FALSE,white,35198,28.3
+2014.0,Riverside,FALSE,two_or_more_races,782,0.6
+2014.0,Riverside,FALSE,other,6313,5.1
+2014.0,Riverside,FALSE,hispanic_white,14878,12.0
+2014.0,Riverside,FALSE,hispanic_two_or_more_races,164,0.1
+2014.0,Riverside,FALSE,hispanic_other,48617,39.1
+2014.0,Sacramento,FALSE,aian,1778,1.8
+2014.0,Sacramento,FALSE,asian,6831,6.7
+2014.0,Sacramento,FALSE,black_african_american,25779,25.4
+2014.0,Sacramento,FALSE,hawaiian_pacific_islander,4473,4.4
+2014.0,Sacramento,FALSE,white,42612,42.0
+2014.0,Sacramento,FALSE,two_or_more_races,0,0.0
+2014.0,Sacramento,FALSE,other,0,0.0
+2014.0,Sacramento,FALSE,hispanic_white,18027,17.8
+2014.0,Sacramento,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,Sacramento,FALSE,hispanic_other,2002,2.0
+2014.0,San Benito,FALSE,aian,9,0.3
+2014.0,San Benito,FALSE,asian,16,0.6
+2014.0,San Benito,FALSE,black_african_american,12,0.4
+2014.0,San Benito,FALSE,hawaiian_pacific_islander,6,0.2
+2014.0,San Benito,FALSE,white,599,22.1
+2014.0,San Benito,FALSE,two_or_more_races,10,0.4
+2014.0,San Benito,FALSE,other,30,1.1
+2014.0,San Benito,FALSE,hispanic_white,1342,49.5
+2014.0,San Benito,FALSE,hispanic_two_or_more_races,9,0.3
+2014.0,San Benito,FALSE,hispanic_other,677,25.0
+2014.0,San Bernardino,FALSE,aian,651,0.4
+2014.0,San Bernardino,FALSE,asian,3379,2.0
+2014.0,San Bernardino,FALSE,black_african_american,29009,16.8
+2014.0,San Bernardino,FALSE,hawaiian_pacific_islander,884,0.5
+2014.0,San Bernardino,FALSE,white,43380,25.1
+2014.0,San Bernardino,FALSE,two_or_more_races,996,0.6
+2014.0,San Bernardino,FALSE,other,6177,3.6
+2014.0,San Bernardino,FALSE,hispanic_white,32728,18.9
+2014.0,San Bernardino,FALSE,hispanic_two_or_more_races,259,0.1
+2014.0,San Bernardino,FALSE,hispanic_other,55258,32.0
+2014.0,San Diego,FALSE,aian,976,0.7
+2014.0,San Diego,FALSE,asian,6363,4.7
+2014.0,San Diego,FALSE,black_african_american,16061,12.0
+2014.0,San Diego,FALSE,hawaiian_pacific_islander,1450,1.1
+2014.0,San Diego,FALSE,white,49338,36.8
+2014.0,San Diego,FALSE,two_or_more_races,225,0.2
+2014.0,San Diego,FALSE,other,1037,0.8
+2014.0,San Diego,FALSE,hispanic_white,6433,4.8
+2014.0,San Diego,FALSE,hispanic_two_or_more_races,84,0.1
+2014.0,San Diego,FALSE,hispanic_other,52286,38.9
+2014.0,San Francisco,FALSE,aian,266,0.8
+2014.0,San Francisco,FALSE,asian,8125,24.7
+2014.0,San Francisco,FALSE,black_african_american,7533,22.9
+2014.0,San Francisco,FALSE,hawaiian_pacific_islander,445,1.4
+2014.0,San Francisco,FALSE,white,6674,20.2
+2014.0,San Francisco,FALSE,two_or_more_races,0,0.0
+2014.0,San Francisco,FALSE,other,3317,10.1
+2014.0,San Francisco,FALSE,hispanic_white,0,0.0
+2014.0,San Francisco,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,San Francisco,FALSE,hispanic_other,6601,20.0
+2014.0,San Joaquin,FALSE,aian,256,0.5
+2014.0,San Joaquin,FALSE,asian,5391,10.7
+2014.0,San Joaquin,FALSE,black_african_american,8337,16.6
+2014.0,San Joaquin,FALSE,hawaiian_pacific_islander,306,0.6
+2014.0,San Joaquin,FALSE,white,13126,26.1
+2014.0,San Joaquin,FALSE,two_or_more_races,420,0.8
+2014.0,San Joaquin,FALSE,other,1499,3.0
+2014.0,San Joaquin,FALSE,hispanic_white,7827,15.5
+2014.0,San Joaquin,FALSE,hispanic_two_or_more_races,228,0.5
+2014.0,San Joaquin,FALSE,hispanic_other,12968,25.8
+2014.0,San Luis Obispo,FALSE,aian,127,1.3
+2014.0,San Luis Obispo,FALSE,asian,145,1.5
+2014.0,San Luis Obispo,FALSE,black_african_american,142,1.5
+2014.0,San Luis Obispo,FALSE,hawaiian_pacific_islander,41,0.4
+2014.0,San Luis Obispo,FALSE,white,6800,71.0
+2014.0,San Luis Obispo,FALSE,two_or_more_races,0,0.0
+2014.0,San Luis Obispo,FALSE,other,0,0.0
+2014.0,San Luis Obispo,FALSE,hispanic_white,2230,23.3
+2014.0,San Luis Obispo,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,San Luis Obispo,FALSE,hispanic_other,88,0.9
+2014.0,San Mateo,FALSE,aian,329,2.0
+2014.0,San Mateo,FALSE,asian,6176,38.5
+2014.0,San Mateo,FALSE,black_african_american,3251,20.2
+2014.0,San Mateo,FALSE,hawaiian_pacific_islander,1716,10.7
+2014.0,San Mateo,FALSE,white,58,0.4
+2014.0,San Mateo,FALSE,two_or_more_races,0,0.0
+2014.0,San Mateo,FALSE,other,0,0.0
+2014.0,San Mateo,FALSE,hispanic_white,4530,28.2
+2014.0,San Mateo,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,San Mateo,FALSE,hispanic_other,0,0.0
+2014.0,Santa Barbara,FALSE,aian,83,0.5
+2014.0,Santa Barbara,FALSE,asian,199,1.3
+2014.0,Santa Barbara,FALSE,black_african_american,415,2.6
+2014.0,Santa Barbara,FALSE,hawaiian_pacific_islander,31,0.2
+2014.0,Santa Barbara,FALSE,white,4097,26.1
+2014.0,Santa Barbara,FALSE,two_or_more_races,71,0.5
+2014.0,Santa Barbara,FALSE,other,633,4.0
+2014.0,Santa Barbara,FALSE,hispanic_white,7810,49.8
+2014.0,Santa Barbara,FALSE,hispanic_two_or_more_races,44,0.3
+2014.0,Santa Barbara,FALSE,hispanic_other,2291,14.6
+2014.0,Santa Clara,FALSE,aian,767,1.4
+2014.0,Santa Clara,FALSE,asian,11324,20.4
+2014.0,Santa Clara,FALSE,black_african_american,3772,6.8
+2014.0,Santa Clara,FALSE,hawaiian_pacific_islander,364,0.7
+2014.0,Santa Clara,FALSE,white,14085,25.3
+2014.0,Santa Clara,FALSE,two_or_more_races,0,0.0
+2014.0,Santa Clara,FALSE,other,0,0.0
+2014.0,Santa Clara,FALSE,hispanic_white,0,0.0
+2014.0,Santa Clara,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,Santa Clara,FALSE,hispanic_other,25333,45.5
+2014.0,Santa Cruz,FALSE,aian,51,0.4
+2014.0,Santa Cruz,FALSE,asian,23,0.2
+2014.0,Santa Cruz,FALSE,black_african_american,16,0.1
+2014.0,Santa Cruz,FALSE,hawaiian_pacific_islander,40,0.3
+2014.0,Santa Cruz,FALSE,white,603,4.9
+2014.0,Santa Cruz,FALSE,two_or_more_races,36,0.3
+2014.0,Santa Cruz,FALSE,other,5447,43.9
+2014.0,Santa Cruz,FALSE,hispanic_white,4650,37.5
+2014.0,Santa Cruz,FALSE,hispanic_two_or_more_races,160,1.3
+2014.0,Santa Cruz,FALSE,hispanic_other,1376,11.1
+2014.0,Shasta,FALSE,aian,464,3.6
+2014.0,Shasta,FALSE,asian,294,2.3
+2014.0,Shasta,FALSE,black_african_american,201,1.6
+2014.0,Shasta,FALSE,hawaiian_pacific_islander,37,0.3
+2014.0,Shasta,FALSE,white,10144,79.7
+2014.0,Shasta,FALSE,two_or_more_races,300,2.4
+2014.0,Shasta,FALSE,other,346,2.7
+2014.0,Shasta,FALSE,hispanic_white,356,2.8
+2014.0,Shasta,FALSE,hispanic_two_or_more_races,39,0.3
+2014.0,Shasta,FALSE,hispanic_other,540,4.2
+2014.0,Sierra,FALSE,aian,2,1.2
+2014.0,Sierra,FALSE,asian,0,0.0
+2014.0,Sierra,FALSE,black_african_american,0,0.0
+2014.0,Sierra,FALSE,hawaiian_pacific_islander,0,0.0
+2014.0,Sierra,FALSE,white,147,90.2
+2014.0,Sierra,FALSE,two_or_more_races,4,2.5
+2014.0,Sierra,FALSE,other,0,0.0
+2014.0,Sierra,FALSE,hispanic_white,0,0.0
+2014.0,Sierra,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,Sierra,FALSE,hispanic_other,10,6.1
+2014.0,Siskiyou,FALSE,aian,187,5.9
+2014.0,Siskiyou,FALSE,asian,49,1.5
+2014.0,Siskiyou,FALSE,black_african_american,75,2.4
+2014.0,Siskiyou,FALSE,hawaiian_pacific_islander,7,0.2
+2014.0,Siskiyou,FALSE,white,2409,75.7
+2014.0,Siskiyou,FALSE,two_or_more_races,94,3.0
+2014.0,Siskiyou,FALSE,other,95,3.0
+2014.0,Siskiyou,FALSE,hispanic_white,82,2.6
+2014.0,Siskiyou,FALSE,hispanic_two_or_more_races,5,0.2
+2014.0,Siskiyou,FALSE,hispanic_other,181,5.7
+2014.0,Solano,FALSE,aian,208,0.9
+2014.0,Solano,FALSE,asian,1505,6.8
+2014.0,Solano,FALSE,black_african_american,7341,32.9
+2014.0,Solano,FALSE,hawaiian_pacific_islander,389,1.7
+2014.0,Solano,FALSE,white,7337,32.9
+2014.0,Solano,FALSE,two_or_more_races,303,1.4
+2014.0,Solano,FALSE,other,190,0.9
+2014.0,Solano,FALSE,hispanic_white,649,2.9
+2014.0,Solano,FALSE,hispanic_two_or_more_races,55,0.2
+2014.0,Solano,FALSE,hispanic_other,4315,19.4
+2014.0,Sonoma,FALSE,aian,426,2.2
+2014.0,Sonoma,FALSE,asian,416,2.2
+2014.0,Sonoma,FALSE,black_african_american,722,3.7
+2014.0,Sonoma,FALSE,hawaiian_pacific_islander,159,0.8
+2014.0,Sonoma,FALSE,white,10928,56.6
+2014.0,Sonoma,FALSE,two_or_more_races,0,0.0
+2014.0,Sonoma,FALSE,other,97,0.5
+2014.0,Sonoma,FALSE,hispanic_white,452,2.3
+2014.0,Sonoma,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,Sonoma,FALSE,hispanic_other,6104,31.6
+2014.0,Stanislaus,FALSE,aian,147,0.3
+2014.0,Stanislaus,FALSE,asian,1506,3.5
+2014.0,Stanislaus,FALSE,black_african_american,2343,5.5
+2014.0,Stanislaus,FALSE,hawaiian_pacific_islander,286,0.7
+2014.0,Stanislaus,FALSE,white,17874,41.7
+2014.0,Stanislaus,FALSE,two_or_more_races,401,0.9
+2014.0,Stanislaus,FALSE,other,1131,2.6
+2014.0,Stanislaus,FALSE,hispanic_white,8516,19.9
+2014.0,Stanislaus,FALSE,hispanic_two_or_more_races,74,0.2
+2014.0,Stanislaus,FALSE,hispanic_other,10595,24.7
+2014.0,Sutter,FALSE,aian,61,1.1
+2014.0,Sutter,FALSE,asian,283,5.0
+2014.0,Sutter,FALSE,black_african_american,205,3.6
+2014.0,Sutter,FALSE,hawaiian_pacific_islander,27,0.5
+2014.0,Sutter,FALSE,white,2869,51.0
+2014.0,Sutter,FALSE,two_or_more_races,99,1.8
+2014.0,Sutter,FALSE,other,113,2.0
+2014.0,Sutter,FALSE,hispanic_white,509,9.1
+2014.0,Sutter,FALSE,hispanic_two_or_more_races,37,0.7
+2014.0,Sutter,FALSE,hispanic_other,1420,25.3
+2014.0,Tehama,FALSE,aian,103,2.1
+2014.0,Tehama,FALSE,asian,40,0.8
+2014.0,Tehama,FALSE,black_african_american,53,1.1
+2014.0,Tehama,FALSE,hawaiian_pacific_islander,11,0.2
+2014.0,Tehama,FALSE,white,3605,72.0
+2014.0,Tehama,FALSE,two_or_more_races,69,1.4
+2014.0,Tehama,FALSE,other,135,2.7
+2014.0,Tehama,FALSE,hispanic_white,146,2.9
+2014.0,Tehama,FALSE,hispanic_two_or_more_races,6,0.1
+2014.0,Tehama,FALSE,hispanic_other,841,16.8
+2014.0,Trinity,FALSE,aian,45,4.5
+2014.0,Trinity,FALSE,asian,10,1.0
+2014.0,Trinity,FALSE,black_african_american,7,0.7
+2014.0,Trinity,FALSE,hawaiian_pacific_islander,2,0.2
+2014.0,Trinity,FALSE,white,813,81.2
+2014.0,Trinity,FALSE,two_or_more_races,42,4.2
+2014.0,Trinity,FALSE,other,36,3.6
+2014.0,Trinity,FALSE,hispanic_white,18,1.8
+2014.0,Trinity,FALSE,hispanic_two_or_more_races,1,0.1
+2014.0,Trinity,FALSE,hispanic_other,27,2.7
+2014.0,Tulare,FALSE,aian,177,0.3
+2014.0,Tulare,FALSE,asian,587,1.2
+2014.0,Tulare,FALSE,black_african_american,780,1.5
+2014.0,Tulare,FALSE,hawaiian_pacific_islander,13,0.0
+2014.0,Tulare,FALSE,white,9252,18.2
+2014.0,Tulare,FALSE,two_or_more_races,1242,2.4
+2014.0,Tulare,FALSE,other,285,0.6
+2014.0,Tulare,FALSE,hispanic_white,35357,69.4
+2014.0,Tulare,FALSE,hispanic_two_or_more_races,1742,3.4
+2014.0,Tulare,FALSE,hispanic_other,1540,3.0
+2014.0,Tuolumne,FALSE,aian,49,1.6
+2014.0,Tuolumne,FALSE,asian,15,0.5
+2014.0,Tuolumne,FALSE,black_african_american,19,0.6
+2014.0,Tuolumne,FALSE,hawaiian_pacific_islander,9,0.3
+2014.0,Tuolumne,FALSE,white,2520,83.7
+2014.0,Tuolumne,FALSE,two_or_more_races,58,1.9
+2014.0,Tuolumne,FALSE,other,51,1.7
+2014.0,Tuolumne,FALSE,hispanic_white,147,4.9
+2014.0,Tuolumne,FALSE,hispanic_two_or_more_races,12,0.4
+2014.0,Tuolumne,FALSE,hispanic_other,129,4.3
+2014.0,Ventura,FALSE,aian,241,0.7
+2014.0,Ventura,FALSE,asian,839,2.4
+2014.0,Ventura,FALSE,black_african_american,1016,2.9
+2014.0,Ventura,FALSE,hawaiian_pacific_islander,118,0.3
+2014.0,Ventura,FALSE,white,12564,35.9
+2014.0,Ventura,FALSE,two_or_more_races,0,0.0
+2014.0,Ventura,FALSE,other,0,0.0
+2014.0,Ventura,FALSE,hispanic_white,0,0.0
+2014.0,Ventura,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,Ventura,FALSE,hispanic_other,20246,57.8
+2014.0,Yolo,FALSE,aian,177,2.0
+2014.0,Yolo,FALSE,asian,374,4.2
+2014.0,Yolo,FALSE,black_african_american,700,7.9
+2014.0,Yolo,FALSE,hawaiian_pacific_islander,185,2.1
+2014.0,Yolo,FALSE,white,4129,46.6
+2014.0,Yolo,FALSE,two_or_more_races,0,0.0
+2014.0,Yolo,FALSE,other,0,0.0
+2014.0,Yolo,FALSE,hispanic_white,3300,37.2
+2014.0,Yolo,FALSE,hispanic_two_or_more_races,0,0.0
+2014.0,Yolo,FALSE,hispanic_other,0,0.0
+2014.0,Yuba,FALSE,aian,106,1.8
+2014.0,Yuba,FALSE,asian,353,5.9
+2014.0,Yuba,FALSE,black_african_american,258,4.3
+2014.0,Yuba,FALSE,hawaiian_pacific_islander,31,0.5
+2014.0,Yuba,FALSE,white,3701,61.4
+2014.0,Yuba,FALSE,two_or_more_races,138,2.3
+2014.0,Yuba,FALSE,other,122,2.0
+2014.0,Yuba,FALSE,hispanic_white,338,5.6
+2014.0,Yuba,FALSE,hispanic_two_or_more_races,17,0.3
+2014.0,Yuba,FALSE,hispanic_other,962,16.0
+2015.0,Alameda,FALSE,aian,296,0.5
+2015.0,Alameda,FALSE,asian,8832,14.1
+2015.0,Alameda,FALSE,black_african_american,21967,35.1
+2015.0,Alameda,FALSE,hawaiian_pacific_islander,734,1.2
+2015.0,Alameda,FALSE,white,13859,22.2
+2015.0,Alameda,FALSE,two_or_more_races,0,0.0
+2015.0,Alameda,FALSE,other,2,0.0
+2015.0,Alameda,FALSE,hispanic_white,167,0.3
+2015.0,Alameda,FALSE,hispanic_two_or_more_races,6,0.0
+2015.0,Alameda,FALSE,hispanic_other,16693,26.7
+2015.0,Alpine,FALSE,aian,56,55.4
+2015.0,Alpine,FALSE,asian,0,0.0
+2015.0,Alpine,FALSE,black_african_american,0,0.0
+2015.0,Alpine,FALSE,hawaiian_pacific_islander,0,0.0
+2015.0,Alpine,FALSE,white,41,40.6
+2015.0,Alpine,FALSE,two_or_more_races,0,0.0
+2015.0,Alpine,FALSE,other,0,0.0
+2015.0,Alpine,FALSE,hispanic_white,1,1.0
+2015.0,Alpine,FALSE,hispanic_two_or_more_races,0,0.0
+2015.0,Alpine,FALSE,hispanic_other,3,3.0
+2015.0,Amador,FALSE,aian,45,2.5
+2015.0,Amador,FALSE,asian,12,0.7
+2015.0,Amador,FALSE,black_african_american,18,1.0
+2015.0,Amador,FALSE,hawaiian_pacific_islander,2,0.1
+2015.0,Amador,FALSE,white,1534,84.1
+2015.0,Amador,FALSE,two_or_more_races,33,1.8
+2015.0,Amador,FALSE,other,29,1.6
+2015.0,Amador,FALSE,hispanic_white,62,3.4
+2015.0,Amador,FALSE,hispanic_two_or_more_races,4,0.2
+2015.0,Amador,FALSE,hispanic_other,84,4.6
+2015.0,Butte,FALSE,aian,321,1.9
+2015.0,Butte,FALSE,asian,747,4.5
+2015.0,Butte,FALSE,black_african_american,621,3.7
+2015.0,Butte,FALSE,hawaiian_pacific_islander,35,0.2
+2015.0,Butte,FALSE,white,11802,70.6
+2015.0,Butte,FALSE,two_or_more_races,428,2.6
+2015.0,Butte,FALSE,other,491,2.9
+2015.0,Butte,FALSE,hispanic_white,685,4.1
+2015.0,Butte,FALSE,hispanic_two_or_more_races,38,0.2
+2015.0,Butte,FALSE,hispanic_other,1560,9.3
+2015.0,Calaveras,FALSE,aian,57,2.0
+2015.0,Calaveras,FALSE,asian,25,0.9
+2015.0,Calaveras,FALSE,black_african_american,19,0.7
+2015.0,Calaveras,FALSE,hawaiian_pacific_islander,5,0.2
+2015.0,Calaveras,FALSE,white,2481,84.9
+2015.0,Calaveras,FALSE,two_or_more_races,40,1.4
+2015.0,Calaveras,FALSE,other,38,1.3
+2015.0,Calaveras,FALSE,hispanic_white,104,3.6
+2015.0,Calaveras,FALSE,hispanic_two_or_more_races,4,0.1
+2015.0,Calaveras,FALSE,hispanic_other,149,5.1
+2015.0,Colusa,FALSE,aian,12,1.8
+2015.0,Colusa,FALSE,asian,5,0.8
+2015.0,Colusa,FALSE,black_african_american,14,2.1
+2015.0,Colusa,FALSE,hawaiian_pacific_islander,3,0.5
+2015.0,Colusa,FALSE,white,268,40.5
+2015.0,Colusa,FALSE,two_or_more_races,9,1.4
+2015.0,Colusa,FALSE,other,19,2.9
+2015.0,Colusa,FALSE,hispanic_white,141,21.3
+2015.0,Colusa,FALSE,hispanic_two_or_more_races,4,0.6
+2015.0,Colusa,FALSE,hispanic_other,186,28.1
+2015.0,Contra Costa,FALSE,aian,206,0.6
+2015.0,Contra Costa,FALSE,asian,2091,5.8
+2015.0,Contra Costa,FALSE,black_african_american,10505,29.1
+2015.0,Contra Costa,FALSE,hawaiian_pacific_islander,309,0.9
+2015.0,Contra Costa,FALSE,white,9592,26.6
+2015.0,Contra Costa,FALSE,two_or_more_races,249,0.7
+2015.0,Contra Costa,FALSE,other,2548,7.1
+2015.0,Contra Costa,FALSE,hispanic_white,157,0.4
+2015.0,Contra Costa,FALSE,hispanic_two_or_more_races,50,0.1
+2015.0,Contra Costa,FALSE,hispanic_other,10349,28.7
+2015.0,Del Norte,FALSE,aian,265,10.5
+2015.0,Del Norte,FALSE,asian,118,4.7
+2015.0,Del Norte,FALSE,black_african_american,19,0.8
+2015.0,Del Norte,FALSE,hawaiian_pacific_islander,7,0.3
+2015.0,Del Norte,FALSE,white,1744,69.3
+2015.0,Del Norte,FALSE,two_or_more_races,75,3.0
+2015.0,Del Norte,FALSE,other,49,1.9
+2015.0,Del Norte,FALSE,hispanic_white,98,3.9
+2015.0,Del Norte,FALSE,hispanic_two_or_more_races,6,0.2
+2015.0,Del Norte,FALSE,hispanic_other,136,5.4
+2015.0,El Dorado,FALSE,aian,79,1.1
+2015.0,El Dorado,FALSE,asian,92,1.2
+2015.0,El Dorado,FALSE,black_african_american,81,1.1
+2015.0,El Dorado,FALSE,hawaiian_pacific_islander,17,0.2
+2015.0,El Dorado,FALSE,white,5536,74.8
+2015.0,El Dorado,FALSE,two_or_more_races,84,1.1
+2015.0,El Dorado,FALSE,other,633,8.6
+2015.0,El Dorado,FALSE,hispanic_white,226,3.1
+2015.0,El Dorado,FALSE,hispanic_two_or_more_races,8,0.1
+2015.0,El Dorado,FALSE,hispanic_other,647,8.7
+2015.0,Fresno,FALSE,aian,912,0.9
+2015.0,Fresno,FALSE,asian,6542,6.7
+2015.0,Fresno,FALSE,black_african_american,9548,9.7
+2015.0,Fresno,FALSE,hawaiian_pacific_islander,312,0.3
+2015.0,Fresno,FALSE,white,20764,21.2
+2015.0,Fresno,FALSE,two_or_more_races,0,0.0
+2015.0,Fresno,FALSE,other,7370,7.5
+2015.0,Fresno,FALSE,hispanic_white,0,0.0
+2015.0,Fresno,FALSE,hispanic_two_or_more_races,0,0.0
+2015.0,Fresno,FALSE,hispanic_other,52489,53.6
+2015.0,Glenn,FALSE,aian,46,3.0
+2015.0,Glenn,FALSE,asian,61,4.0
+2015.0,Glenn,FALSE,black_african_american,19,1.2
+2015.0,Glenn,FALSE,hawaiian_pacific_islander,1,0.1
+2015.0,Glenn,FALSE,white,833,54.1
+2015.0,Glenn,FALSE,two_or_more_races,18,1.2
+2015.0,Glenn,FALSE,other,16,1.0
+2015.0,Glenn,FALSE,hispanic_white,167,10.8
+2015.0,Glenn,FALSE,hispanic_two_or_more_races,4,0.3
+2015.0,Glenn,FALSE,hispanic_other,375,24.4
+2015.0,Humboldt,FALSE,aian,1103,9.1
+2015.0,Humboldt,FALSE,asian,302,2.5
+2015.0,Humboldt,FALSE,black_african_american,296,2.4
+2015.0,Humboldt,FALSE,hawaiian_pacific_islander,26,0.2
+2015.0,Humboldt,FALSE,white,7595,62.8
+2015.0,Humboldt,FALSE,two_or_more_races,492,4.1
+2015.0,Humboldt,FALSE,other,983,8.1
+2015.0,Humboldt,FALSE,hispanic_white,298,2.5
+2015.0,Humboldt,FALSE,hispanic_two_or_more_races,29,0.2
+2015.0,Humboldt,FALSE,hispanic_other,964,8.0
+2015.0,Imperial,FALSE,aian,175,1.0
+2015.0,Imperial,FALSE,asian,67,0.4
+2015.0,Imperial,FALSE,black_african_american,307,1.8
+2015.0,Imperial,FALSE,hawaiian_pacific_islander,10,0.1
+2015.0,Imperial,FALSE,white,1495,8.6
+2015.0,Imperial,FALSE,two_or_more_races,52,0.3
+2015.0,Imperial,FALSE,other,222,1.3
+2015.0,Imperial,FALSE,hispanic_white,9680,55.8
+2015.0,Imperial,FALSE,hispanic_two_or_more_races,44,0.3
+2015.0,Imperial,FALSE,hispanic_other,5310,30.6
+2015.0,Inyo,FALSE,aian,265,25.2
+2015.0,Inyo,FALSE,asian,3,0.3
+2015.0,Inyo,FALSE,black_african_american,2,0.2
+2015.0,Inyo,FALSE,hawaiian_pacific_islander,3,0.3
+2015.0,Inyo,FALSE,white,552,52.6
+2015.0,Inyo,FALSE,two_or_more_races,29,2.8
+2015.0,Inyo,FALSE,other,9,0.9
+2015.0,Inyo,FALSE,hispanic_white,27,2.6
+2015.0,Inyo,FALSE,hispanic_two_or_more_races,0,0.0
+2015.0,Inyo,FALSE,hispanic_other,160,15.2
+2015.0,Kern,FALSE,aian,300,0.4
+2015.0,Kern,FALSE,asian,1098,1.6
+2015.0,Kern,FALSE,black_african_american,7526,11.1
+2015.0,Kern,FALSE,hawaiian_pacific_islander,78,0.1
+2015.0,Kern,FALSE,white,20658,30.4
+2015.0,Kern,FALSE,two_or_more_races,481,0.7
+2015.0,Kern,FALSE,other,1412,2.1
+2015.0,Kern,FALSE,hispanic_white,14946,22.0
+2015.0,Kern,FALSE,hispanic_two_or_more_races,186,0.3
+2015.0,Kern,FALSE,hispanic_other,21164,31.2
+2015.0,Kings,FALSE,aian,44,0.4
+2015.0,Kings,FALSE,asian,223,2.1
+2015.0,Kings,FALSE,black_african_american,817,7.6
+2015.0,Kings,FALSE,hawaiian_pacific_islander,14,0.1
+2015.0,Kings,FALSE,white,2635,24.4
+2015.0,Kings,FALSE,two_or_more_races,45,0.4
+2015.0,Kings,FALSE,other,382,3.5
+2015.0,Kings,FALSE,hispanic_white,770,7.1
+2015.0,Kings,FALSE,hispanic_two_or_more_races,17,0.2
+2015.0,Kings,FALSE,hispanic_other,5838,54.1
+2015.0,Lake,FALSE,aian,194,3.1
+2015.0,Lake,FALSE,asian,43,0.7
+2015.0,Lake,FALSE,black_african_american,207,3.3
+2015.0,Lake,FALSE,hawaiian_pacific_islander,13,0.2
+2015.0,Lake,FALSE,white,4598,73.5
+2015.0,Lake,FALSE,two_or_more_races,93,1.5
+2015.0,Lake,FALSE,other,238,3.8
+2015.0,Lake,FALSE,hispanic_white,176,2.8
+2015.0,Lake,FALSE,hispanic_two_or_more_races,15,0.2
+2015.0,Lake,FALSE,hispanic_other,678,10.8
+2015.0,Lassen,FALSE,aian,75,4.9
+2015.0,Lassen,FALSE,asian,17,1.1
+2015.0,Lassen,FALSE,black_african_american,33,2.1
+2015.0,Lassen,FALSE,hawaiian_pacific_islander,12,0.8
+2015.0,Lassen,FALSE,white,1188,77.2
+2015.0,Lassen,FALSE,two_or_more_races,30,1.9
+2015.0,Lassen,FALSE,other,50,3.2
+2015.0,Lassen,FALSE,hispanic_white,35,2.3
+2015.0,Lassen,FALSE,hispanic_two_or_more_races,2,0.1
+2015.0,Lassen,FALSE,hispanic_other,97,6.3
+2015.0,Los Angeles,FALSE,aian,678,0.1
+2015.0,Los Angeles,FALSE,asian,18678,3.2
+2015.0,Los Angeles,FALSE,black_african_american,107166,18.2
+2015.0,Los Angeles,FALSE,hawaiian_pacific_islander,939,0.2
+2015.0,Los Angeles,FALSE,white,62825,10.7
+2015.0,Los Angeles,FALSE,two_or_more_races,4942,0.8
+2015.0,Los Angeles,FALSE,other,43751,7.4
+2015.0,Los Angeles,FALSE,hispanic_white,239381,40.7
+2015.0,Los Angeles,FALSE,hispanic_two_or_more_races,2102,0.4
+2015.0,Los Angeles,FALSE,hispanic_other,107417,18.3
+2015.0,Madera,FALSE,aian,127,1.1
+2015.0,Madera,FALSE,asian,98,0.8
+2015.0,Madera,FALSE,black_african_american,419,3.5
+2015.0,Madera,FALSE,hawaiian_pacific_islander,8,0.1
+2015.0,Madera,FALSE,white,3169,26.3
+2015.0,Madera,FALSE,two_or_more_races,46,0.4
+2015.0,Madera,FALSE,other,545,4.5
+2015.0,Madera,FALSE,hispanic_white,2901,24.1
+2015.0,Madera,FALSE,hispanic_two_or_more_races,17,0.1
+2015.0,Madera,FALSE,hispanic_other,4731,39.2
+2015.0,Marin,FALSE,aian,28,0.4
+2015.0,Marin,FALSE,asian,312,4.8
+2015.0,Marin,FALSE,black_african_american,660,10.2
+2015.0,Marin,FALSE,hawaiian_pacific_islander,14,0.2
+2015.0,Marin,FALSE,white,2925,45.0
+2015.0,Marin,FALSE,two_or_more_races,106,1.6
+2015.0,Marin,FALSE,other,188,2.9
+2015.0,Marin,FALSE,hispanic_white,1032,15.9
+2015.0,Marin,FALSE,hispanic_two_or_more_races,36,0.6
+2015.0,Marin,FALSE,hispanic_other,1198,18.4
+2015.0,Mariposa,FALSE,aian,41,3.7
+2015.0,Mariposa,FALSE,asian,4,0.4
+2015.0,Mariposa,FALSE,black_african_american,8,0.7
+2015.0,Mariposa,FALSE,hawaiian_pacific_islander,2,0.2
+2015.0,Mariposa,FALSE,white,878,78.3
+2015.0,Mariposa,FALSE,two_or_more_races,48,4.3
+2015.0,Mariposa,FALSE,other,21,1.9
+2015.0,Mariposa,FALSE,hispanic_white,76,6.8
+2015.0,Mariposa,FALSE,hispanic_two_or_more_races,5,0.4
+2015.0,Mariposa,FALSE,hispanic_other,39,3.5
+2015.0,Mendocino,FALSE,aian,493,7.0
+2015.0,Mendocino,FALSE,asian,54,0.8
+2015.0,Mendocino,FALSE,black_african_american,103,1.5
+2015.0,Mendocino,FALSE,hawaiian_pacific_islander,10,0.1
+2015.0,Mendocino,FALSE,white,4656,65.8
+2015.0,Mendocino,FALSE,two_or_more_races,160,2.3
+2015.0,Mendocino,FALSE,other,245,3.5
+2015.0,Mendocino,FALSE,hispanic_white,349,4.9
+2015.0,Mendocino,FALSE,hispanic_two_or_more_races,17,0.2
+2015.0,Mendocino,FALSE,hispanic_other,985,13.9
+2015.0,Merced,FALSE,aian,89,0.4
+2015.0,Merced,FALSE,asian,1253,4.9
+2015.0,Merced,FALSE,black_african_american,1754,6.9
+2015.0,Merced,FALSE,hawaiian_pacific_islander,61,0.2
+2015.0,Merced,FALSE,white,6543,25.8
+2015.0,Merced,FALSE,two_or_more_races,247,1.0
+2015.0,Merced,FALSE,other,149,0.6
+2015.0,Merced,FALSE,hispanic_white,7348,29.0
+2015.0,Merced,FALSE,hispanic_two_or_more_races,99,0.4
+2015.0,Merced,FALSE,hispanic_other,7824,30.8
+2015.0,Modoc,FALSE,aian,35,7.7
+2015.0,Modoc,FALSE,asian,1,0.2
+2015.0,Modoc,FALSE,black_african_american,3,0.7
+2015.0,Modoc,FALSE,hawaiian_pacific_islander,1,0.2
+2015.0,Modoc,FALSE,white,333,73.2
+2015.0,Modoc,FALSE,two_or_more_races,9,2.0
+2015.0,Modoc,FALSE,other,18,4.0
+2015.0,Modoc,FALSE,hispanic_white,9,2.0
+2015.0,Modoc,FALSE,hispanic_two_or_more_races,1,0.2
+2015.0,Modoc,FALSE,hispanic_other,45,9.9
+2015.0,Mono,FALSE,aian,20,3.8
+2015.0,Mono,FALSE,asian,5,1.0
+2015.0,Mono,FALSE,black_african_american,3,0.6
+2015.0,Mono,FALSE,hawaiian_pacific_islander,1,0.2
+2015.0,Mono,FALSE,white,292,56.2
+2015.0,Mono,FALSE,two_or_more_races,11,2.1
+2015.0,Mono,FALSE,other,59,11.3
+2015.0,Mono,FALSE,hispanic_white,88,16.9
+2015.0,Mono,FALSE,hispanic_two_or_more_races,1,0.2
+2015.0,Mono,FALSE,hispanic_other,40,7.7
+2015.0,Monterey,FALSE,aian,45,0.2
+2015.0,Monterey,FALSE,asian,536,2.4
+2015.0,Monterey,FALSE,black_african_american,851,3.7
+2015.0,Monterey,FALSE,hawaiian_pacific_islander,65,0.3
+2015.0,Monterey,FALSE,white,3943,17.3
+2015.0,Monterey,FALSE,two_or_more_races,158,0.7
+2015.0,Monterey,FALSE,other,918,4.0
+2015.0,Monterey,FALSE,hispanic_white,2883,12.7
+2015.0,Monterey,FALSE,hispanic_two_or_more_races,123,0.5
+2015.0,Monterey,FALSE,hispanic_other,13207,58.1
+2015.0,Napa,FALSE,aian,16,0.4
+2015.0,Napa,FALSE,asian,106,2.9
+2015.0,Napa,FALSE,black_african_american,113,3.1
+2015.0,Napa,FALSE,hawaiian_pacific_islander,12,0.3
+2015.0,Napa,FALSE,white,1555,42.8
+2015.0,Napa,FALSE,two_or_more_races,46,1.3
+2015.0,Napa,FALSE,other,41,1.1
+2015.0,Napa,FALSE,hispanic_white,1135,31.2
+2015.0,Napa,FALSE,hispanic_two_or_more_races,12,0.3
+2015.0,Napa,FALSE,hispanic_other,596,16.4
+2015.0,Nevada,FALSE,aian,38,0.9
+2015.0,Nevada,FALSE,asian,29,0.7
+2015.0,Nevada,FALSE,black_african_american,22,0.5
+2015.0,Nevada,FALSE,hawaiian_pacific_islander,3,0.1
+2015.0,Nevada,FALSE,white,3666,85.8
+2015.0,Nevada,FALSE,two_or_more_races,77,1.8
+2015.0,Nevada,FALSE,other,94,2.2
+2015.0,Nevada,FALSE,hispanic_white,221,5.2
+2015.0,Nevada,FALSE,hispanic_two_or_more_races,9,0.2
+2015.0,Nevada,FALSE,hispanic_other,114,2.7
+2015.0,Orange,FALSE,aian,399,0.3
+2015.0,Orange,FALSE,asian,16409,13.3
+2015.0,Orange,FALSE,black_african_american,3841,3.1
+2015.0,Orange,FALSE,hawaiian_pacific_islander,479,0.4
+2015.0,Orange,FALSE,white,32403,26.2
+2015.0,Orange,FALSE,two_or_more_races,69,0.1
+2015.0,Orange,FALSE,other,31,0.0
+2015.0,Orange,FALSE,hispanic_white,3488,2.8
+2015.0,Orange,FALSE,hispanic_two_or_more_races,2,0.0
+2015.0,Orange,FALSE,hispanic_other,66508,53.8
+2015.0,Placer,FALSE,aian,148,1.6
+2015.0,Placer,FALSE,asian,175,1.9
+2015.0,Placer,FALSE,black_african_american,281,3.0
+2015.0,Placer,FALSE,hawaiian_pacific_islander,131,1.4
+2015.0,Placer,FALSE,white,7270,77.3
+2015.0,Placer,FALSE,two_or_more_races,0,0.0
+2015.0,Placer,FALSE,other,1,0.0
+2015.0,Placer,FALSE,hispanic_white,0,0.0
+2015.0,Placer,FALSE,hispanic_two_or_more_races,0,0.0
+2015.0,Placer,FALSE,hispanic_other,1398,14.9
+2015.0,Plumas,FALSE,aian,32,3.0
+2015.0,Plumas,FALSE,asian,4,0.4
+2015.0,Plumas,FALSE,black_african_american,52,4.9
+2015.0,Plumas,FALSE,hawaiian_pacific_islander,2,0.2
+2015.0,Plumas,FALSE,white,803,75.7
+2015.0,Plumas,FALSE,two_or_more_races,22,2.1
+2015.0,Plumas,FALSE,other,57,5.4
+2015.0,Plumas,FALSE,hispanic_white,35,3.3
+2015.0,Plumas,FALSE,hispanic_two_or_more_races,2,0.2
+2015.0,Plumas,FALSE,hispanic_other,52,4.9
+2015.0,Riverside,FALSE,aian,482,0.4
+2015.0,Riverside,FALSE,asian,2553,2.0
+2015.0,Riverside,FALSE,black_african_american,15453,11.9
+2015.0,Riverside,FALSE,hawaiian_pacific_islander,324,0.3
+2015.0,Riverside,FALSE,white,36367,28.1
+2015.0,Riverside,FALSE,two_or_more_races,1147,0.9
+2015.0,Riverside,FALSE,other,6988,5.4
+2015.0,Riverside,FALSE,hispanic_white,13655,10.5
+2015.0,Riverside,FALSE,hispanic_two_or_more_races,268,0.2
+2015.0,Riverside,FALSE,hispanic_other,52312,40.4
+2015.0,Sacramento,FALSE,aian,1609,1.5
+2015.0,Sacramento,FALSE,asian,6839,6.5
+2015.0,Sacramento,FALSE,black_african_american,26302,25.1
+2015.0,Sacramento,FALSE,hawaiian_pacific_islander,4414,4.2
+2015.0,Sacramento,FALSE,white,45352,43.2
+2015.0,Sacramento,FALSE,two_or_more_races,0,0.0
+2015.0,Sacramento,FALSE,other,0,0.0
+2015.0,Sacramento,FALSE,hispanic_white,18465,17.6
+2015.0,Sacramento,FALSE,hispanic_two_or_more_races,0,0.0
+2015.0,Sacramento,FALSE,hispanic_other,1965,1.9
+2015.0,San Benito,FALSE,aian,12,0.4
+2015.0,San Benito,FALSE,asian,16,0.6
+2015.0,San Benito,FALSE,black_african_american,19,0.7
+2015.0,San Benito,FALSE,hawaiian_pacific_islander,5,0.2
+2015.0,San Benito,FALSE,white,635,23.5
+2015.0,San Benito,FALSE,two_or_more_races,16,0.6
+2015.0,San Benito,FALSE,other,36,1.3
+2015.0,San Benito,FALSE,hispanic_white,924,34.2
+2015.0,San Benito,FALSE,hispanic_two_or_more_races,10,0.4
+2015.0,San Benito,FALSE,hispanic_other,1028,38.1
+2015.0,San Bernardino,FALSE,aian,684,0.4
+2015.0,San Bernardino,FALSE,asian,3566,2.0
+2015.0,San Bernardino,FALSE,black_african_american,30277,16.7
+2015.0,San Bernardino,FALSE,hawaiian_pacific_islander,601,0.3
+2015.0,San Bernardino,FALSE,white,45275,25.0
+2015.0,San Bernardino,FALSE,two_or_more_races,1469,0.8
+2015.0,San Bernardino,FALSE,other,6801,3.8
+2015.0,San Bernardino,FALSE,hispanic_white,29696,16.4
+2015.0,San Bernardino,FALSE,hispanic_two_or_more_races,388,0.2
+2015.0,San Bernardino,FALSE,hispanic_other,62599,34.5
+2015.0,San Diego,FALSE,aian,995,0.7
+2015.0,San Diego,FALSE,asian,6645,4.6
+2015.0,San Diego,FALSE,black_african_american,16617,11.6
+2015.0,San Diego,FALSE,hawaiian_pacific_islander,1466,1.0
+2015.0,San Diego,FALSE,white,54604,38.1
+2015.0,San Diego,FALSE,two_or_more_races,194,0.1
+2015.0,San Diego,FALSE,other,1347,0.9
+2015.0,San Diego,FALSE,hispanic_white,7074,4.9
+2015.0,San Diego,FALSE,hispanic_two_or_more_races,96,0.1
+2015.0,San Diego,FALSE,hispanic_other,54165,37.8
+2015.0,San Francisco,FALSE,aian,273,0.8
+2015.0,San Francisco,FALSE,asian,8767,25.9
+2015.0,San Francisco,FALSE,black_african_american,7424,21.9
+2015.0,San Francisco,FALSE,hawaiian_pacific_islander,415,1.2
+2015.0,San Francisco,FALSE,white,6259,18.5
+2015.0,San Francisco,FALSE,two_or_more_races,0,0.0
+2015.0,San Francisco,FALSE,other,4116,12.1
+2015.0,San Francisco,FALSE,hispanic_white,0,0.0
+2015.0,San Francisco,FALSE,hispanic_two_or_more_races,0,0.0
+2015.0,San Francisco,FALSE,hispanic_other,6645,19.6
+2015.0,San Joaquin,FALSE,aian,268,0.5
+2015.0,San Joaquin,FALSE,asian,5680,10.6
+2015.0,San Joaquin,FALSE,black_african_american,8862,16.6
+2015.0,San Joaquin,FALSE,hawaiian_pacific_islander,217,0.4
+2015.0,San Joaquin,FALSE,white,13550,25.4
+2015.0,San Joaquin,FALSE,two_or_more_races,711,1.3
+2015.0,San Joaquin,FALSE,other,1943,3.6
+2015.0,San Joaquin,FALSE,hispanic_white,7245,13.6
+2015.0,San Joaquin,FALSE,hispanic_two_or_more_races,308,0.6
+2015.0,San Joaquin,FALSE,hispanic_other,14616,27.4
+2015.0,San Luis Obispo,FALSE,aian,115,1.1
+2015.0,San Luis Obispo,FALSE,asian,241,2.2
+2015.0,San Luis Obispo,FALSE,black_african_american,165,1.5
+2015.0,San Luis Obispo,FALSE,hawaiian_pacific_islander,41,0.4
+2015.0,San Luis Obispo,FALSE,white,7695,71.2
+2015.0,San Luis Obispo,FALSE,two_or_more_races,0,0.0
+2015.0,San Luis Obispo,FALSE,other,0,0.0
+2015.0,San Luis Obispo,FALSE,hispanic_white,2471,22.9
+2015.0,San Luis Obispo,FALSE,hispanic_two_or_more_races,0,0.0
+2015.0,San Luis Obispo,FALSE,hispanic_other,74,0.7
+2015.0,San Mateo,FALSE,aian,340,2.1
+2015.0,San Mateo,FALSE,asian,6061,37.1
+2015.0,San Mateo,FALSE,black_african_american,3131,19.2
+2015.0,San Mateo,FALSE,hawaiian_pacific_islander,1808,11.1
+2015.0,San Mateo,FALSE,white,638,3.9
+2015.0,San Mateo,FALSE,two_or_more_races,0,0.0
+2015.0,San Mateo,FALSE,other,0,0.0
+2015.0,San Mateo,FALSE,hispanic_white,4342,26.6
+2015.0,San Mateo,FALSE,hispanic_two_or_more_races,0,0.0
+2015.0,San Mateo,FALSE,hispanic_other,0,0.0
+2015.0,Santa Barbara,FALSE,aian,94,0.6
+2015.0,Santa Barbara,FALSE,asian,194,1.1
+2015.0,Santa Barbara,FALSE,black_african_american,426,2.5
+2015.0,Santa Barbara,FALSE,hawaiian_pacific_islander,30,0.2
+2015.0,Santa Barbara,FALSE,white,5346,31.5
+2015.0,Santa Barbara,FALSE,two_or_more_races,46,0.3
+2015.0,Santa Barbara,FALSE,other,674,4.0
+2015.0,Santa Barbara,FALSE,hispanic_white,7268,42.8
+2015.0,Santa Barbara,FALSE,hispanic_two_or_more_races,25,0.1
+2015.0,Santa Barbara,FALSE,hispanic_other,2885,17.0
+2015.0,Santa Clara,FALSE,aian,662,1.2
+2015.0,Santa Clara,FALSE,asian,11421,20.4
+2015.0,Santa Clara,FALSE,black_african_american,3469,6.2
+2015.0,Santa Clara,FALSE,hawaiian_pacific_islander,317,0.6
+2015.0,Santa Clara,FALSE,white,14721,26.3
+2015.0,Santa Clara,FALSE,two_or_more_races,0,0.0
+2015.0,Santa Clara,FALSE,other,0,0.0
+2015.0,Santa Clara,FALSE,hispanic_white,0,0.0
+2015.0,Santa Clara,FALSE,hispanic_two_or_more_races,0,0.0
+2015.0,Santa Clara,FALSE,hispanic_other,25391,45.4
+2015.0,Santa Cruz,FALSE,aian,31,0.2
+2015.0,Santa Cruz,FALSE,asian,16,0.1
+2015.0,Santa Cruz,FALSE,black_african_american,11,0.1
+2015.0,Santa Cruz,FALSE,hawaiian_pacific_islander,26,0.2
+2015.0,Santa Cruz,FALSE,white,575,4.1
+2015.0,Santa Cruz,FALSE,two_or_more_races,35,0.3
+2015.0,Santa Cruz,FALSE,other,6018,43.3
+2015.0,Santa Cruz,FALSE,hispanic_white,4899,35.3
+2015.0,Santa Cruz,FALSE,hispanic_two_or_more_races,172,1.2
+2015.0,Santa Cruz,FALSE,hispanic_other,2108,15.2
+2015.0,Shasta,FALSE,aian,467,3.6
+2015.0,Shasta,FALSE,asian,307,2.3
+2015.0,Shasta,FALSE,black_african_american,217,1.7
+2015.0,Shasta,FALSE,hawaiian_pacific_islander,24,0.2
+2015.0,Shasta,FALSE,white,10379,79.1
+2015.0,Shasta,FALSE,two_or_more_races,355,2.7
+2015.0,Shasta,FALSE,other,365,2.8
+2015.0,Shasta,FALSE,hispanic_white,362,2.8
+2015.0,Shasta,FALSE,hispanic_two_or_more_races,39,0.3
+2015.0,Shasta,FALSE,hispanic_other,599,4.6
+2015.0,Sierra,FALSE,aian,2,1.2
+2015.0,Sierra,FALSE,asian,0,0.0
+2015.0,Sierra,FALSE,black_african_american,0,0.0
+2015.0,Sierra,FALSE,hawaiian_pacific_islander,0,0.0
+2015.0,Sierra,FALSE,white,151,87.8
+2015.0,Sierra,FALSE,two_or_more_races,2,1.2
+2015.0,Sierra,FALSE,other,2,1.2
+2015.0,Sierra,FALSE,hispanic_white,2,1.2
+2015.0,Sierra,FALSE,hispanic_two_or_more_races,0,0.0
+2015.0,Sierra,FALSE,hispanic_other,13,7.6
+2015.0,Siskiyou,FALSE,aian,204,6.3
+2015.0,Siskiyou,FALSE,asian,60,1.8
+2015.0,Siskiyou,FALSE,black_african_american,68,2.1
+2015.0,Siskiyou,FALSE,hawaiian_pacific_islander,7,0.2
+2015.0,Siskiyou,FALSE,white,2380,73.3
+2015.0,Siskiyou,FALSE,two_or_more_races,127,3.9
+2015.0,Siskiyou,FALSE,other,114,3.5
+2015.0,Siskiyou,FALSE,hispanic_white,76,2.3
+2015.0,Siskiyou,FALSE,hispanic_two_or_more_races,7,0.2
+2015.0,Siskiyou,FALSE,hispanic_other,204,6.3
+2015.0,Solano,TRUE,aian,0,0.0
+2015.0,Solano,TRUE,asian,30,66.7
+2015.0,Solano,TRUE,black_african_american,1,2.2
+2015.0,Solano,TRUE,hawaiian_pacific_islander,1,2.2
+2015.0,Solano,TRUE,white,1,2.2
+2015.0,Solano,TRUE,two_or_more_races,0,0.0
+2015.0,Solano,TRUE,other,0,0.0
+2015.0,Solano,TRUE,hispanic_white,0,0.0
+2015.0,Solano,TRUE,hispanic_two_or_more_races,0,0.0
+2015.0,Solano,TRUE,hispanic_other,12,26.7
+2015.0,Sonoma,FALSE,aian,427,2.1
+2015.0,Sonoma,FALSE,asian,436,2.2
+2015.0,Sonoma,FALSE,black_african_american,659,3.3
+2015.0,Sonoma,FALSE,hawaiian_pacific_islander,142,0.7
+2015.0,Sonoma,FALSE,white,11714,58.1
+2015.0,Sonoma,FALSE,two_or_more_races,0,0.0
+2015.0,Sonoma,FALSE,other,144,0.7
+2015.0,Sonoma,FALSE,hispanic_white,423,2.1
+2015.0,Sonoma,FALSE,hispanic_two_or_more_races,0,0.0
+2015.0,Sonoma,FALSE,hispanic_other,6234,30.9
+2015.0,Stanislaus,FALSE,aian,152,0.3
+2015.0,Stanislaus,FALSE,asian,1502,3.4
+2015.0,Stanislaus,FALSE,black_african_american,2493,5.7
+2015.0,Stanislaus,FALSE,hawaiian_pacific_islander,184,0.4
+2015.0,Stanislaus,FALSE,white,17813,40.9
+2015.0,Stanislaus,FALSE,two_or_more_races,589,1.4
+2015.0,Stanislaus,FALSE,other,1323,3.0
+2015.0,Stanislaus,FALSE,hispanic_white,8059,18.5
+2015.0,Stanislaus,FALSE,hispanic_two_or_more_races,134,0.3
+2015.0,Stanislaus,FALSE,hispanic_other,11295,25.9
+2015.0,Sutter,FALSE,aian,51,0.9
+2015.0,Sutter,FALSE,asian,319,5.6
+2015.0,Sutter,FALSE,black_african_american,214,3.7
+2015.0,Sutter,FALSE,hawaiian_pacific_islander,17,0.3
+2015.0,Sutter,FALSE,white,2857,50.1
+2015.0,Sutter,FALSE,two_or_more_races,138,2.4
+2015.0,Sutter,FALSE,other,98,1.7
+2015.0,Sutter,FALSE,hispanic_white,445,7.8
+2015.0,Sutter,FALSE,hispanic_two_or_more_races,38,0.7
+2015.0,Sutter,FALSE,hispanic_other,1530,26.8
+2015.0,Tehama,FALSE,aian,103,2.1
+2015.0,Tehama,FALSE,asian,35,0.7
+2015.0,Tehama,FALSE,black_african_american,44,0.9
+2015.0,Tehama,FALSE,hawaiian_pacific_islander,7,0.1
+2015.0,Tehama,FALSE,white,3426,71.2
+2015.0,Tehama,FALSE,two_or_more_races,91,1.9
+2015.0,Tehama,FALSE,other,144,3.0
+2015.0,Tehama,FALSE,hispanic_white,132,2.7
+2015.0,Tehama,FALSE,hispanic_two_or_more_races,6,0.1
+2015.0,Tehama,FALSE,hispanic_other,827,17.2
+2015.0,Trinity,FALSE,aian,40,3.9
+2015.0,Trinity,FALSE,asian,17,1.6
+2015.0,Trinity,FALSE,black_african_american,5,0.5
+2015.0,Trinity,FALSE,hawaiian_pacific_islander,1,0.1
+2015.0,Trinity,FALSE,white,822,79.4
+2015.0,Trinity,FALSE,two_or_more_races,60,5.8
+2015.0,Trinity,FALSE,other,33,3.2
+2015.0,Trinity,FALSE,hispanic_white,26,2.5
+2015.0,Trinity,FALSE,hispanic_two_or_more_races,3,0.3
+2015.0,Trinity,FALSE,hispanic_other,28,2.7
+2015.0,Tulare,FALSE,aian,185,0.3
+2015.0,Tulare,FALSE,asian,334,0.6
+2015.0,Tulare,FALSE,black_african_american,823,1.6
+2015.0,Tulare,FALSE,hawaiian_pacific_islander,102,0.2
+2015.0,Tulare,FALSE,white,10116,19.1
+2015.0,Tulare,FALSE,two_or_more_races,706,1.3
+2015.0,Tulare,FALSE,other,788,1.5
+2015.0,Tulare,FALSE,hispanic_white,36666,69.3
+2015.0,Tulare,FALSE,hispanic_two_or_more_races,1573,3.0
+2015.0,Tulare,FALSE,hispanic_other,1619,3.1
+2015.0,Tuolumne,FALSE,aian,51,1.6
+2015.0,Tuolumne,FALSE,asian,23,0.7
+2015.0,Tuolumne,FALSE,black_african_american,11,0.3
+2015.0,Tuolumne,FALSE,hawaiian_pacific_islander,5,0.2
+2015.0,Tuolumne,FALSE,white,2609,82.7
+2015.0,Tuolumne,FALSE,two_or_more_races,78,2.5
+2015.0,Tuolumne,FALSE,other,70,2.2
+2015.0,Tuolumne,FALSE,hispanic_white,153,4.9
+2015.0,Tuolumne,FALSE,hispanic_two_or_more_races,14,0.4
+2015.0,Tuolumne,FALSE,hispanic_other,139,4.4
+2015.0,Ventura,FALSE,aian,205,0.5
+2015.0,Ventura,FALSE,asian,733,2.0
+2015.0,Ventura,FALSE,black_african_american,1053,2.8
+2015.0,Ventura,FALSE,hawaiian_pacific_islander,265,0.7
+2015.0,Ventura,FALSE,white,13383,35.9
+2015.0,Ventura,FALSE,two_or_more_races,0,0.0
+2015.0,Ventura,FALSE,other,0,0.0
+2015.0,Ventura,FALSE,hispanic_white,0,0.0
+2015.0,Ventura,FALSE,hispanic_two_or_more_races,0,0.0
+2015.0,Ventura,FALSE,hispanic_other,21646,58.1
+2015.0,Yolo,FALSE,aian,187,1.8
+2015.0,Yolo,FALSE,asian,664,6.5
+2015.0,Yolo,FALSE,black_african_american,763,7.4
+2015.0,Yolo,FALSE,hawaiian_pacific_islander,599,5.8
+2015.0,Yolo,FALSE,white,4250,41.4
+2015.0,Yolo,FALSE,two_or_more_races,0,0.0
+2015.0,Yolo,FALSE,other,0,0.0
+2015.0,Yolo,FALSE,hispanic_white,3796,37.0
+2015.0,Yolo,FALSE,hispanic_two_or_more_races,0,0.0
+2015.0,Yolo,FALSE,hispanic_other,0,0.0
+2015.0,Yuba,FALSE,aian,126,2.0
+2015.0,Yuba,FALSE,asian,335,5.3
+2015.0,Yuba,FALSE,black_african_american,270,4.3
+2015.0,Yuba,FALSE,hawaiian_pacific_islander,25,0.4
+2015.0,Yuba,FALSE,white,3828,60.7
+2015.0,Yuba,FALSE,two_or_more_races,204,3.2
+2015.0,Yuba,FALSE,other,136,2.2
+2015.0,Yuba,FALSE,hispanic_white,301,4.8
+2015.0,Yuba,FALSE,hispanic_two_or_more_races,15,0.2
+2015.0,Yuba,FALSE,hispanic_other,1067,16.9
+2016.0,Alameda,FALSE,aian,302,0.5
+2016.0,Alameda,FALSE,asian,8822,14.5
+2016.0,Alameda,FALSE,black_african_american,20966,34.4
+2016.0,Alameda,FALSE,hawaiian_pacific_islander,594,1.0
+2016.0,Alameda,FALSE,white,13755,22.6
+2016.0,Alameda,FALSE,two_or_more_races,4,0.0
+2016.0,Alameda,FALSE,other,6280,10.3
+2016.0,Alameda,FALSE,hispanic_white,235,0.4
+2016.0,Alameda,FALSE,hispanic_two_or_more_races,0,0.0
+2016.0,Alameda,FALSE,hispanic_other,9923,16.3
+2016.0,Alpine,FALSE,aian,51,54.8
+2016.0,Alpine,FALSE,asian,0,0.0
+2016.0,Alpine,FALSE,black_african_american,0,0.0
+2016.0,Alpine,FALSE,hawaiian_pacific_islander,0,0.0
+2016.0,Alpine,FALSE,white,37,39.8
+2016.0,Alpine,FALSE,two_or_more_races,0,0.0
+2016.0,Alpine,FALSE,other,0,0.0
+2016.0,Alpine,FALSE,hispanic_white,0,0.0
+2016.0,Alpine,FALSE,hispanic_two_or_more_races,0,0.0
+2016.0,Alpine,FALSE,hispanic_other,5,5.4
+2016.0,Amador,FALSE,aian,43,2.4
+2016.0,Amador,FALSE,asian,12,0.7
+2016.0,Amador,FALSE,black_african_american,14,0.8
+2016.0,Amador,FALSE,hawaiian_pacific_islander,3,0.2
+2016.0,Amador,FALSE,white,1479,83.8
+2016.0,Amador,FALSE,two_or_more_races,30,1.7
+2016.0,Amador,FALSE,other,30,1.7
+2016.0,Amador,FALSE,hispanic_white,61,3.5
+2016.0,Amador,FALSE,hispanic_two_or_more_races,3,0.2
+2016.0,Amador,FALSE,hispanic_other,90,5.1
+2016.0,Butte,FALSE,aian,320,1.9
+2016.0,Butte,FALSE,asian,746,4.4
+2016.0,Butte,FALSE,black_african_american,650,3.8
+2016.0,Butte,FALSE,hawaiian_pacific_islander,39,0.2
+2016.0,Butte,FALSE,white,11573,68.2
+2016.0,Butte,FALSE,two_or_more_races,499,2.9
+2016.0,Butte,FALSE,other,581,3.4
+2016.0,Butte,FALSE,hispanic_white,668,3.9
+2016.0,Butte,FALSE,hispanic_two_or_more_races,57,0.3
+2016.0,Butte,FALSE,hispanic_other,1841,10.8
+2016.0,Calaveras,FALSE,aian,53,1.9
+2016.0,Calaveras,FALSE,asian,31,1.1
+2016.0,Calaveras,FALSE,black_african_american,23,0.8
+2016.0,Calaveras,FALSE,hawaiian_pacific_islander,7,0.3
+2016.0,Calaveras,FALSE,white,2308,82.9
+2016.0,Calaveras,FALSE,two_or_more_races,45,1.6
+2016.0,Calaveras,FALSE,other,65,2.3
+2016.0,Calaveras,FALSE,hispanic_white,96,3.4
+2016.0,Calaveras,FALSE,hispanic_two_or_more_races,6,0.2
+2016.0,Calaveras,FALSE,hispanic_other,150,5.4
+2016.0,Colusa,FALSE,aian,12,1.9
+2016.0,Colusa,FALSE,asian,5,0.8
+2016.0,Colusa,FALSE,black_african_american,16,2.5
+2016.0,Colusa,FALSE,hawaiian_pacific_islander,2,0.3
+2016.0,Colusa,FALSE,white,265,42.1
+2016.0,Colusa,FALSE,two_or_more_races,11,1.7
+2016.0,Colusa,FALSE,other,21,3.3
+2016.0,Colusa,FALSE,hispanic_white,127,20.2
+2016.0,Colusa,FALSE,hispanic_two_or_more_races,5,0.8
+2016.0,Colusa,FALSE,hispanic_other,165,26.2
+2016.0,Contra Costa,FALSE,aian,162,0.5
+2016.0,Contra Costa,FALSE,asian,1925,5.7
+2016.0,Contra Costa,FALSE,black_african_american,9467,27.9
+2016.0,Contra Costa,FALSE,hawaiian_pacific_islander,300,0.9
+2016.0,Contra Costa,FALSE,white,8631,25.4
+2016.0,Contra Costa,FALSE,two_or_more_races,246,0.7
+2016.0,Contra Costa,FALSE,other,1072,3.2
+2016.0,Contra Costa,FALSE,hispanic_white,421,1.2
+2016.0,Contra Costa,FALSE,hispanic_two_or_more_races,18,0.1
+2016.0,Contra Costa,FALSE,hispanic_other,11742,34.6
+2016.0,Del Norte,FALSE,aian,286,11.0
+2016.0,Del Norte,FALSE,asian,103,4.0
+2016.0,Del Norte,FALSE,black_african_american,17,0.7
+2016.0,Del Norte,FALSE,hawaiian_pacific_islander,8,0.3
+2016.0,Del Norte,FALSE,white,1793,68.8
+2016.0,Del Norte,FALSE,two_or_more_races,81,3.1
+2016.0,Del Norte,FALSE,other,75,2.9
+2016.0,Del Norte,FALSE,hispanic_white,90,3.5
+2016.0,Del Norte,FALSE,hispanic_two_or_more_races,9,0.3
+2016.0,Del Norte,FALSE,hispanic_other,145,5.6
+2016.0,El Dorado,FALSE,aian,74,1.0
+2016.0,El Dorado,FALSE,asian,96,1.3
+2016.0,El Dorado,FALSE,black_african_american,87,1.2
+2016.0,El Dorado,FALSE,hawaiian_pacific_islander,14,0.2
+2016.0,El Dorado,FALSE,white,5379,74.1
+2016.0,El Dorado,FALSE,two_or_more_races,98,1.4
+2016.0,El Dorado,FALSE,other,616,8.5
+2016.0,El Dorado,FALSE,hispanic_white,230,3.2
+2016.0,El Dorado,FALSE,hispanic_two_or_more_races,18,0.2
+2016.0,El Dorado,FALSE,hispanic_other,643,8.9
+2016.0,Fresno,FALSE,aian,877,0.9
+2016.0,Fresno,FALSE,asian,6166,6.5
+2016.0,Fresno,FALSE,black_african_american,8905,9.4
+2016.0,Fresno,FALSE,hawaiian_pacific_islander,233,0.2
+2016.0,Fresno,FALSE,white,19770,20.9
+2016.0,Fresno,FALSE,two_or_more_races,0,0.0
+2016.0,Fresno,FALSE,other,8095,8.6
+2016.0,Fresno,FALSE,hispanic_white,0,0.0
+2016.0,Fresno,FALSE,hispanic_two_or_more_races,0,0.0
+2016.0,Fresno,FALSE,hispanic_other,50454,53.4
+2016.0,Glenn,FALSE,aian,38,2.4
+2016.0,Glenn,FALSE,asian,58,3.6
+2016.0,Glenn,FALSE,black_african_american,25,1.6
+2016.0,Glenn,FALSE,hawaiian_pacific_islander,0,0.0
+2016.0,Glenn,FALSE,white,875,54.7
+2016.0,Glenn,FALSE,two_or_more_races,26,1.6
+2016.0,Glenn,FALSE,other,23,1.4
+2016.0,Glenn,FALSE,hispanic_white,139,8.7
+2016.0,Glenn,FALSE,hispanic_two_or_more_races,5,0.3
+2016.0,Glenn,FALSE,hispanic_other,410,25.6
+2016.0,Humboldt,FALSE,aian,1086,8.7
+2016.0,Humboldt,FALSE,asian,307,2.5
+2016.0,Humboldt,FALSE,black_african_american,324,2.6
+2016.0,Humboldt,FALSE,hawaiian_pacific_islander,30,0.2
+2016.0,Humboldt,FALSE,white,7733,62.1
+2016.0,Humboldt,FALSE,two_or_more_races,508,4.1
+2016.0,Humboldt,FALSE,other,991,8.0
+2016.0,Humboldt,FALSE,hispanic_white,317,2.5
+2016.0,Humboldt,FALSE,hispanic_two_or_more_races,35,0.3
+2016.0,Humboldt,FALSE,hispanic_other,1125,9.0
+2016.0,Imperial,FALSE,aian,180,1.0
+2016.0,Imperial,FALSE,asian,67,0.4
+2016.0,Imperial,FALSE,black_african_american,300,1.7
+2016.0,Imperial,FALSE,hawaiian_pacific_islander,5,0.0
+2016.0,Imperial,FALSE,white,1466,8.4
+2016.0,Imperial,FALSE,two_or_more_races,44,0.3
+2016.0,Imperial,FALSE,other,269,1.5
+2016.0,Imperial,FALSE,hispanic_white,8311,47.7
+2016.0,Imperial,FALSE,hispanic_two_or_more_races,44,0.3
+2016.0,Imperial,FALSE,hispanic_other,6745,38.7
+2016.0,Inyo,FALSE,aian,278,26.0
+2016.0,Inyo,FALSE,asian,6,0.6
+2016.0,Inyo,FALSE,black_african_american,7,0.7
+2016.0,Inyo,FALSE,hawaiian_pacific_islander,2,0.2
+2016.0,Inyo,FALSE,white,552,51.6
+2016.0,Inyo,FALSE,two_or_more_races,24,2.2
+2016.0,Inyo,FALSE,other,14,1.3
+2016.0,Inyo,FALSE,hispanic_white,38,3.6
+2016.0,Inyo,FALSE,hispanic_two_or_more_races,3,0.3
+2016.0,Inyo,FALSE,hispanic_other,145,13.6
+2016.0,Kern,FALSE,aian,293,0.4
+2016.0,Kern,FALSE,asian,1182,1.7
+2016.0,Kern,FALSE,black_african_american,7657,10.9
+2016.0,Kern,FALSE,hawaiian_pacific_islander,86,0.1
+2016.0,Kern,FALSE,white,21490,30.5
+2016.0,Kern,FALSE,two_or_more_races,548,0.8
+2016.0,Kern,FALSE,other,1808,2.6
+2016.0,Kern,FALSE,hispanic_white,13374,19.0
+2016.0,Kern,FALSE,hispanic_two_or_more_races,209,0.3
+2016.0,Kern,FALSE,hispanic_other,23819,33.8
+2016.0,Kings,FALSE,aian,47,0.4
+2016.0,Kings,FALSE,asian,192,1.8
+2016.0,Kings,FALSE,black_african_american,825,7.7
+2016.0,Kings,FALSE,hawaiian_pacific_islander,7,0.1
+2016.0,Kings,FALSE,white,2511,23.4
+2016.0,Kings,FALSE,two_or_more_races,55,0.5
+2016.0,Kings,FALSE,other,426,4.0
+2016.0,Kings,FALSE,hispanic_white,1063,9.9
+2016.0,Kings,FALSE,hispanic_two_or_more_races,15,0.1
+2016.0,Kings,FALSE,hispanic_other,5585,52.1
+2016.0,Lake,FALSE,aian,197,3.0
+2016.0,Lake,FALSE,asian,39,0.6
+2016.0,Lake,FALSE,black_african_american,201,3.0
+2016.0,Lake,FALSE,hawaiian_pacific_islander,13,0.2
+2016.0,Lake,FALSE,white,4867,73.5
+2016.0,Lake,FALSE,two_or_more_races,97,1.5
+2016.0,Lake,FALSE,other,256,3.9
+2016.0,Lake,FALSE,hispanic_white,182,2.8
+2016.0,Lake,FALSE,hispanic_two_or_more_races,15,0.2
+2016.0,Lake,FALSE,hispanic_other,751,11.3
+2016.0,Lassen,FALSE,aian,81,5.2
+2016.0,Lassen,FALSE,asian,14,0.9
+2016.0,Lassen,FALSE,black_african_american,28,1.8
+2016.0,Lassen,FALSE,hawaiian_pacific_islander,10,0.6
+2016.0,Lassen,FALSE,white,1202,76.6
+2016.0,Lassen,FALSE,two_or_more_races,31,2.0
+2016.0,Lassen,FALSE,other,57,3.6
+2016.0,Lassen,FALSE,hispanic_white,40,2.5
+2016.0,Lassen,FALSE,hispanic_two_or_more_races,3,0.2
+2016.0,Lassen,FALSE,hispanic_other,103,6.6
+2016.0,Los Angeles,FALSE,aian,1199,0.2
+2016.0,Los Angeles,FALSE,asian,18937,3.4
+2016.0,Los Angeles,FALSE,black_african_american,102583,18.6
+2016.0,Los Angeles,FALSE,hawaiian_pacific_islander,873,0.2
+2016.0,Los Angeles,FALSE,white,84810,15.4
+2016.0,Los Angeles,FALSE,two_or_more_races,3519,0.6
+2016.0,Los Angeles,FALSE,other,48138,8.7
+2016.0,Los Angeles,FALSE,hispanic_white,215899,39.1
+2016.0,Los Angeles,FALSE,hispanic_two_or_more_races,2744,0.5
+2016.0,Los Angeles,FALSE,hispanic_other,72839,13.2
+2016.0,Madera,FALSE,aian,119,1.0
+2016.0,Madera,FALSE,asian,86,0.7
+2016.0,Madera,FALSE,black_african_american,397,3.3
+2016.0,Madera,FALSE,hawaiian_pacific_islander,8,0.1
+2016.0,Madera,FALSE,white,3061,25.7
+2016.0,Madera,FALSE,two_or_more_races,64,0.5
+2016.0,Madera,FALSE,other,549,4.6
+2016.0,Madera,FALSE,hispanic_white,2613,22.0
+2016.0,Madera,FALSE,hispanic_two_or_more_races,14,0.1
+2016.0,Madera,FALSE,hispanic_other,4985,41.9
+2016.0,Marin,FALSE,aian,27,0.4
+2016.0,Marin,FALSE,asian,302,4.8
+2016.0,Marin,FALSE,black_african_american,602,9.7
+2016.0,Marin,FALSE,hawaiian_pacific_islander,19,0.3
+2016.0,Marin,FALSE,white,2796,44.9
+2016.0,Marin,FALSE,two_or_more_races,88,1.4
+2016.0,Marin,FALSE,other,154,2.5
+2016.0,Marin,FALSE,hispanic_white,875,14.1
+2016.0,Marin,FALSE,hispanic_two_or_more_races,23,0.4
+2016.0,Marin,FALSE,hispanic_other,1341,21.5
+2016.0,Mariposa,FALSE,aian,43,4.0
+2016.0,Mariposa,FALSE,asian,11,1.0
+2016.0,Mariposa,FALSE,black_african_american,7,0.6
+2016.0,Mariposa,FALSE,hawaiian_pacific_islander,2,0.2
+2016.0,Mariposa,FALSE,white,852,78.6
+2016.0,Mariposa,FALSE,two_or_more_races,52,4.8
+2016.0,Mariposa,FALSE,other,20,1.8
+2016.0,Mariposa,FALSE,hispanic_white,53,4.9
+2016.0,Mariposa,FALSE,hispanic_two_or_more_races,9,0.8
+2016.0,Mariposa,FALSE,hispanic_other,35,3.2
+2016.0,Mendocino,FALSE,aian,460,6.9
+2016.0,Mendocino,FALSE,asian,44,0.7
+2016.0,Mendocino,FALSE,black_african_american,129,1.9
+2016.0,Mendocino,FALSE,hawaiian_pacific_islander,7,0.1
+2016.0,Mendocino,FALSE,white,4325,64.9
+2016.0,Mendocino,FALSE,two_or_more_races,157,2.4
+2016.0,Mendocino,FALSE,other,281,4.2
+2016.0,Mendocino,FALSE,hispanic_white,291,4.4
+2016.0,Mendocino,FALSE,hispanic_two_or_more_races,16,0.2
+2016.0,Mendocino,FALSE,hispanic_other,953,14.3
+2016.0,Merced,FALSE,aian,98,0.4
+2016.0,Merced,FALSE,asian,1136,4.6
+2016.0,Merced,FALSE,black_african_american,1757,7.2
+2016.0,Merced,FALSE,hawaiian_pacific_islander,70,0.3
+2016.0,Merced,FALSE,white,6188,25.3
+2016.0,Merced,FALSE,two_or_more_races,257,1.1
+2016.0,Merced,FALSE,other,171,0.7
+2016.0,Merced,FALSE,hispanic_white,5993,24.5
+2016.0,Merced,FALSE,hispanic_two_or_more_races,112,0.5
+2016.0,Merced,FALSE,hispanic_other,8658,35.4
+2016.0,Modoc,FALSE,aian,45,8.7
+2016.0,Modoc,FALSE,asian,1,0.2
+2016.0,Modoc,FALSE,black_african_american,2,0.4
+2016.0,Modoc,FALSE,hawaiian_pacific_islander,0,0.0
+2016.0,Modoc,FALSE,white,374,71.9
+2016.0,Modoc,FALSE,two_or_more_races,9,1.7
+2016.0,Modoc,FALSE,other,31,6.0
+2016.0,Modoc,FALSE,hispanic_white,8,1.5
+2016.0,Modoc,FALSE,hispanic_two_or_more_races,1,0.2
+2016.0,Modoc,FALSE,hispanic_other,49,9.4
+2016.0,Mono,FALSE,aian,23,5.1
+2016.0,Mono,FALSE,asian,2,0.4
+2016.0,Mono,FALSE,black_african_american,2,0.4
+2016.0,Mono,FALSE,hawaiian_pacific_islander,0,0.0
+2016.0,Mono,FALSE,white,240,53.6
+2016.0,Mono,FALSE,two_or_more_races,6,1.3
+2016.0,Mono,FALSE,other,55,12.3
+2016.0,Mono,FALSE,hispanic_white,86,19.2
+2016.0,Mono,FALSE,hispanic_two_or_more_races,3,0.7
+2016.0,Mono,FALSE,hispanic_other,31,6.9
+2016.0,Monterey,FALSE,aian,42,0.2
+2016.0,Monterey,FALSE,asian,491,2.3
+2016.0,Monterey,FALSE,black_african_american,796,3.7
+2016.0,Monterey,FALSE,hawaiian_pacific_islander,78,0.4
+2016.0,Monterey,FALSE,white,3711,17.0
+2016.0,Monterey,FALSE,two_or_more_races,174,0.8
+2016.0,Monterey,FALSE,other,816,3.7
+2016.0,Monterey,FALSE,hispanic_white,2559,11.7
+2016.0,Monterey,FALSE,hispanic_two_or_more_races,93,0.4
+2016.0,Monterey,FALSE,hispanic_other,13023,59.8
+2016.0,Napa,FALSE,aian,16,0.5
+2016.0,Napa,FALSE,asian,110,3.1
+2016.0,Napa,FALSE,black_african_american,89,2.5
+2016.0,Napa,FALSE,hawaiian_pacific_islander,12,0.3
+2016.0,Napa,FALSE,white,1512,42.8
+2016.0,Napa,FALSE,two_or_more_races,49,1.4
+2016.0,Napa,FALSE,other,53,1.5
+2016.0,Napa,FALSE,hispanic_white,989,28.0
+2016.0,Napa,FALSE,hispanic_two_or_more_races,10,0.3
+2016.0,Napa,FALSE,hispanic_other,692,19.6
+2016.0,Nevada,FALSE,aian,43,1.0
+2016.0,Nevada,FALSE,asian,26,0.6
+2016.0,Nevada,FALSE,black_african_american,25,0.6
+2016.0,Nevada,FALSE,hawaiian_pacific_islander,4,0.1
+2016.0,Nevada,FALSE,white,3721,85.1
+2016.0,Nevada,FALSE,two_or_more_races,74,1.7
+2016.0,Nevada,FALSE,other,161,3.7
+2016.0,Nevada,FALSE,hispanic_white,172,3.9
+2016.0,Nevada,FALSE,hispanic_two_or_more_races,11,0.3
+2016.0,Nevada,FALSE,hispanic_other,136,3.1
+2016.0,Orange,FALSE,aian,407,0.3
+2016.0,Orange,FALSE,asian,15235,12.3
+2016.0,Orange,FALSE,black_african_american,3764,3.0
+2016.0,Orange,FALSE,hawaiian_pacific_islander,411,0.3
+2016.0,Orange,FALSE,white,37869,30.5
+2016.0,Orange,FALSE,two_or_more_races,58,0.0
+2016.0,Orange,FALSE,other,1729,1.4
+2016.0,Orange,FALSE,hispanic_white,2876,2.3
+2016.0,Orange,FALSE,hispanic_two_or_more_races,3,0.0
+2016.0,Orange,FALSE,hispanic_other,61803,49.8
+2016.0,Placer,FALSE,aian,132,1.4
+2016.0,Placer,FALSE,asian,223,2.4
+2016.0,Placer,FALSE,black_african_american,304,3.2
+2016.0,Placer,FALSE,hawaiian_pacific_islander,24,0.3
+2016.0,Placer,FALSE,white,7314,77.8
+2016.0,Placer,FALSE,two_or_more_races,0,0.0
+2016.0,Placer,FALSE,other,84,0.9
+2016.0,Placer,FALSE,hispanic_white,0,0.0
+2016.0,Placer,FALSE,hispanic_two_or_more_races,0,0.0
+2016.0,Placer,FALSE,hispanic_other,1316,14.0
+2016.0,Plumas,FALSE,aian,26,2.4
+2016.0,Plumas,FALSE,asian,4,0.4
+2016.0,Plumas,FALSE,black_african_american,58,5.3
+2016.0,Plumas,FALSE,hawaiian_pacific_islander,5,0.5
+2016.0,Plumas,FALSE,white,827,75.1
+2016.0,Plumas,FALSE,two_or_more_races,30,2.7
+2016.0,Plumas,FALSE,other,45,4.1
+2016.0,Plumas,FALSE,hispanic_white,31,2.8
+2016.0,Plumas,FALSE,hispanic_two_or_more_races,7,0.6
+2016.0,Plumas,FALSE,hispanic_other,68,6.2
+2016.0,Riverside,FALSE,aian,519,0.4
+2016.0,Riverside,FALSE,asian,2559,2.0
+2016.0,Riverside,FALSE,black_african_american,15317,11.9
+2016.0,Riverside,FALSE,hawaiian_pacific_islander,328,0.3
+2016.0,Riverside,FALSE,white,35958,27.9
+2016.0,Riverside,FALSE,two_or_more_races,1229,1.0
+2016.0,Riverside,FALSE,other,6955,5.4
+2016.0,Riverside,FALSE,hispanic_white,12530,9.7
+2016.0,Riverside,FALSE,hispanic_two_or_more_races,270,0.2
+2016.0,Riverside,FALSE,hispanic_other,53082,41.2
+2016.0,Sacramento,FALSE,aian,1466,1.4
+2016.0,Sacramento,FALSE,asian,6619,6.5
+2016.0,Sacramento,FALSE,black_african_american,25267,24.7
+2016.0,Sacramento,FALSE,hawaiian_pacific_islander,4241,4.1
+2016.0,Sacramento,FALSE,white,45003,44.0
+2016.0,Sacramento,FALSE,two_or_more_races,0,0.0
+2016.0,Sacramento,FALSE,other,0,0.0
+2016.0,Sacramento,FALSE,hispanic_white,18102,17.7
+2016.0,Sacramento,FALSE,hispanic_two_or_more_races,0,0.0
+2016.0,Sacramento,FALSE,hispanic_other,1536,1.5
+2016.0,San Benito,FALSE,aian,8,0.3
+2016.0,San Benito,FALSE,asian,24,1.0
+2016.0,San Benito,FALSE,black_african_american,20,0.8
+2016.0,San Benito,FALSE,hawaiian_pacific_islander,3,0.1
+2016.0,San Benito,FALSE,white,561,22.3
+2016.0,San Benito,FALSE,two_or_more_races,13,0.5
+2016.0,San Benito,FALSE,other,49,1.9
+2016.0,San Benito,FALSE,hispanic_white,803,31.9
+2016.0,San Benito,FALSE,hispanic_two_or_more_races,15,0.6
+2016.0,San Benito,FALSE,hispanic_other,1018,40.5
+2016.0,San Bernardino,FALSE,aian,621,0.3
+2016.0,San Bernardino,FALSE,asian,3629,2.0
+2016.0,San Bernardino,FALSE,black_african_american,30185,16.8
+2016.0,San Bernardino,FALSE,hawaiian_pacific_islander,613,0.3
+2016.0,San Bernardino,FALSE,white,44282,24.7
+2016.0,San Bernardino,FALSE,two_or_more_races,1593,0.9
+2016.0,San Bernardino,FALSE,other,6815,3.8
+2016.0,San Bernardino,FALSE,hispanic_white,26957,15.0
+2016.0,San Bernardino,FALSE,hispanic_two_or_more_races,433,0.2
+2016.0,San Bernardino,FALSE,hispanic_other,64293,35.8
+2016.0,San Diego,FALSE,aian,1014,0.7
+2016.0,San Diego,FALSE,asian,6776,4.8
+2016.0,San Diego,FALSE,black_african_american,15935,11.2
+2016.0,San Diego,FALSE,hawaiian_pacific_islander,1480,1.0
+2016.0,San Diego,FALSE,white,55414,38.9
+2016.0,San Diego,FALSE,two_or_more_races,195,0.1
+2016.0,San Diego,FALSE,other,1044,0.7
+2016.0,San Diego,FALSE,hispanic_white,6959,4.9
+2016.0,San Diego,FALSE,hispanic_two_or_more_races,96,0.1
+2016.0,San Diego,FALSE,hispanic_other,53446,37.5
+2016.0,San Francisco,FALSE,aian,243,0.7
+2016.0,San Francisco,FALSE,asian,9080,25.8
+2016.0,San Francisco,FALSE,black_african_american,6840,19.4
+2016.0,San Francisco,FALSE,hawaiian_pacific_islander,426,1.2
+2016.0,San Francisco,FALSE,white,6135,17.4
+2016.0,San Francisco,FALSE,two_or_more_races,0,0.0
+2016.0,San Francisco,FALSE,other,5781,16.4
+2016.0,San Francisco,FALSE,hispanic_white,0,0.0
+2016.0,San Francisco,FALSE,hispanic_two_or_more_races,0,0.0
+2016.0,San Francisco,FALSE,hispanic_other,6688,19.0
+2016.0,San Joaquin,FALSE,aian,258,0.5
+2016.0,San Joaquin,FALSE,asian,5432,10.5
+2016.0,San Joaquin,FALSE,black_african_american,8601,16.7
+2016.0,San Joaquin,FALSE,hawaiian_pacific_islander,209,0.4
+2016.0,San Joaquin,FALSE,white,12988,25.2
+2016.0,San Joaquin,FALSE,two_or_more_races,759,1.5
+2016.0,San Joaquin,FALSE,other,2150,4.2
+2016.0,San Joaquin,FALSE,hispanic_white,6460,12.5
+2016.0,San Joaquin,FALSE,hispanic_two_or_more_races,324,0.6
+2016.0,San Joaquin,FALSE,hispanic_other,14429,28.0
+2016.0,San Luis Obispo,FALSE,aian,122,1.2
+2016.0,San Luis Obispo,FALSE,asian,137,1.4
+2016.0,San Luis Obispo,FALSE,black_african_american,192,1.9
+2016.0,San Luis Obispo,FALSE,hawaiian_pacific_islander,40,0.4
+2016.0,San Luis Obispo,FALSE,white,7088,70.6
+2016.0,San Luis Obispo,FALSE,two_or_more_races,0,0.0
+2016.0,San Luis Obispo,FALSE,other,0,0.0
+2016.0,San Luis Obispo,FALSE,hispanic_white,2460,24.5
+2016.0,San Luis Obispo,FALSE,hispanic_two_or_more_races,0,0.0
+2016.0,San Luis Obispo,FALSE,hispanic_other,0,0.0
+2016.0,San Mateo,FALSE,aian,277,1.8
+2016.0,San Mateo,FALSE,asian,5420,35.9
+2016.0,San Mateo,FALSE,black_african_american,2760,18.3
+2016.0,San Mateo,FALSE,hawaiian_pacific_islander,1552,10.3
+2016.0,San Mateo,FALSE,white,350,2.3
+2016.0,San Mateo,FALSE,two_or_more_races,0,0.0
+2016.0,San Mateo,FALSE,other,2,0.0
+2016.0,San Mateo,FALSE,hispanic_white,4735,31.4
+2016.0,San Mateo,FALSE,hispanic_two_or_more_races,0,0.0
+2016.0,San Mateo,FALSE,hispanic_other,0,0.0
+2016.0,Santa Barbara,FALSE,aian,90,0.5
+2016.0,Santa Barbara,FALSE,asian,254,1.4
+2016.0,Santa Barbara,FALSE,black_african_american,517,2.8
+2016.0,Santa Barbara,FALSE,hawaiian_pacific_islander,58,0.3
+2016.0,Santa Barbara,FALSE,white,5658,30.9
+2016.0,Santa Barbara,FALSE,two_or_more_races,49,0.3
+2016.0,Santa Barbara,FALSE,other,1555,8.5
+2016.0,Santa Barbara,FALSE,hispanic_white,6573,35.9
+2016.0,Santa Barbara,FALSE,hispanic_two_or_more_races,27,0.1
+2016.0,Santa Barbara,FALSE,hispanic_other,3544,19.3
+2016.0,Santa Clara,FALSE,aian,576,1.1
+2016.0,Santa Clara,FALSE,asian,11013,20.7
+2016.0,Santa Clara,FALSE,black_african_american,3147,5.9
+2016.0,Santa Clara,FALSE,hawaiian_pacific_islander,249,0.5
+2016.0,Santa Clara,FALSE,white,14148,26.6
+2016.0,Santa Clara,FALSE,two_or_more_races,0,0.0
+2016.0,Santa Clara,FALSE,other,0,0.0
+2016.0,Santa Clara,FALSE,hispanic_white,0,0.0
+2016.0,Santa Clara,FALSE,hispanic_two_or_more_races,0,0.0
+2016.0,Santa Clara,FALSE,hispanic_other,24140,45.3
+2016.0,Santa Cruz,FALSE,aian,26,0.2
+2016.0,Santa Cruz,FALSE,asian,15,0.1
+2016.0,Santa Cruz,FALSE,black_african_american,10,0.1
+2016.0,Santa Cruz,FALSE,hawaiian_pacific_islander,26,0.2
+2016.0,Santa Cruz,FALSE,white,493,3.4
+2016.0,Santa Cruz,FALSE,two_or_more_races,44,0.3
+2016.0,Santa Cruz,FALSE,other,6223,42.9
+2016.0,Santa Cruz,FALSE,hispanic_white,5039,34.8
+2016.0,Santa Cruz,FALSE,hispanic_two_or_more_races,162,1.1
+2016.0,Santa Cruz,FALSE,hispanic_other,2462,17.0
+2016.0,Shasta,FALSE,aian,442,3.4
+2016.0,Shasta,FALSE,asian,318,2.5
+2016.0,Shasta,FALSE,black_african_american,207,1.6
+2016.0,Shasta,FALSE,hawaiian_pacific_islander,24,0.2
+2016.0,Shasta,FALSE,white,10171,78.5
+2016.0,Shasta,FALSE,two_or_more_races,398,3.1
+2016.0,Shasta,FALSE,other,421,3.2
+2016.0,Shasta,FALSE,hispanic_white,377,2.9
+2016.0,Shasta,FALSE,hispanic_two_or_more_races,45,0.3
+2016.0,Shasta,FALSE,hispanic_other,557,4.3
+2016.0,Sierra,FALSE,aian,2,1.3
+2016.0,Sierra,FALSE,asian,0,0.0
+2016.0,Sierra,FALSE,black_african_american,0,0.0
+2016.0,Sierra,FALSE,hawaiian_pacific_islander,0,0.0
+2016.0,Sierra,FALSE,white,134,85.4
+2016.0,Sierra,FALSE,two_or_more_races,3,1.9
+2016.0,Sierra,FALSE,other,1,0.6
+2016.0,Sierra,FALSE,hispanic_white,4,2.5
+2016.0,Sierra,FALSE,hispanic_two_or_more_races,0,0.0
+2016.0,Sierra,FALSE,hispanic_other,13,8.3
+2016.0,Siskiyou,FALSE,aian,175,5.5
+2016.0,Siskiyou,FALSE,asian,60,1.9
+2016.0,Siskiyou,FALSE,black_african_american,63,2.0
+2016.0,Siskiyou,FALSE,hawaiian_pacific_islander,5,0.2
+2016.0,Siskiyou,FALSE,white,2316,73.0
+2016.0,Siskiyou,FALSE,two_or_more_races,120,3.8
+2016.0,Siskiyou,FALSE,other,120,3.8
+2016.0,Siskiyou,FALSE,hispanic_white,80,2.5
+2016.0,Siskiyou,FALSE,hispanic_two_or_more_races,6,0.2
+2016.0,Siskiyou,FALSE,hispanic_other,227,7.2
+2016.0,Solano,FALSE,aian,226,1.0
+2016.0,Solano,FALSE,asian,1543,6.9
+2016.0,Solano,FALSE,black_african_american,6780,30.2
+2016.0,Solano,FALSE,hawaiian_pacific_islander,418,1.9
+2016.0,Solano,FALSE,white,6963,31.1
+2016.0,Solano,FALSE,two_or_more_races,387,1.7
+2016.0,Solano,FALSE,other,660,2.9
+2016.0,Solano,FALSE,hispanic_white,525,2.3
+2016.0,Solano,FALSE,hispanic_two_or_more_races,69,0.3
+2016.0,Solano,FALSE,hispanic_other,4844,21.6
+2016.0,Sonoma,FALSE,aian,345,1.8
+2016.0,Sonoma,FALSE,asian,403,2.1
+2016.0,Sonoma,FALSE,black_african_american,583,3.1
+2016.0,Sonoma,FALSE,hawaiian_pacific_islander,111,0.6
+2016.0,Sonoma,FALSE,white,11181,58.6
+2016.0,Sonoma,FALSE,two_or_more_races,0,0.0
+2016.0,Sonoma,FALSE,other,125,0.7
+2016.0,Sonoma,FALSE,hispanic_white,466,2.4
+2016.0,Sonoma,FALSE,hispanic_two_or_more_races,0,0.0
+2016.0,Sonoma,FALSE,hispanic_other,5874,30.8
+2016.0,Stanislaus,FALSE,aian,147,0.4
+2016.0,Stanislaus,FALSE,asian,1513,3.6
+2016.0,Stanislaus,FALSE,black_african_american,2374,5.7
+2016.0,Stanislaus,FALSE,hawaiian_pacific_islander,183,0.4
+2016.0,Stanislaus,FALSE,white,16862,40.2
+2016.0,Stanislaus,FALSE,two_or_more_races,614,1.5
+2016.0,Stanislaus,FALSE,other,1512,3.6
+2016.0,Stanislaus,FALSE,hispanic_white,7169,17.1
+2016.0,Stanislaus,FALSE,hispanic_two_or_more_races,135,0.3
+2016.0,Stanislaus,FALSE,hispanic_other,11388,27.2
+2016.0,Sutter,FALSE,aian,42,0.7
+2016.0,Sutter,FALSE,asian,346,6.0
+2016.0,Sutter,FALSE,black_african_american,208,3.6
+2016.0,Sutter,FALSE,hawaiian_pacific_islander,13,0.2
+2016.0,Sutter,FALSE,white,2921,51.0
+2016.0,Sutter,FALSE,two_or_more_races,139,2.4
+2016.0,Sutter,FALSE,other,93,1.6
+2016.0,Sutter,FALSE,hispanic_white,398,7.0
+2016.0,Sutter,FALSE,hispanic_two_or_more_races,32,0.6
+2016.0,Sutter,FALSE,hispanic_other,1533,26.8
+2016.0,Tehama,FALSE,aian,92,2.0
+2016.0,Tehama,FALSE,asian,59,1.3
+2016.0,Tehama,FALSE,black_african_american,40,0.9
+2016.0,Tehama,FALSE,hawaiian_pacific_islander,4,0.1
+2016.0,Tehama,FALSE,white,3235,70.8
+2016.0,Tehama,FALSE,two_or_more_races,85,1.9
+2016.0,Tehama,FALSE,other,137,3.0
+2016.0,Tehama,FALSE,hispanic_white,139,3.0
+2016.0,Tehama,FALSE,hispanic_two_or_more_races,9,0.2
+2016.0,Tehama,FALSE,hispanic_other,772,16.9
+2016.0,Trinity,FALSE,aian,33,3.4
+2016.0,Trinity,FALSE,asian,22,2.3
+2016.0,Trinity,FALSE,black_african_american,5,0.5
+2016.0,Trinity,FALSE,hawaiian_pacific_islander,1,0.1
+2016.0,Trinity,FALSE,white,762,78.2
+2016.0,Trinity,FALSE,two_or_more_races,62,6.4
+2016.0,Trinity,FALSE,other,30,3.1
+2016.0,Trinity,FALSE,hispanic_white,29,3.0
+2016.0,Trinity,FALSE,hispanic_two_or_more_races,3,0.3
+2016.0,Trinity,FALSE,hispanic_other,27,2.8
+2016.0,Tulare,FALSE,aian,194,0.4
+2016.0,Tulare,FALSE,asian,361,0.7
+2016.0,Tulare,FALSE,black_african_american,794,1.5
+2016.0,Tulare,FALSE,hawaiian_pacific_islander,106,0.2
+2016.0,Tulare,FALSE,white,12163,23.4
+2016.0,Tulare,FALSE,two_or_more_races,646,1.2
+2016.0,Tulare,FALSE,other,368,0.7
+2016.0,Tulare,FALSE,hispanic_white,35008,67.5
+2016.0,Tulare,FALSE,hispanic_two_or_more_races,1516,2.9
+2016.0,Tulare,FALSE,hispanic_other,724,1.4
+2016.0,Tuolumne,FALSE,aian,40,1.3
+2016.0,Tuolumne,FALSE,asian,29,0.9
+2016.0,Tuolumne,FALSE,black_african_american,20,0.6
+2016.0,Tuolumne,FALSE,hawaiian_pacific_islander,9,0.3
+2016.0,Tuolumne,FALSE,white,2532,80.9
+2016.0,Tuolumne,FALSE,two_or_more_races,79,2.5
+2016.0,Tuolumne,FALSE,other,107,3.4
+2016.0,Tuolumne,FALSE,hispanic_white,150,4.8
+2016.0,Tuolumne,FALSE,hispanic_two_or_more_races,16,0.5
+2016.0,Tuolumne,FALSE,hispanic_other,146,4.7
+2016.0,Ventura,FALSE,aian,187,0.5
+2016.0,Ventura,FALSE,asian,784,2.1
+2016.0,Ventura,FALSE,black_african_american,984,2.7
+2016.0,Ventura,FALSE,hawaiian_pacific_islander,270,0.7
+2016.0,Ventura,FALSE,white,13720,37.0
+2016.0,Ventura,FALSE,two_or_more_races,0,0.0
+2016.0,Ventura,FALSE,other,0,0.0
+2016.0,Ventura,FALSE,hispanic_white,0,0.0
+2016.0,Ventura,FALSE,hispanic_two_or_more_races,0,0.0
+2016.0,Ventura,FALSE,hispanic_other,21145,57.0
+2016.0,Yolo,FALSE,aian,182,1.7
+2016.0,Yolo,FALSE,asian,510,4.8
+2016.0,Yolo,FALSE,black_african_american,0,0.0
+2016.0,Yolo,FALSE,hawaiian_pacific_islander,231,2.2
+2016.0,Yolo,FALSE,white,5864,55.0
+2016.0,Yolo,FALSE,two_or_more_races,0,0.0
+2016.0,Yolo,FALSE,other,0,0.0
+2016.0,Yolo,FALSE,hispanic_white,3875,36.3
+2016.0,Yolo,FALSE,hispanic_two_or_more_races,0,0.0
+2016.0,Yolo,FALSE,hispanic_other,0,0.0
+2016.0,Yuba,FALSE,aian,113,1.8
+2016.0,Yuba,FALSE,asian,321,5.2
+2016.0,Yuba,FALSE,black_african_american,266,4.3
+2016.0,Yuba,FALSE,hawaiian_pacific_islander,22,0.4
+2016.0,Yuba,FALSE,white,3722,60.6
+2016.0,Yuba,FALSE,two_or_more_races,212,3.5
+2016.0,Yuba,FALSE,other,172,2.8
+2016.0,Yuba,FALSE,hispanic_white,271,4.4
+2016.0,Yuba,FALSE,hispanic_two_or_more_races,18,0.3
+2016.0,Yuba,FALSE,hispanic_other,1024,16.7
