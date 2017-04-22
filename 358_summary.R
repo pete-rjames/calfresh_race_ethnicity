@@ -149,8 +149,6 @@ df_358_error <- df_358 %>%
 
 # export counts and percents
 
-round1 <- function(x) {round(x, 1)}
-
 race_ethnicity_levels <- c("aian",
                            "asian",
                            "black_african_american",
@@ -168,7 +166,7 @@ df_358_export_long <- df_358 %>%
   group_by(year, county, flag_yr, race_ethnicity) %>%
   summarise(households = sum(households)) %>%
   group_by(year, county) %>%
-  mutate(percent = ifelse(households == 0, 0, round1(100*households/sum(households)))) %>%
+  mutate(percent = ifelse(households == 0, 0, 100*households/sum(households))) %>%
   data.frame()
 
 # 58 county * 5 yrs * 10 race_ethnicity categories  
