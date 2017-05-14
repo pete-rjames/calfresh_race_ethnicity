@@ -1,13 +1,13 @@
 # 358 summary
 
-# libraries
+# 1. libraries
 
 library(readxl)
 library(stringr)
 library(tidyverse)
 library(janitor)
 
-# bulk download annual reports
+# 2. bulk download annual reports
 
 dir.create("../../data/358_data")
 
@@ -37,7 +37,7 @@ download_2016_S <- "http://www.cdss.ca.gov/Portals/9/DSSDB/DataTables/DFA358SJul
 download.file(download_2016_F, "../../data/358_data/358F_16.xls", mode = "wb")
 download.file(download_2016_S, "../../data/358_data/358S_16.xls", mode = "wb")
 
-# import file, validate, aggregate
+# 3. import file, validate, aggregate
 
 # 2016 format used as validation template
 
@@ -55,7 +55,7 @@ import_358F <- function(x) {
   stopifnot(all.equal(data_cell_range, df[6, 2:163]))  
   df <- df[7:65, 1:163]
   df <- df %>%
-    mutate_each(funs(as.integer), -X1) %>%
+    mutate_each(funs(as.integer), -X__1) %>%
     mutate(year = 2000 + as.numeric((x))) %>%
     mutate(report = "federal")
   return(df)
@@ -74,7 +74,7 @@ import_358S <- function(x) {
   stopifnot(all.equal(data_cell_range, df[6, 2:163]))  
   df <- df[7:65, 1:163]
   df <- df %>%
-    mutate_each(funs(as.integer), -X1) %>%
+    mutate_each(funs(as.integer), -X__1) %>%
     mutate(year = 2000 + as.numeric((x))) %>%
     mutate(report = "state")
   return(df)
@@ -88,9 +88,10 @@ df_358S <- do.call(rbind.data.frame, import_list_state)
 df_358 <- rbind.data.frame(df_358F, df_358S)
 
 df_358 <- df_358 %>%
-  rename(county = X1) %>%
+  rename(county = X__1) %>%
   select(county, year, report, everything()) %>%
-  gather(key = variable, value = households, X2:X163)
+  gather(key = variable, value = households, X__2:X__163) %>%
+  mutate(variable = gsub("__", "", variable))
 
 # add flag_yr variable
 # flag if either federal and/or state report has warning flag
@@ -104,7 +105,6 @@ df_358 <- df_358 %>%
 # add varnames
 
 variable_names_358 <- read_csv("variable_names_358.csv", col_names = TRUE)
-
 df_358 <- left_join(df_358, variable_names_358, by = "variable") 
   
 # prelim_validation 
@@ -147,6 +147,52 @@ df_358_error <- df_358 %>%
 
 # reporting errors occuring from 2007 - 2011
 
+# 4. exports and plots
+
+# export nonreports percents
+
+df_358_nonreports <- df_358 %>%
+  filter(race_ethnicity != "total" & year > 2011) %>%
+  group_by(year, county, data_cell) %>%
+  summarise(households = sum(households)) %>%
+  group_by(year, county) %>%
+  mutate(percent = ifelse(households == 0, 0, 100*households/sum(households))) %>%
+  filter(data_cell %in% c(153, 156)) %>%
+  ungroup() %>%
+  select(- data_cell) %>%
+  group_by(year, county) %>%
+  summarise(households = sum(households), percent = sum(percent)) %>%
+  data.frame()
+
+df_358_non_reports_wide <- df_358_nonreports %>%
+  select(year, county, percent) %>%
+  group_by(year, county) %>%
+  spread(key = year, value = percent)
+
+write_csv(df_358_non_reports_wide,"358_2012_2016_nonreports_wide_percent.csv")
+
+ggplot(df_358_nonreports[df_358_nonreports$county == "Statewide",],
+       aes(x = year, y = percent)) + 
+  geom_line()  +
+  geom_point(size = 1) +
+  ylim(0,30) + 
+  xlab("") +
+  ggtitle("Percent CalFresh households race non-reported, 2012 - 2016") +
+  theme(plot.title = element_text(hjust = 0.5)) 
+
+ggsave("calfresh_race_nonreport_2012_2016.PNG")
+
+ggplot(df_358_nonreports[df_358_nonreports$year == 2016 &
+                           df_358_nonreports$county != "Statewide",],
+       aes(x = reorder(county, percent), y = percent)) +
+  coord_flip() +
+  geom_point(size = 1.5, aes(color = percent)) + 
+  xlab("") +
+  ggtitle("Percent CalFresh households race non-reported, by county, 2016") +
+  theme(plot.title = element_text(hjust = 0.5))   
+
+ggsave("calfresh_race_nonreport_county_2016.PNG")
+
 # export counts and percents
 
 race_ethnicity_levels <- c("aian",
@@ -160,8 +206,12 @@ race_ethnicity_levels <- c("aian",
                            "hispanic_two_or_more_races",
                            "hispanic_other")
 
+county_levels <- unique(as.character(df_358$county[df_358$county != "Statewide"])) 
+county_levels <- c(county_levels, "Statewide")
+
 df_358_export_long <- df_358 %>%
-  filter(race_ethnicity != "total" & county != "Statewide" & year > 2011) %>%
+  filter(race_ethnicity != "total" & year > 2011) %>%
+  mutate(county = factor(county, levels = county_levels, ordered = TRUE)) %>%
   mutate(race_ethnicity = factor(race_ethnicity, levels = race_ethnicity_levels, ordered = TRUE)) %>%
   group_by(year, county, flag_yr, race_ethnicity) %>%
   summarise(households = sum(households)) %>%
@@ -169,35 +219,47 @@ df_358_export_long <- df_358 %>%
   mutate(percent = ifelse(households == 0, 0, 100*households/sum(households))) %>%
   data.frame()
 
-# 58 county * 5 yrs * 10 race_ethnicity categories  
-nrow(df_358_export_long) == 58*5*10      
+# 59 county * 5 yrs * 10 race_ethnicity categories
+nrow(df_358_export_long) == 59*5*10
 
 df_358_export_wide_count <- df_358_export_long %>%
   select(- percent) %>%
-  spread(key = race_ethnicity, value = households) 
+  spread(key = race_ethnicity, value = households)
 
 df_358_export_wide_percent <- df_358_export_long %>%
   select(- households) %>%
-  spread(key = race_ethnicity, value = percent) 
+  spread(key = race_ethnicity, value = percent)
 
 write_csv(df_358_export_long,"358_2012_2016_long.csv")
 write_csv(df_358_export_wide_count,"358_2012_2016_wide_count.csv")
 write_csv(df_358_export_wide_percent,"358_2012_2016_wide_percent.csv")
 
-# plots
-
-# counts by race and ethnicity 
+# plot df
 
 plot_358 <- df_358 %>%
-  filter(year > 2011 & race_ethnicity != "total") %>%
-  mutate(race_ethnicity = factor(race_ethnicity, levels = race_ethnicity_levels, ordered = TRUE)) %>%
+  filter(race_ethnicity != "total" & year > 2011) %>%
   group_by(year, county, flag_yr, race_ethnicity) %>%
   summarise(households = sum(households)) %>%
   group_by(year, county) %>%
-  mutate(percent = ifelse(households == 0, 0, round1(100*households/sum(households)))) %>%
+  mutate(percent = ifelse(households == 0, 0, 100*households/sum(households))) %>%
   data.frame()
 
-ggplot(plot_358[plot_358$county == "Statewide" & plot_358$percent > 5,],
+# percent race_ethnicity in 2016
+
+ggplot(plot_358[plot_358$county == "Statewide" & plot_358$year == 2016,],
+       aes(x = reorder(race_ethnicity, percent), y = percent, group = race_ethnicity)) +
+  geom_bar(stat = "identity", aes(fill = race_ethnicity)) +
+  coord_flip() +
+  xlab("") + 
+  guides(fill=FALSE) + 
+  ggtitle("CalFresh households by race & ethnicity, 2016") +
+  theme(plot.title = element_text(hjust = 0.5))   
+
+ggsave("calfresh_race_ethnicity_2016.PNG")
+
+# counts by race and ethnicity 
+
+ggplot(plot_358[plot_358$county == "Statewide" & plot_358$percent[plot_358$year == 2016] > 5,],
        aes(x = year, y = (households/1000), group = race_ethnicity)) +
   geom_line(aes(color = race_ethnicity), size = 1) +
   ylab("households (thousands)") +
@@ -206,7 +268,7 @@ ggplot(plot_358[plot_358$county == "Statewide" & plot_358$percent > 5,],
   theme(plot.title = element_text(hjust = 0.5), 
         plot.subtitle = element_text(hjust = 0.5))
 
-ggsave("calfresh_ts.PNG")
+ggsave("calfresh_race_ethnicity_2012_2016.PNG")
 
 # hispanic proportion by county, 2016
 
@@ -221,7 +283,7 @@ str(calfips)
 
 choro_plot <- plot_358 %>%
   filter(year == 2016 & county != "Statewide") %>%
-  filter(race_ethnicity %in% levels(race_ethnicity)[8:10]) %>%
+  filter(grepl("hispanic", race_ethnicity) == TRUE) %>%
   mutate(county = tolower(county)) %>%
   group_by(county) %>%
   summarise(value = sum(percent)) %>%
@@ -234,8 +296,10 @@ county_choropleth(choro_plot,
                   state_zoom = "california",
                   title = "Percentage CalFresh households that are hispanic/latino, 2016")
 
-ggsave("choro_hispanic.PNG")
+ggsave("calfresh_hispanic_percent_county_2016.PNG")
 
 detach("package:choroplethr", unload=TRUE)
 detach("package:choroplethrMaps", unload=TRUE)
 detach("package:acs", unload=TRUE)
+
+# end
