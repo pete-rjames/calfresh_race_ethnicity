@@ -18,8 +18,8 @@ This repo contains an R script that:
   
 The plot below highlights five-year trends for some of the most common race and ethnic groups:
 
-![My image](https://github.com/pete-rjames/calfresh_race_ethnicity/blob/master/calfresh_ts.PNG)
+![My image](https://github.com/pete-rjames/calfresh_race_ethnicity/blob/master/calfresh_race_ethnicity_2012_2016.PNG)
 
 And this map shows the proportion of households that are hispanic/latino in each California county, based on the most recent data from 2016.
 
-![My image](https://github.com/pete-rjames/calfresh_race_ethnicity/blob/master/choro_hispanic.PNG)
+![My image](https://github.com/pete-rjames/calfresh_race_ethnicity/blob/master/calfresh_hispanic_percent_county_2016.PNG)
